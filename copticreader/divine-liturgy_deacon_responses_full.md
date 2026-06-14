@@ -1,11 +1,11 @@
-# Divine Liturgy Deacon Responses – Full Table
+# Divine Liturgy (St. Basil) Deacon Responses - Coptic Reader Edition
 | Response Name | English | Coptic | Arabic | Coptic English Transliteration |
 |---------------|---------|--------|--------|-------------------------------|
-| **Offertory** |  |  |  |  |
+| **Offertory @** |  |  |  |  |
 | The Oblations | Pray for these holy and precious gifts, our sacrifices, and those who have brought them. Lord have mercy. | Ⲡⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲱⲛ ⲁ̀ⲅⲓⲱⲛ ⲧⲓⲙⲓⲱⲛ ⲇⲱⲣⲟⲛ ⲧⲟⲩⲧⲱⲛ ⲕⲉ ⲑⲩⲥⲓⲱⲛ ⲏ̀ⲙⲱⲛ ⲕⲉ ⲡⲣⲟⲥⲫⲉⲣⲟⲛⲧⲱⲛ: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ. | صلوا من أجل هذه القرابين المقدسة الكريمة وضحايانا والذين قدموها. يا رب ارحم. | Proservxasthe iper ton agion timiōn dōron touton ke thision imon ke prosferonton. Kirie eleison. |
 | One is the holy Father - Yes Pateer | One is the holy Father, one is the holy Son, one is the Holy Spirit. Amen. Blessed be the Lord God forever. Amen. Praise the Lord all you nations, praise Him all you peoples, for His mercy is confirmed upon us, and the truth of the Lord endures forever. Amen alleluia. | Ⲁ̀ⲙⲏⲛ. Ⲓⲥ Ⲡⲁⲧⲏⲣ ⲁ̀ⲅⲓⲟⲥ: ⲓⲥ Ⲩ̀ⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ: ⲉⲛ Ⲡ̀ⲛⲉⲩⲙⲁ Ⲁ̀ⲅⲓⲟⲛ. Ⲁ̀ⲙⲏⲛ. Ⲉⲩⲗⲟⲅⲓⲧⲟⲥ Ⲕⲩⲣⲓⲟⲥ ⲟ̀ Ⲑⲉⲟⲥ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ. Ⲁ̀ⲙⲏⲛ. Ⲛⲓⲉⲑⲛⲟⲥ ⲧⲏⲣⲟⲩ ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡ̀ⲟ̅ⲥ̅: ⲙⲁⲣⲟⲩⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ⲛ̀ϫⲉ ⲛⲓⲗⲁⲟⲥ ⲧⲏⲣⲟⲩ: ϫⲉ ⲁ̀ ⲡⲉϥⲛⲁⲓ ⲧⲁϫⲣⲟ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ: ⲟⲩⲟϩ ϯⲙⲉⲑⲙⲏⲓ ⲛ̀ⲧⲉ Ⲡ̀ⲟ̅ⲥ̅ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ. Ⲁ̀ⲙⲏⲛ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. | واحد هو الآب القدوس، واحد هو الابن القدوس، واحد هو الروح القدس. آمين. مبارك الرب الإله إلى الأبد. آمين. يا جميع الأمم باركوا الرب. ولتباركه جميع الشعوب. لأن رحمته ثبتت علينا. وحق الرب يدوم إلى الأبد. آمين هلليلويا. | Amin. Is Patir agios, is Eios agios, en Epnevma Agion. Amin. Evlogitos Kirios o Theos is tous eonas. Amin. Niethenos tiru esmou ePoc, marou esmou erof enje nilaos tiru, je a pefnai tagro ehri egon, ouoh timetmi ente Poc shop sha eneh. Amin allilouia. |
 | Pray that God - Tovhina | Pray that God may have mercy and compassion on us, hear us, help us and accept the supplications and prayers of His saints for that which is good on our behalf at all times. And make us worthy to partake of the communion of His holy and blessed mysteries, for the remission of our sins. | Ⲧⲱⲃϩ ϩⲓⲛⲁ ⲛ̀ⲧⲉ Ⲫϯ ⲛⲁⲓ ⲛⲁⲛ: ⲛ̀ⲧⲉϥϣⲉⲛϩⲏⲧ ϧⲁⲣⲟⲛ: ⲛ̀ⲧⲉϥⲥⲱⲧⲉⲙ ⲉ̀ⲣⲟⲛ: ⲛ̀ⲧⲉϥⲉⲣⲃⲟⲏⲑⲓⲛ ⲉ̀ⲣⲟⲛ: ⲛ̀ⲧⲉϥϭⲓ ⲛ̀ⲛⲓϯϩⲟ ⲛⲉⲙ ⲛⲓⲧⲱⲃϩ ⲛ̀ⲧⲉ ⲛⲏ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲧⲁϥ ⲛ̀ⲧⲟⲧⲟⲩ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ ⲉ̀ⲡⲓⲁ̀ⲅⲁⲑⲟⲛ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ. Ⲛ̀ⲧⲉϥⲁⲓⲧⲉⲛ ⲛ̀ⲉⲙⲡ̀ϣⲁ ⲉⲑⲣⲉⲛϭⲓ ⲉ̀ⲃⲟⲗϧⲉⲛ ϯⲕⲟⲓⲛⲱⲛⲓⲁ ⲛ̀ⲧⲉ ⲛⲉϥⲙⲩⲥⲧⲏⲣⲓⲟⲛ ⲉ̅ⲑ̅ⲩ̅: ⲉⲧ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲉ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ. |  اطلبوا لكي يرحمنا الله، ويترأف علينا، ويسمعنا، ويعيننا، ويقبل سؤالات وطلبات قديسيه منهم بالصلاح عنا في كل حين. ويجعلنا مستحقين أن ننال من شركة أسراره المقدسة المباركة، لمغفرة خطايانا. | Tovh hina ente Efnouti nai nan, entefsheneet kharon, entefsōtem eron, entefervoi-thin eron, entefchi ennitiho nem nitovh ente ni ethouav entaf entotou ehri egon epiagathon ensiyou niven. Entefaiten enempsha ethrenji ebol-khen tikoinōnia ente nefmistirion ethowav etesmarowout epikhō evol ente nennobi. |
-| **Liturgy of the Believers** |  |  |  |
+| **Liturgy of the Believers @~** |  |  |  |
 | In the wisdom of God | In the wisdom of God, let us attend. Lord have mercy. Lord have mercy. Truly We believe | Ⲉⲛⲥⲟⲫⲓⲁ Ⲑⲉⲟⲩ ⲡ̀ⲣⲟⲥⲭⲱⲙⲉⲛ. Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ. Ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ | إنصتوا بحكمة الله. يا رب إرحم، يا ربُّ إرحَم. بالحقيقة نؤمن  | Ensofia tha eprockhomain, kerya laysoon, kerya laysoon, khain o methme| 
 | Reconciliation Prayer | Pray for perfect peace, love, and the holy apostolic kisses. | Ⲡ̀ⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲏⲥ ⲧⲉⲗⲓⲁⲥ ⲓ̀ⲣⲏⲛⲏⲥ ⲕⲉ ⲁ̀ⲅⲁⲡⲏⲥ ⲕⲉ ⲧⲱⲛ ⲁ̀ⲅⲓⲱⲛ ⲁⲥⲡⲁⲥⲙⲟⲛ ⲁ̀ⲡⲟⲥⲧⲟⲗⲱⲛ. | صلُّوا من أجلِ السلامِ الكاملِ، والمحبةِ، والقُبْلاتِ الطاهرةِ الرسوليةِ. | Pros-ev-xasthe iper tees telias irinies ke agapis ke ton agion aspasmōn apostolon. |
 | Greet one another | Greet one another with a holy kiss. Lord have mercy. Lord have mercy. Lord have mercy. Yea, Lord, who are Jesus Christ, the Son of God, hear us and have mercy upon us. Offer in order. Stand with trembling. Look towards the East. Let us attend. | Ⲁⲥⲡⲁⲍⲉⲥⲑⲉ ⲁⲗⲗⲏⲗⲟⲩⲥ ⲉⲛ ⲫⲓⲗⲏⲙⲁⲧⲓ ⲁ̀ⲅⲓⲱ. Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ. Ⲥⲉ Ⲕⲩⲣⲓⲉ: ⲉ̀ⲧⲉ ⲫⲁⲓ ⲡⲉ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡ̀ϣⲏⲣⲓ ⲙ̀Ⲫ̀ⲛⲟⲩϯ ⲥⲱⲧⲉⲙ ⲉ̀ⲣⲟⲛ ⲟⲩⲟϩ ⲛⲁⲓ ⲛⲁⲛ. Ⲡ̀ⲣⲟⲥⲫⲉⲣⲓⲛ ⲕⲁⲧⲁ ⲧ̀ⲣⲟⲡⲟⲛ: ⲥ̀ⲧⲁⲑⲏⲧⲉ ⲕⲁⲧⲁ ⲧ̀ⲣⲟⲙⲟⲩ: ⲓⲥ ⲁ̀ⲛⲁⲧⲟⲗⲁⲥ ⲃ̀ⲗⲉⲯⲁⲧⲉ: Ⲡ̀ⲣⲟⲥⲭⲱⲙⲉⲛ. | قبِّلوا بعضَكُمْ بعضاً بقُبلةٍ مقدسةٍ. يا ربُّ إرحَم، يا ربُّ إرحَم، يا ربُّ إرحَم. نعم يا ربُّ، الذي هو يسوعُ المسيحُ إبنُ اللهِ، إسمعْنا وإرحّمْنا. تقدموا على الرسمِ، قفوا برعدةٍ، وإلى الشرق أنظروا. ننصِتْ. | Aspazesthe allilous en filimati agio. Kirie eleison, Kirie eleison, Kirie eleison. Se Kirie, ete fai pe Iisous Pikhristos Epshiri emEfnouti sotem eron ouoh nai nan. Prosferin kata etropon, estathite kata etromou, is anatolas vlepsate, Pros-khomen. |
@@ -33,9 +33,9 @@
 
 
 <!--
-Each response will be filled in with its full text in all four columns. Data will be extracted from https://tasbeha.org/hymn_library/cat/203 and subpages.
+Coptic Reader edition keeps the complete text while using the same compact table structure.
 -->
 
 ---
 
-*For a summary, see divine-liturgy_deacon_responses_contents.md.*
+*Source: copticreader.org (St. Basil).*

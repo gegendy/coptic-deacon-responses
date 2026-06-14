@@ -1,0 +1,2869 @@
+Page Title: Coptic Reader
+URL: https://copticreader.org/app/#/document
+Snapshot: 
+- <changed> generic [ref=e5]:
+  - ref=e21 [unchanged]
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - group [active]
+- <changed> iframe [ref=e21]:
+  - generic [active] [ref=f1e1]:
+    - generic [ref=f1e2]:
+      - generic [ref=f1e3]: The Divine Liturgy According to Saint Basil the Great
+      - generic [ref=f1e4]: Ϯⲁ̀ⲛⲁⲫⲟⲣⲁ ⲛ̀ⲧⲉ Ⲡⲓⲁ̀ⲅⲓⲟⲥ Ⲙⲉⲅⲁⲗⲟ Ⲃⲁⲥⲓⲗⲓⲟⲥ
+      - generic [ref=f1e5]: قداس القديس باسيليوس الكبير
+    - generic [ref=f1e7]: The sermon may be delivered.
+    - generic [ref=f1e8]:
+      - generic [ref=f1e9]: The serving priest says the following Prayer of the Veil inaudibly as he stands before the veil of the sanctuary with his head bowed toward the East.
+      - generic [ref=f1e10]: "يقول الكاهن الخديم نفسه صلاة الحجاب سراً وهو واقف مقابل حجاب المذبح مطامن الرأس إلى الشرقِ وهي هذه:"
+    - table [ref=f1e13]:
+      - rowgroup [ref=f1e14]:
+        - row "Prayer of the Veil (صلاة الحجاب)" [ref=f1e15]:
+          - cell [ref=f1e16]:
+            - img [ref=f1e17]
+          - cell "Prayer of the Veil (صلاة الحجاب)" [ref=f1e18]:
+            - button "Prayer of the Veil (صلاة الحجاب)" [ref=f1e19]:
+              - text: Prayer of the Veil
+              - text: (صلاة الحجاب)
+    - generic [ref=f1e21]: "The response to the Gospel is chanted:"
+    - table [ref=f1e24]:
+      - rowgroup [ref=f1e25]:
+        - row "Gospel Response (Ⲱⲟⲩⲛⲓⲁⲧⲟⲩ...)" [ref=f1e26]:
+          - cell [ref=f1e27]:
+            - img [ref=f1e28]
+          - cell "Gospel Response (Ⲱⲟⲩⲛⲓⲁⲧⲟⲩ...)" [ref=f1e29]:
+            - button "Gospel Response (Ⲱⲟⲩⲛⲓⲁⲧⲟⲩ...)" [ref=f1e30]:
+              - text: Gospel Response
+              - text: (Ⲱⲟⲩⲛⲓⲁⲧⲟⲩ...)
+    - generic [ref=f1e31]:
+      - generic [ref=f1e32]:
+        - generic [ref=f1e33]:
+          - generic [ref=f1e34]: "People:"
+          - text: Blessed are they in truth, the saints of this day, each one according to his name, the beloved of Christ.
+        - generic [ref=f1e35]:
+          - generic [ref=f1e36]: "Ⲡⲓⲗⲁⲟⲥ:"
+          - text: "Ⲱⲟⲩⲛⲓⲁⲧⲟⲩ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ: ⲛⲏⲉⲑⲟⲩⲁⲃ ⲛ̀ⲧⲉ ⲡⲁⲓⲉ̀ϩⲟⲟⲩ: ⲡⲓⲟⲩⲁⲓ ⲡⲓⲟⲩⲁⲓ ⲕⲁⲧⲁ ⲡⲉϥⲣⲁⲛ: ⲛⲓⲙⲉⲛⲣⲁϯ ⲛ̀ⲧⲉ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ."
+        - generic [ref=f1e37]:
+          - generic [ref=f1e38]: "الشعبُ:"
+          - text: طوباهم بالحقيقة قديسو هذا اليوم كل واحد بإسمه احباء المسيح.
+      - generic [ref=f1e39]:
+        - generic [ref=f1e40]: Intercede on our behalf, O Lady of us all the Theotokos, Mary the Mother of our Savior, that He may forgive us our sins.
+        - generic [ref=f1e41]: "Ⲁⲣⲓⲡ̀ⲣⲉⲥⲃⲉⲩⲓⲛ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ: ⲱ̀ ⲧⲉⲛϭⲟⲓⲥ ⲛ̀ⲛⲏⲃ ⲧⲏⲣⲉⲛ ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ: Ⲙⲁⲣⲓⲁ ⲑ̀ⲙⲁⲩ ⲙ̀ⲡⲉⲛⲥⲱⲧⲏⲣ: ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ."
+        - generic [ref=f1e42]: أشفعي فينا يا سيدتنا كلنا السيدة والدة الإله مريم أم مخلصنا ليغفر لنا خطايانا.
+      - generic [ref=f1e44]: "For the Fast of the Apostles:"
+      - generic [ref=f1e45]:
+        - generic [ref=f1e46]: "Pray to the Lord on our behalf: O my lords and fathers the apostles: and the rest of the disciples: that He may forgive us our sins."
+        - generic [ref=f1e47]: "Ⲧⲱⲃϩ ⲙ̀Ⲡⲟ︦ⲥ︦ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ: ⲱ̀ ⲛⲁⲟ︦ⲥ︦ ⲛ̀ⲓⲟϯ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ: ⲛⲉⲙ ⲡ̀ⲥⲉⲡⲓ ⲛ̀ⲧⲉ ⲛⲓⲙⲁⲑⲏⲧⲏⲥ: ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ."
+        - generic [ref=f1e48]: اطلبوا من الرب عنا ياسادتى الآباء الرسل وبقية التلاميذ ليغفر لنا خطايانا
+      - generic [ref=f1e50]: "For the Commemoration of St. Eskhyron:"
+      - generic [ref=f1e51]:
+        - generic [ref=f1e52]: Pray to the Lord on our behalf, / O struggle-mantled martyr, / Abba Eskhyron of Callin, / that He may forgive us our sins.
+        - generic [ref=f1e53]: "Ⲧⲱⲃϩ ⲙ̀Ⲡϭⲟⲓⲥ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ: ⲱ̀ ⲡⲓⲁⲑⲗⲟⲫⲟⲣⲟⲥ ⲙ̀ⲙⲁⲣⲧⲩⲣⲟⲥ: ⲁ̀ⲡⲁ Ⲓⲥⲭⲩⲣⲟⲛ ⲛ̀ⲣⲉⲙⲔⲁⲗⲗⲓⲛ: ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ."
+        - generic [ref=f1e54]: أطلب من الرب عنا، أيها الشهيد المجاهد، ابا اسخيرون القليني، ليغفر لنا خطايانا.
+      - generic [ref=f1e55]:
+        - generic [ref=f1e56]: Blessed be the Father and the Son / and the Holy Spirit / the perfect Trinity / we worship Him and glorify Him.
+        - generic [ref=f1e57]: "Ϫⲉ ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ Ⲫⲓⲱⲧ ⲛⲉⲙ Ⲡϣⲏⲣⲓ: ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ: Ϯⲧ̀ⲣⲓⲁⲥ ⲉⲧϫⲏⲕ ⲉ̀ⲃⲟⲗ: ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲥ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲁⲥ."
+        - generic [ref=f1e58]: لأنَّهُ مُبارَكٌ الآبُ والابنُ، والرُّوحُ القدُسُ، الثالوثُ الكامِلُ، نسجُدُ لهُ ونمجِّدُهُ.
+    - generic [ref=f1e59]:
+      - generic [ref=f1e60]: The priest, having made a prostration to the East before the sanctuary door, receives absolution from the Pope, a metropolitan, or a bishop, making a prostration to them, if any of them is present. Then he makes a prostration to his brethren the priests, embraces them, and asks of them absolution and prayer on his behalf. Then he ascends to the sanctuary and kisses the altar. And he focuses his mind that he may be humble of heart. Then he stands at the west side of the altar facing East.
+      - generic [ref=f1e61]: يسجد الكاهن تجاه الشرق أمام باب الهيكل. ويضرب المطانية للبابا أو المطران أو الأسقف إذا كان أحدهم حاضراً، ليتلقَّى منه الحِلَّ. ثم يضرب المطانية لإخوته الكهنة ويُصافحهم ويسألهم الحِلَّ والصلاة من أجله. ثم يصعد إلى الهيكل، ويُقبِّل المذبح بفمه. ويجمع عقله، ويكون متخشع القلب. ويقف غربي المذبح متجها إلى الشرق.
+    - generic [ref=f1e62]:
+      - generic [ref=f1e63]: "Then he says:"
+      - generic [ref=f1e64]: "ثم يقول الكاهن:"
+    - generic [ref=f1e65]:
+      - generic [ref=f1e66]: Three Great Litanies
+      - generic [ref=f1e67]: الثلاث الأواشي الكبار
+    - generic [ref=f1e68]:
+      - generic [ref=f1e69]:
+        - generic [ref=f1e70]: "Priest:"
+        - text: Let us pray.
+      - generic [ref=f1e71]:
+        - generic [ref=f1e72]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: Ϣⲗⲏⲗ.
+      - generic [ref=f1e73]:
+        - generic [ref=f1e74]: "الكاهنُ:"
+        - text: صلوا.
+    - generic [ref=f1e75]:
+      - generic [ref=f1e76]:
+        - generic [ref=f1e77]: "Deacon:"
+        - text: Stand up for prayer.
+      - generic [ref=f1e78]:
+        - generic [ref=f1e79]: "Ⲡⲓⲇⲓⲁⲕⲱⲛ:"
+        - text: Ⲉⲡⲓ ⲡ̀ⲣⲟⲥⲉⲩⲭⲏ ⲥ̀ⲧⲁⲑⲏⲧⲉ.
+      - generic [ref=f1e80]:
+        - generic [ref=f1e81]: "الشماس:"
+        - text: للصلاة قفوا.
+    - generic [ref=f1e82]:
+      - generic [ref=f1e83]: "The priest bows his head toward his fellow priests, and, while turning toward the west, he makes the sign of the cross over the people with his right hand, and says:"
+      - generic [ref=f1e84]: "ثم يحنى الكاهن رأسه نحو إخوته الكهنة، ويلتفت إلى الغرب ويرشم الشعب بيده اليمنى بمثال الصليب وهو يقول:"
+    - generic [ref=f1e85]:
+      - generic [ref=f1e86]:
+        - generic [ref=f1e87]: "Priest:"
+        - text: Peace be with all.
+      - generic [ref=f1e88]:
+        - generic [ref=f1e89]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: Ⲓⲣⲏⲛⲏ ⲡⲁⲥⲓ.
+      - generic [ref=f1e90]:
+        - generic [ref=f1e91]: "الكاهنُ:"
+        - text: السلام للكل.
+    - generic [ref=f1e92]:
+      - generic [ref=f1e93]:
+        - generic [ref=f1e94]: "People:"
+        - text: And with your spirit.
+      - generic [ref=f1e95]:
+        - generic [ref=f1e96]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ ⲥⲟⲩ.
+      - generic [ref=f1e97]:
+        - generic [ref=f1e98]: "الشعبُ:"
+        - text: ولروحك أيضاً.
+    - table [ref=f1e101]:
+      - rowgroup [ref=f1e102]:
+        - row "Litany of Peace (أوشية السلام)" [ref=f1e103]:
+          - cell [ref=f1e104]:
+            - img [ref=f1e105]
+          - cell "Litany of Peace (أوشية السلام)" [ref=f1e106]:
+            - button "Litany of Peace (أوشية السلام)" [ref=f1e107]:
+              - text: Litany of Peace
+              - text: (أوشية السلام)
+    - generic [ref=f1e108]:
+      - generic [ref=f1e109]:
+        - generic [ref=f1e110]:
+          - generic [ref=f1e111]: "Priest:"
+          - text: Again, let us ask God the Pantocrator, the Father of our Lord, God, and Savior Jesus Christ.
+        - generic [ref=f1e112]:
+          - generic [ref=f1e113]: "Ⲡⲓⲟⲩⲏⲃ:"
+          - text: "Ⲡⲁⲗⲓⲛ ⲟⲛ ⲙⲁⲣⲉⲛϯϩⲟ ⲉ̀Ⲫⲛⲟⲩϯ ⲡⲓⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ: Ⲫⲓⲱⲧ ⲙ̀Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ Ⲡⲉⲛⲛⲟⲩϯ ⲟⲩⲟϩ ⲡⲉⲛⲥⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ."
+        - generic [ref=f1e114]:
+          - generic [ref=f1e115]: "الكاهنُ:"
+          - text: وأيضاً فلنسألْ اللهَ ضابطَ الكلِّ، أبا ربِّنا وإلهِنا ومخلِّصِنا يسوعَ المسيح.
+      - generic [ref=f1e116]:
+        - generic [ref=f1e117]: We ask and entreat Your goodness, O Lover of Mankind, remember, O Lord, the peace of Your one, only, holy, catholic, and apostolic Church—
+        - generic [ref=f1e118]: "Ⲧⲉⲛϯϩⲟ ⲟⲩⲟϩ ⲧⲉⲛⲧⲱⲃϩ ⲛ̀ⲧⲉⲕⲙⲉⲧⲁ̀ⲅⲁⲑⲟⲥ ⲡⲓⲙⲁⲓⲣⲱⲙⲓ: ⲁ̀ⲣⲓⲫ̀ⲙⲉⲩⲓ̀ Ⲡϭⲟⲓⲥ ⲛ̀ϯϩⲓⲣⲏⲛⲏ ⲛ̀ⲧⲉ ⲧⲉⲕⲟⲩⲓ̀ ⲙ̀ⲙⲁⲩⲁⲧⲥ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲕⲁⲑⲟⲗⲓⲕⲏ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲓⲕⲏ ⲛ̀ⲉⲕⲕ̀ⲗⲏⲥⲓⲁ̀."
+        - generic [ref=f1e119]: نسأَلُ ونطلُبُ من صلاحِك يا محبَّ البشرِ، أذكر ياربُّ سلامَ كنيستِك الواحدةِ الوحيدةِ المقدسةِ الجامعةِ الرسوليةِ.
+      - generic [ref=f1e120]:
+        - generic [ref=f1e121]:
+          - generic [ref=f1e122]: "Deacon:"
+          - text: Pray for the peace of the one, holy, catholic, and apostolic orthodox Church of God.
+        - generic [ref=f1e123]:
+          - generic [ref=f1e124]: "Ⲡⲓⲇⲓⲁⲕⲱⲛ:"
+          - text: Ⲡⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲏⲥ ⲓ̀ⲣⲏⲛⲏⲥ ⲧⲏⲥ ⲁ̀ⲅⲓⲁⲥ ⲙⲟⲛⲏⲥ ⲕⲁⲑⲟⲗⲓⲕⲏⲥ ⲕⲉ ⲁ̀ⲡⲟⲥⲧⲟⲗⲓⲕⲏⲥ ⲟⲣⲑⲟⲇⲟⲝⲟⲩ ⲧⲟⲩ Ⲑⲉⲟⲩ ⲉⲕⲕ̀ⲗⲏⲥⲓⲁ̀ⲥ.
+        - generic [ref=f1e125]:
+          - generic [ref=f1e126]: "الشماس:"
+          - text: صلوا من أجلِ سلامِ الواحدةِ المقدسةِ الجامعةِ الرسوليةِ كنيسةِ الله الارثوذكسية.
+      - generic [ref=f1e127]:
+        - generic [ref=f1e128]:
+          - generic [ref=f1e129]: "People:"
+          - text: Lord have mercy.
+        - generic [ref=f1e130]:
+          - generic [ref=f1e131]: "Ⲡⲓⲗⲁⲟⲥ:"
+          - text: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.
+        - generic [ref=f1e132]:
+          - generic [ref=f1e133]: "الشعبُ:"
+          - text: يارب إرحم.
+      - generic [ref=f1e134]:
+        - generic [ref=f1e135]:
+          - generic [ref=f1e136]: "Priest:"
+          - text: this which exists from one end of the world to the other.
+        - generic [ref=f1e137]:
+          - generic [ref=f1e138]: "Ⲡⲓⲟⲩⲏⲃ:"
+          - text: Ⲑⲁⲓ ⲉⲧϣⲟⲡ ⲓⲥϫⲉⲛ ⲁⲩⲣⲏϫⲥ ⲛ̀ϯⲟⲓⲕⲟⲩⲙⲉⲛⲏ ϣⲁ ⲁⲩⲣⲏϫⲥ.
+        - generic [ref=f1e139]:
+          - generic [ref=f1e140]: "الكاهنُ:"
+          - text: هذه الكائنةِ من أقصي المسكونةِ إلى أقصاها.
+      - generic [ref=f1e141]:
+        - generic [ref=f1e142]: All peoples and all flocks, bless. The heavenly peace, send down into all our hearts;
+        - generic [ref=f1e143]: "Ⲛⲓⲗⲁⲟⲥ ⲧⲏⲣⲟⲩ ⲛⲉⲙ ⲛⲓⲟ̀ϩⲓ ⲧⲏⲣⲟⲩ ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲱⲟⲩ: ϯϩⲓⲣⲏⲛⲏ ϯⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ: ⲙⲏⲓⲥ ⲉ̀ϧ̀ⲣⲏⲓ ⲉ̀ⲛⲉⲛϩⲏⲧ ⲧⲏⲣⲟⲩ."
+        - generic [ref=f1e144]: كلَّ الشعوبِ وكلَّ القُطعانِ. باركْهم. السلامَ الذي من السمواتِ أنزلْهُ على قلوبِنا جميعاً.
+      - generic [ref=f1e145]:
+        - generic [ref=f1e146]: even the peace of this life, graciously grant to us.
+        - generic [ref=f1e147]: "Ⲁⲗⲗⲁ ⲛⲉⲙ ϯⲕⲉϩⲓⲣⲏⲛⲏ ⲛ̀ⲧⲉ ⲡⲁⲓⲃⲓⲟⲥ ⲫⲁⲓ: ⲁ̀ⲣⲓⲭⲁⲣⲓⲍⲉⲥⲑⲉ ⲙ̀ⲙⲟⲥ ⲛⲁⲛ ⲛ̀ϩ̀ⲙⲟⲧ."
+        - generic [ref=f1e148]: بل وسلامَ هذا العمرِ أَنْعِمْ بِه علينا إنعاماً.
+      - generic [ref=f1e149]:
+        - generic [ref=f1e150]: The king (leader), the armies, the rulers, the counselors, the multitudes, our neighbors, our coming in and our going out, adorn them with all peace.
+        - generic [ref=f1e151]: "Ⲡⲓⲟⲩⲣⲟ (Ⲡⲓⲡ̀ⲣⲟⲉⲇⲣⲟⲥ) ⲛⲓⲙⲉⲧⲙⲁⲧⲟⲓ ⲛⲓⲁⲣⲭⲱⲛ ⲛⲓⲥⲟϭⲛⲓ ⲛⲓⲙⲏϣ ⲛⲉⲛⲑⲉϣⲉⲩ ⲛⲉⲛϫⲓⲛⲙⲟϣⲓ ⲉ̀ϧⲟⲩⲛ ⲛⲉⲙ ⲛⲉⲛϫⲓⲛⲙⲟϣⲓ ⲉ̀ⲃⲟⲗ: ⲥⲉⲗⲥⲱⲗⲟⲩ ϧⲉⲛ ϩⲓⲣⲏⲛⲏ ⲛⲓⲃⲉⲛ."
+        - generic [ref=f1e152]: الملكَ (الرئيسَ) والجندَ والأراخنةَ والمشيرينَ والجموعَ وجيرانَنا ومداخلَنا ومخارجَنا، زَيِّنْهُم بكلِ سلامٍ.
+      - generic [ref=f1e153]:
+        - generic [ref=f1e154]: O King of peace, grant us Your peace, for You have given us all things.
+        - generic [ref=f1e155]: "Ⲡⲟⲩⲣⲟ ⲛ̀ⲧⲉ ϯϩⲓⲣⲏⲛⲏ ⲙⲟⲓ ⲛⲁⲛ ⲛ̀ⲧⲉⲕϩⲓⲣⲏⲛⲏ: ϩⲱⲃ ⲅⲁⲣ ⲛⲓⲃⲉⲛ ⲁⲕⲧⲏⲓⲧⲟⲩ ⲛⲁⲛ."
+        - generic [ref=f1e156]: يا ملكَ السلام، أعطِنا سلامَكَ، لأن كلَّ شيءٍ قد أعطيتنا.
+      - generic [ref=f1e157]:
+        - generic [ref=f1e158]: Acquire us to Yourself, O God our Savior, for we know none other but You. Your holy name we utter.
+        - generic [ref=f1e159]: "Ϫⲫⲟⲛ ⲛⲁⲕ Ⲫⲛⲟⲩϯ ⲡⲉⲛⲥⲱⲧⲏⲣ: ϫⲉ ⲧⲉⲛⲥⲱⲟⲩⲛ ⲛ̀ⲕⲉⲟⲩⲁⲓ ⲁⲛ ⲉ̀ⲃⲏⲗ ⲉ̀ⲣⲟⲕ: ⲡⲉⲕⲣⲁⲛ ⲉⲑⲟⲩⲁⲃ ⲡⲉⲧⲉⲛϫⲱ ⲙ̀ⲙⲟϥ."
+        - generic [ref=f1e160]: اقتننا لكَ يا الله مخلِّصُنا لأننا لا نعرفُ آخرَ سواك، اسمَكَ القدوس هو الذي نقوله.
+      - generic [ref=f1e161]:
+        - generic [ref=f1e162]: May our souls live by Your Holy Spirit,
+        - generic [ref=f1e163]: Ⲙⲁⲣⲟⲩⲱⲛϧ ⲛ̀ϫⲉ ⲛⲏⲉ̀ⲧⲉ ⲛⲟⲩⲛ ⲙ̀ⲯⲩⲭⲏ ϩⲓⲧⲉⲛ Ⲡⲉⲕⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ.
+        - generic [ref=f1e164]: فلتحيَ نفوسُنا بروحِكَ القدوس.
+      - generic [ref=f1e165]:
+        - generic [ref=f1e166]: and let not the death of sins have dominion over us, we Your servants, (nor over all Your people.)+
+        - generic [ref=f1e167]: "Ⲟⲩⲟϩ ⲙ̀ⲡⲉⲛⲑ̀ⲣⲉϥϫⲉⲙϫⲟⲙ ⲉ̀ⲣⲟⲛ ⲁ̀ⲛⲟⲛ ϧⲁ ⲛⲉⲕⲉ̀ⲃⲓⲁⲓⲕ: ⲛ̀ϫⲉ ⲫ̀ⲙⲟⲩ ⲛ̀ⲧⲉ ϩⲁⲛⲛⲟⲃⲓ: (ⲟⲩⲇⲉ ϧⲁ ⲡⲉⲕⲗⲁⲟⲥ ⲧⲏⲣϥ.)+"
+        - generic [ref=f1e168]: ولا تَدَعْ موتَ الخطايا يقوَى علينا، نحنُ عبيدَك، (ولا على كلِّ شعبِك.)+
+      - generic [ref=f1e169]:
+        - generic [ref=f1e170]: +Said by the Pope, a metropolitan, or a bishop, if present.
+        - generic [ref=f1e171]: +يقولها الأب البابا أو المطران أو الأسقف إذا كان حاضراً.
+      - generic [ref=f1e172]:
+        - generic [ref=f1e173]:
+          - generic [ref=f1e174]: "People:"
+          - text: Lord have mercy.
+        - generic [ref=f1e175]:
+          - generic [ref=f1e176]: "Ⲡⲓⲗⲁⲟⲥ:"
+          - text: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.
+        - generic [ref=f1e177]:
+          - generic [ref=f1e178]: "الشعبُ:"
+          - text: يارب إرحم.
+    - table [ref=f1e181]:
+      - rowgroup [ref=f1e182]:
+        - row "Litany of the Fathers (أوشية الآباء)" [ref=f1e183]:
+          - cell [ref=f1e184]:
+            - img [ref=f1e185]
+          - cell "Litany of the Fathers (أوشية الآباء)" [ref=f1e186]:
+            - button "Litany of the Fathers (أوشية الآباء)" [ref=f1e187]:
+              - text: Litany of the Fathers
+              - text: (أوشية الآباء)
+    - generic [ref=f1e188]:
+      - generic [ref=f1e189]:
+        - generic [ref=f1e190]:
+          - generic [ref=f1e191]: "Priest:"
+          - text: Again, let us ask God the Pantocrator, the Father of our Lord, God, and Savior Jesus Christ.
+        - generic [ref=f1e192]:
+          - generic [ref=f1e193]: "Ⲡⲓⲟⲩⲏⲃ:"
+          - text: "Ⲡⲁⲗⲓⲛ ⲟⲛ ⲙⲁⲣⲉⲛϯϩⲟ ⲉ̀Ⲫⲛⲟⲩϯ ⲡⲓⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ: Ⲫⲓⲱⲧ ⲙ̀Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ Ⲡⲉⲛⲛⲟⲩϯ ⲟⲩⲟϩ ⲡⲉⲛⲥⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ."
+        - generic [ref=f1e194]:
+          - generic [ref=f1e195]: "الكاهنُ:"
+          - text: وأيضاً فلنسألْ اللهَ ضابطَ الكلِّ، أبا ربِّنا وإلهِنا ومخلِّصِنا يسوعَ المسيح.
+      - generic [ref=f1e196]:
+        - generic [ref=f1e197]: "We ask and entreat Your goodness, O Lover of Mankind, to remember, O Lord, our honored patriarch and father, the archpriest, Pope Abba (...), and his spiritual brethren: the Patriarch of Antioch Mar Ignatius (...) and the Patriarch of Eritrea Abouna (...),"
+        - generic [ref=f1e198]: "Ⲧⲉⲛϯϩⲟ ⲟⲩⲟϩ ⲧⲉⲛⲧⲱⲃϩ ⲛ̀ⲧⲉⲕⲙⲉⲧⲁ̀ⲅⲁⲑⲟⲥ ⲡⲓⲙⲁⲓⲣⲱⲙⲓ: ⲁ̀ⲣⲓⲫ̀ⲙⲉⲩⲓ̀ Ⲡϭⲟⲓⲥ ⲙ̀ⲡⲉⲛⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ ⲛ̀ⲓⲱⲧ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ ⲛ̀ⲁⲣⲭⲓⲉ̀ⲣⲉⲩⲥ ⲡⲁⲡⲁ ⲁⲃⲃⲁ (...): ⲛⲉⲙ ⲛⲉϥⲥ̀ⲛⲏⲟⲩ ⲙ̀ⲡ̀ⲛⲉⲩⲙⲁⲧⲓⲕⲟⲛ: ⲡⲓⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ ⲛ̀ⲧ̀Ⲁⲛⲧⲓⲟ̀ⲭⲓⲁ̀ Ⲙⲁⲣ Ⲓⲅⲛⲁⲧⲓⲟⲥ (...): ⲛⲉⲙ ⲡⲓⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ ⲛ̀Ⲉⲣⲓⲧⲣⲉⲁ Ⲁⲡⲟⲩⲛⲁ (...):"
+        - generic [ref=f1e199]: نسألُ ونطلبُ من صلاحِك يا محبَّ البشرِ، اذكر ياربُّ بطريركَنا الأب المكرم رئيسَ الكهنة البابا أنبا (...)، وأَخَوَيْهِ الروحيين، مار إغناطيوس (...) بطريرك أنطاكيه، وأبونا (...) بطريرك إريتريا
+      - generic [ref=f1e200]:
+        - generic [ref=f1e201]: "If a bishop or metropolitan is present, he adds:"
+        - generic [ref=f1e202]: "وفي وجود مطران أو أسقف يضيف:"
+      - generic [ref=f1e203]:
+        - generic [ref=f1e204]: and his partner in the [apostolic] liturgy, our father the bishop (metropolitan), Abba (...).
+        - generic [ref=f1e205]: ⲛⲉⲙ ⲡⲉϥⲕⲉϣ̀ⲫⲏⲣ ⲛ̀ⲗⲓⲧⲟⲩⲣⲅⲟⲥ ⲡⲉⲛⲓⲱⲧ ⲛ̀ⲉ̀ⲡⲓⲥⲕⲟⲡⲟⲥ (ⲙ̀ⲙⲏⲧⲣⲟⲡⲟⲗⲓⲧⲏⲥ) ⲁⲃⲃⲁ (...).
+        - generic [ref=f1e206]: وشريكَه في الخدمةِ [الرسوليةِ] أبينا الأسقف (المطران) المكرم أنبا (...).
+      - generic [ref=f1e207]:
+        - generic [ref=f1e208]:
+          - generic [ref=f1e209]: "Deacon:"
+          - text: Pray for our archpriest, Pope Abba (...), Pope and Patriarch and archbishop of the great city of Alexandria; And his spiritual brethren in the apostolic liturgy, the Patriarch of Antioch, Mar Ignatius (…), and the Patriarch of Eritrea, Abouna (…),
+        - generic [ref=f1e210]:
+          - generic [ref=f1e211]: "Ⲡⲓⲇⲓⲁⲕⲱⲛ:"
+          - text: "Ⲡⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲟⲩ ⲁⲣⲭⲓ ⲉ̀ⲣⲉⲱⲥ ⲏ̀ⲙⲱⲛ ⲡⲁⲡⲁ ⲁⲃⲃⲁ (ⲛⲓⲙ): ⲡⲁⲡⲁ ⲕⲉ ⲡⲁⲧⲣⲓⲁⲣⲭⲟⲩ ⲕⲉ ⲁⲣⲭⲓⲉ̀ⲡⲓⲥⲕⲟⲡⲟⲩ ⲧⲏⲥ ⲙⲉⲅⲁⲗⲟⲩ ⲡⲟⲗⲉⲱⲥ Ⲁⲗⲉⲝⲁⲛⲇ̀ⲣⲓⲁⲥ: ⲕⲉ ⲧⲱⲛ ⲁⲇⲉⲗⲫⲱⲛ ⲁⲩⲧⲟⲩ ⲉⲛ ⲧⲏ ⲁ̀ⲡⲟⲥⲧⲟⲗⲓⲕⲏ ⲗⲓⲧⲟⲩⲣⲅⲓⲁ: Ⲙⲁⲣ Ⲓⲅⲛⲁⲑⲓⲟⲩ (ⲛⲓⲙ) ⲧⲟⲩ ⲡⲁⲧⲣⲓⲁⲣⲭⲟⲩ ⲧⲏⲥ Ⲁⲛⲧⲓⲟⲭⲓⲁⲥ: ⲕⲉ Ⲁⲡⲟⲩⲛⲁ (ⲛⲓⲙ) ⲧⲟⲩ ⲡⲁⲧⲣⲓⲁⲣⲭⲟⲩ ⲧⲏⲥ Ⲉⲣⲓⲧⲣⲉⲁⲥ:"
+        - generic [ref=f1e212]:
+          - generic [ref=f1e213]: "الشماس:"
+          - text: صلوا من أجل رئيس كهنتنا البابا أنبا (...) بابا وبطريرك ورئيس أساقفة المدينة العظمى الاسكندرية وأخويه الروحيين في الخدمة الرسولية مار اغناطيوس (...) بطريرك أنطاكيه و أبونا (...) بطريرك أرتيريا
+      - generic [ref=f1e214]:
+        - generic [ref=f1e215]: "If a metropolitan or a bishop is present, he adds:"
+        - generic [ref=f1e216]: "وفي وجود مطران أو أسقف يضاف:"
+      - generic [ref=f1e217]:
+        - generic [ref=f1e218]: and his partner in the [apostolic] liturgy, our father the bishop (metropolitan), Abba (…)...
+        - generic [ref=f1e219]: ⲕⲉ ⲧⲟⲩ ⲥⲩⲛⲕⲟⲓⲛⲱⲛⲟⲩ ⲁⲩⲧⲟⲩ ⲉⲛ ⲧⲏ ⲗⲓⲧⲟⲩⲣⲅⲓⲁ ⲧⲟⲩ ⲡⲁⲧⲣⲟⲥ ⲏ̀ⲙⲱⲛ ⲧⲟⲩ ⲉ̀ⲡⲓⲥⲕⲟⲡⲟⲩ (ⲙⲏⲧⲣⲟⲡⲟⲗⲓⲧⲟⲩ) ⲁⲃⲃⲁ (ⲛⲓⲙ)...
+        - generic [ref=f1e220]: وشريكه في الخدمة الرسولية أبينا الأسقف (المطران) المكرم الأنبا (...)
+      - generic [ref=f1e221]:
+        - generic [ref=f1e222]: "Then he concludes:"
+        - generic [ref=f1e223]: "ثم يختم:"
+      - generic [ref=f1e224]:
+        - generic [ref=f1e225]: and for our orthodox bishops.
+        - generic [ref=f1e226]: ⲕⲉ ⲧⲱⲛ ⲟⲣⲑⲟⲇⲟⲝⲱⲛ ⲏ̀ⲙⲱⲛ ⲉ̀ⲡⲓⲥⲕⲟⲡⲱⲛ.
+        - generic [ref=f1e227]: وسائر أساقفتنا ألأرثوذكسيين
+      - generic [ref=f1e228]:
+        - generic [ref=f1e229]:
+          - generic [ref=f1e230]: "People:"
+          - text: Lord have mercy.
+        - generic [ref=f1e231]:
+          - generic [ref=f1e232]: "Ⲡⲓⲗⲁⲟⲥ:"
+          - text: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.
+        - generic [ref=f1e233]:
+          - generic [ref=f1e234]: "الشعبُ:"
+          - text: يارب إرحم.
+      - generic [ref=f1e235]:
+        - generic [ref=f1e236]:
+          - generic [ref=f1e237]: "Priest:"
+          - text: Keep them secure for us for many years and peaceful times,
+        - generic [ref=f1e238]:
+          - generic [ref=f1e239]: "Ⲡⲓⲟⲩⲏⲃ:"
+          - text: "Ϧⲉⲛ ⲟⲩⲁ̀ⲣⲉϩ ⲁ̀ⲣⲉϩ ⲉ̀ⲣⲱⲟⲩ ⲛⲁⲛ: ⲛ̀ϩⲁⲛⲙⲏϣ ⲛ̀ⲣⲟⲙⲡⲓ ⲛⲉⲙ ϩⲁⲛⲥⲏⲟⲩ ⲛ̀ϩⲓⲣⲏⲛⲓⲕⲟⲛ."
+        - generic [ref=f1e240]:
+          - generic [ref=f1e241]: "الكاهنُ:"
+          - text: حفظاً احفظْهُم لنا سنينَ كثيرةً وأزمنةً سلاميةً.
+      - generic [ref=f1e242]:
+        - generic [ref=f1e243]: fulfilling that holy archpriesthood with which You have entrusted them for Yourself, according to Your holy and blessed will,
+        - generic [ref=f1e244]: "Ⲉⲩϫⲱⲕ ⲉ̀ⲃⲟⲗ ⲛ̀ⲑⲏⲉⲑⲟⲩⲁⲃ ⲉ̀ⲧⲁⲕⲧⲉⲛϩⲟⲩⲧⲟⲩ ⲉ̀ⲣⲟⲥ ⲉ̀ⲃⲟⲗϩⲓⲧⲟⲧⲕ ⲙ̀ⲙⲉⲧⲁⲣⲭⲓⲉ̀ⲣⲉⲩⲥ: ⲕⲁⲧⲁ ⲡⲉⲕⲟⲩⲱϣ ⲉⲑⲟⲩⲁⲃ ⲟⲩⲟϩ ⲙ̀ⲙⲁⲕⲁⲣⲓⲟⲛ."
+        - generic [ref=f1e245]: مكمِّلين رئاسةَ الكهنوتِ المقدسةِ التي ائتمنتَهم عليها من قِبَلِكَ، كإرادتِكَ المقدسةِ الطوباويةِ.
+      - generic [ref=f1e246]:
+        - generic [ref=f1e247]: rightly handling the word of truth, shepherding Your people in purity and righteousness,
+        - generic [ref=f1e248]: "Ⲉⲩϣⲱⲧ ⲉ̀ⲃⲟⲗ ⲙ̀ⲡ̀ⲥⲁϫⲓ ⲛ̀ⲧⲉ ϯⲙⲉⲑⲙⲏⲓ ϧⲉⲛ ⲟⲩⲥⲱⲟⲩⲧⲉⲛ: ⲉⲩⲁ̀ⲙⲟⲛⲓ ⲙ̀ⲡⲉⲕⲗⲁⲟⲥ ϧⲉⲛ ⲟⲩⲧⲟⲩⲃⲟ ⲛⲉⲙ ⲟⲩⲙⲉⲑⲙⲏⲓ."
+        - generic [ref=f1e249]: مفصِّلينَ كلمةَ الحقِّ باستقامةٍ، راعِينَ شعبَك بطهارةٍ وبرٍّ.
+      - generic [ref=f1e250]:
+        - generic [ref=f1e251]: and all the orthodox bishops, hegumens, priests, and deacons, and all the fullness of Your one, only, holy, catholic, and apostolic Church.
+        - generic [ref=f1e252]: "Ⲛⲉⲙ ⲛⲓⲉ̀ⲡⲓⲥⲕⲟⲡⲟⲥ ⲧⲏⲣⲟⲩ ⲛ̀ⲟⲣⲑⲟⲇⲟⲝⲟⲥ: ⲛⲉⲙ ⲛⲓϩⲏⲅⲟⲙⲉⲛⲟⲥ ⲛⲉⲙ ⲛⲓⲡ̀ⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ: ⲛⲉⲙ ⲛⲓⲇⲓⲁⲕⲱⲛ: ⲛⲉⲙ ⲫ̀ⲙⲟϩ ⲧⲏⲣϥ ⲛ̀ⲧⲉ ⲧⲉⲕⲟⲩⲓ ⲙ̀ⲙⲁⲩⲁⲧⲥ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲕⲁⲑⲟⲗⲓⲕⲏ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲓⲕⲏ ⲛ̀ⲉⲕⲕ̀ⲗⲏⲥⲓⲁ̀."
+        - generic [ref=f1e253]: وجميعَ الأساقفةِ الأرثوذكسيين، والقمامصةِ والقسوسِ والشمامسةِ، وكلَّ امتلاءِ كنيستِكَ الواحدةِ الوحيدةِ المقدسةِ الجامعةِ الرسوليةِ.
+      - generic [ref=f1e254]:
+        - generic [ref=f1e255]: Grant them and us peace and safety in every place.
+        - generic [ref=f1e256]: Ⲉⲕⲉ̀ⲉⲣⲭⲁⲣⲓⲍⲉⲥⲑⲉ ⲛⲱⲟⲩ ⲛⲉⲙⲁⲛ ⲛ̀ⲟⲩϩⲓⲣⲏⲛⲏ ⲛⲉⲙ ⲟⲩⲟⲩϫⲁⲓ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲙⲁⲓ ⲛⲓⲃⲉⲛ.
+        - generic [ref=f1e257]: أنعمْ عليهِم وعلينا بالسلامِ والعافيةِ في كلِّ موضعٍ.
+      - generic [ref=f1e258]:
+        - generic [ref=f1e259]: Their prayers which they offer on our behalf, (and on behalf of all Your people,)+ as well as ours on their behalf,
+        - generic [ref=f1e260]: "Ⲛⲟⲩⲡ̀ⲣⲟⲥⲉⲩⲭⲏ ⲇⲉ ⲉ̀ⲧⲟⲩⲓ̀ⲣⲓ ⲙ̀ⲙⲱⲟⲩ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ: (ⲛⲉⲙ ⲉ̀ϫⲉⲛ ⲡⲉⲕⲗⲁⲟⲥ ⲧⲏⲣϥ:)+ ⲛⲉⲙ ⲛⲟⲩⲛ ϩⲱⲛ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲟⲩ."
+        - generic [ref=f1e261]: وصلواتَهم التي يقدمونها عنا، (وعن كلِّ شعبِك،)+ وصلواتَنا نحنُ أيضاً عنهم.
+      - generic [ref=f1e262]:
+        - generic [ref=f1e263]: +Said by the Pope, a metropolitan, or a bishop, if present.
+        - generic [ref=f1e264]: +يقولها الأب البابا أو المطران أو الأسقف إذا كان حاضراً.
+      - generic [ref=f1e265]:
+        - generic [ref=f1e266]: "The deacon presents the censer to the priest, who puts a spoonful of incense into it, while saying:"
+        - generic [ref=f1e267]: "ههنا يقدم الشماس المجمرة إلى الكاهن فيضع فيها البخور يداً واحدة وهو يقول:"
+      - generic [ref=f1e268]:
+        - generic [ref=f1e269]: receive them upon Your holy, rational altar in heaven, as a sweet savor of incense.
+        - generic [ref=f1e270]: "Ϣⲟⲡⲟⲩ ⲉ̀ⲣⲟⲕ ⲉ̀ϫⲉⲛ ⲡⲉⲕⲑⲩⲥⲓⲁⲥⲧⲏⲣⲓⲟⲛ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲉⲗⲗⲟⲅⲓⲙⲟⲛ ⲛ̀ⲧⲉ ⲧ̀ⲫⲉ: ⲉ̀ⲟⲩⲥ̀ⲑⲟⲓ ⲛ̀ⲥ̀ⲑⲟⲓⲛⲟⲩϥⲓ."
+        - generic [ref=f1e271]: اقبلْها إليكَ على مذبَحِكَ المقدسِ الناطقِ السمائِيّ رائحةَ بَخُورٍ.
+      - generic [ref=f1e272]:
+        - generic [ref=f1e273]: All their enemies, visible and invisible, trample and humiliate under their feet speedily.
+        - generic [ref=f1e274]: "Ⲛⲟⲩϫⲁϫⲓ ⲙⲉⲛ ⲧⲏⲣⲟⲩ ⲛⲏⲉ̀ⲧⲟⲩⲛⲁⲩ ⲉ̀ⲣⲱⲟⲩ: ⲛⲉⲙ ⲛⲏⲉ̀ⲧⲉ ⲛ̀ⲥⲉⲛⲁⲩ ⲉ̀ⲣⲱⲟⲩ ⲁⲛ ϧⲉⲙϧⲱⲙⲟⲩ ⲟⲩⲟϩ ⲙⲁⲑⲉⲃⲓⲱⲟⲩ ⲥⲁⲡⲉⲥⲏⲧ ⲛ̀ⲛⲟⲩϭⲁⲗⲁⲩϫ ⲛ̀ⲭⲱⲗⲉⲙ."
+        - generic [ref=f1e275]: فسائر أعدائِهم الذين يُرَوْن والذين لا يُرَوْن، اسحقهُم وأَذِلَّهم تحت أرجلِهم سريعاً.
+      - generic [ref=f1e276]:
+        - generic [ref=f1e277]: As for them, keep them in peace and righteousness in Your holy Church.
+        - generic [ref=f1e278]: "Ⲛⲑⲱⲟⲩ ⲇⲉ ⲁ̀ⲣⲉϩ ⲉ̀ⲣⲱⲟⲩ ϧⲉⲛ ⲟⲩϩⲓⲣⲏⲛⲏ ⲛⲉⲙ ⲟⲩⲇⲓⲕⲉⲟ̀ⲥⲩⲛⲏ: ϧⲉⲛ ⲧⲉⲕⲉⲕⲕ̀ⲗⲏⲥⲓⲁ̀ ⲉⲑⲟⲩⲁⲃ."
+        - generic [ref=f1e279]: وأما هم فاحفظْهُم في سلامٍ وعدلٍ في كنيستِك المقدسةِ.
+      - generic [ref=f1e280]:
+        - generic [ref=f1e281]:
+          - generic [ref=f1e282]: "People:"
+          - text: Lord have mercy.
+        - generic [ref=f1e283]:
+          - generic [ref=f1e284]: "Ⲡⲓⲗⲁⲟⲥ:"
+          - text: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.
+        - generic [ref=f1e285]:
+          - generic [ref=f1e286]: "الشعبُ:"
+          - text: يارب إرحم.
+    - table [ref=f1e289]:
+      - rowgroup [ref=f1e290]:
+        - row "Litany of the Departed Patriarch / Metropolitan / Bishop (أوشية الآباء)" [ref=f1e291]:
+          - cell [ref=f1e292]:
+            - img [ref=f1e293]
+          - cell "Litany of the Departed Patriarch / Metropolitan / Bishop (أوشية الآباء)" [ref=f1e294]:
+            - button "Litany of the Departed Patriarch / Metropolitan / Bishop (أوشية الآباء)" [ref=f1e295]:
+              - text: Litany of the Departed Patriarch / Metropolitan / Bishop
+              - text: (أوشية الآباء)
+    - table [ref=f1e298]:
+      - rowgroup [ref=f1e299]:
+        - row "Litany of the Assemblies (أوشية الاجتماعات)" [ref=f1e300]:
+          - cell [ref=f1e301]:
+            - img [ref=f1e302]
+          - cell "Litany of the Assemblies (أوشية الاجتماعات)" [ref=f1e303]:
+            - button "Litany of the Assemblies (أوشية الاجتماعات)" [ref=f1e304]:
+              - text: Litany of the Assemblies
+              - text: (أوشية الاجتماعات)
+    - generic [ref=f1e305]:
+      - generic [ref=f1e306]:
+        - generic [ref=f1e307]: Said by the Pope, a metropolitan, or a bishop, if present.
+        - generic [ref=f1e308]: يقولها الأب البابا أو المطران أو الأسقف، لو كان موجوداً.
+      - generic [ref=f1e309]:
+        - generic [ref=f1e310]:
+          - generic [ref=f1e311]: "Priest:"
+          - text: Again, let us ask God the Pantocrator, the Father of our Lord, God, and Savior Jesus Christ.
+        - generic [ref=f1e312]:
+          - generic [ref=f1e313]: "Ⲡⲓⲟⲩⲏⲃ:"
+          - text: "Ⲡⲁⲗⲓⲛ ⲟⲛ ⲙⲁⲣⲉⲛϯϩⲟ ⲉ̀Ⲫⲛⲟⲩϯ ⲡⲓⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ: Ⲫⲓⲱⲧ ⲙ̀Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ Ⲡⲉⲛⲛⲟⲩϯ ⲟⲩⲟϩ ⲡⲉⲛⲥⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ."
+        - generic [ref=f1e314]:
+          - generic [ref=f1e315]: "الكاهنُ:"
+          - text: وأيضاً فلنسألْ اللهَ ضابطَ الكلِّ، أبا ربِّنا وإلهِنا ومخلِّصِنا يسوعَ المسيح.
+      - generic [ref=f1e316]:
+        - generic [ref=f1e317]: We ask and entreat Your goodness, O Lover of Mankind, remember, O Lord, our assemblies.
+        - generic [ref=f1e318]: "Ⲧⲉⲛϯϩⲟ ⲟⲩⲟϩ ⲧⲉⲛⲧⲱⲃϩ ⲛ̀ⲧⲉⲕⲙⲉⲧⲁ̀ⲅⲁⲑⲟⲥ ⲡⲓⲙⲁⲓⲣⲱⲙⲓ: ⲁ̀ⲣⲓⲫ̀ⲙⲉⲩⲓ̀ Ⲡϭⲟⲓⲥ ⲛ̀ⲛⲉⲛϫⲓⲛⲑⲱⲟⲩϯ."
+        - generic [ref=f1e319]: نسألُ ونطلبُ من صلاحِك يا محبَّ البشرِ، اذكر ياربُّ اجتماعاتِنا.
+      - generic [ref=f1e320]:
+        - generic [ref=f1e321]: "The priest makes the sign of the cross once on the people, saying:"
+        - generic [ref=f1e322]: "ههنا يرشم الشعب رشماً واحداً وهو يقول:"
+      - generic [ref=f1e323]:
+        - generic [ref=f1e324]: Bless them.
+        - generic [ref=f1e325]: Ⲥⲙⲟⲩ ⲉ̀ⲣⲱⲟⲩ.
+        - generic [ref=f1e326]: بارِكْها.
+      - generic [ref=f1e327]:
+        - generic [ref=f1e328]:
+          - generic [ref=f1e329]: "Deacon:"
+          - text: Pray for this holy church and for our assemblies.
+        - generic [ref=f1e330]:
+          - generic [ref=f1e331]: "Ⲡⲓⲇⲓⲁⲕⲱⲛ:"
+          - text: Ⲡⲣⲟⲥⲉⲩⲉⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲏⲥ ⲁ̀ⲅⲓⲁⲥ ⲉⲕⲕ̀ⲗⲏⲥⲓⲁ̀ⲥ ⲧⲁⲩⲧⲏⲥ ⲕⲉ ⲧⲱⲛ ⲥⲩⲛⲉⲗⲉⲩⲥⲉⲱⲛ ⲏ̀ⲙⲱⲛ.
+        - generic [ref=f1e332]:
+          - generic [ref=f1e333]: "الشماس:"
+          - text: صلوا من أجلِ هذه الكنيسة المقدسة واجتماعاتِنا.
+      - generic [ref=f1e334]:
+        - generic [ref=f1e335]:
+          - generic [ref=f1e336]: "People:"
+          - text: Lord have mercy.
+        - generic [ref=f1e337]:
+          - generic [ref=f1e338]: "Ⲡⲓⲗⲁⲟⲥ:"
+          - text: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.
+        - generic [ref=f1e339]:
+          - generic [ref=f1e340]: "الشعبُ:"
+          - text: يارب إرحم.
+      - generic [ref=f1e341]:
+        - generic [ref=f1e342]: The priest takes the censer.
+        - generic [ref=f1e343]: يأخذ الكاهن المجمرة.
+      - generic [ref=f1e344]:
+        - generic [ref=f1e345]:
+          - generic [ref=f1e346]: "Priest:"
+          - text: "Grant that they may be to us without obstacle or hindrance, that we may hold them according to Your holy and blessed will:"
+        - generic [ref=f1e347]:
+          - generic [ref=f1e348]: "Ⲡⲓⲟⲩⲏⲃ:"
+          - text: "Ⲙⲏⲓⲥ ⲉⲑⲣⲟⲩϣⲱⲡⲓ ⲛⲁⲛ ⲛ̀ⲁⲧⲉⲣⲕⲱⲗⲓⲛ ⲛ̀ⲁⲧⲧⲁϩⲛⲟ: ⲉⲑⲣⲉⲛⲁⲓⲧⲟⲩ ⲕⲁⲧⲁ ⲡⲉⲕⲟⲩⲱϣ ⲉⲑⲟⲩⲁⲃ ⲟⲩⲟϩ ⲙ̀ⲙⲁⲕⲁⲣⲓⲟⲛ."
+        - generic [ref=f1e349]:
+          - generic [ref=f1e350]: "الكاهنُ:"
+          - text: أعطِ أن تكون لنا بغير مانعٍ ولا عائقٍ، لنصنَعها كمشيئتِكَ المقدسةِ الطوباويةِ.
+      - generic [ref=f1e351]:
+        - generic [ref=f1e352]: "The priest stretches forth his hand with the censer over the altar toward the four corners, first to the east, then the west, the north, and the south, while saying:"
+        - generic [ref=f1e353]: "يمد الكاهن يده بالمجمرة فوق المذبح إلى الجهات الأربع بمثال الصليب أي إلى الشرقِ ثم الغرب ثم الشمال ثم الجنوب وهو يقول:"
+      - generic [ref=f1e354]:
+        - generic [ref=f1e355]: houses of prayer, houses of purity, houses of blessing. Grant them to us, O Lord, and to Your servants who will come after us, forever.
+        - generic [ref=f1e356]: "ϩⲁⲛⲏⲓ ⲛ̀ⲉⲩⲭⲏ: ϩⲁⲛⲏⲓ ⲛ̀ⲧⲟⲩⲃⲟ: ϩⲁⲛⲏⲓ ⲛ̀ⲥ̀ⲙⲟⲩ: ⲁ̀ⲣⲓⲭⲁⲣⲓⲍⲉⲥⲑⲉ ⲙ̀ⲙⲱⲟⲩ ⲛⲁⲛ Ⲡϭⲟⲓⲥ ⲛⲉⲙ ⲛⲉⲕⲉ̀ⲃⲓⲁⲓⲕ ⲉⲑⲛⲏⲟⲩ ⲙⲉⲛⲉⲛⲥⲱⲛ ϣⲁ ⲉ̀ⲛⲉϩ."
+        - generic [ref=f1e357]: بيوتُ صلاةٍ، بيوتُ طهارةٍ، بيوتُ بركةٍ، أنعم بها لنا ياربُّ، ولعبيدِك الآتينَ بعدَنا إلى الابد.
+      - generic [ref=f1e358]:
+        - generic [ref=f1e359]: The following may be said.
+        - generic [ref=f1e360]: "هنا تقال هذه الأوشية أو تترك:"
+      - generic [ref=f1e361]:
+        - generic [ref=f1e362]: The worship of idols, utterly uproot from the world.
+        - generic [ref=f1e363]: Ϯⲙⲉⲧϣⲁⲙϣⲉ ⲓ̀ⲇⲱⲗⲟⲛ ϧⲉⲛ ⲟⲩϫⲱⲕ ϥⲟϫⲥ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲡⲓⲕⲟⲥⲙⲟⲥ.
+        - generic [ref=f1e364]: عبادةُ الأوثانِ بالتمام، اقلعها من العالمِ.
+      - generic [ref=f1e365]:
+        - generic [ref=f1e366]: Satan and all his evil powers, trample and humiliate them under our feet speedily.
+        - generic [ref=f1e367]: "Ⲡⲥⲁⲧⲁⲛⲁⲥ ⲛⲉⲙ ϫⲟⲙ ⲛⲓⲃⲉⲛ ⲉⲧϩⲱⲟⲩ ⲛ̀ⲧⲁϥ ϧⲉⲙϧⲱⲙⲟⲩ ⲟⲩⲟϩ ⲙⲁⲑⲉⲃⲓⲱ̀ⲟⲩ: ⲥⲁⲡⲉⲥⲏⲧ ⲛ̀ⲛⲉⲛϭⲁⲗⲁⲩϫ ⲛ̀ⲭⲱⲗⲉⲙ."
+        - generic [ref=f1e368]: الشيطانُ وكلَّ قواتِه الشريرةِ، اسحقهم وأذِلَّهُم تحت أقدامِنا سريعاً.
+      - generic [ref=f1e369]:
+        - generic [ref=f1e370]: The offences and their instigators, abolish. Let the dissensions of corrupt heresies cease.
+        - generic [ref=f1e371]: "Ⲛⲓⲥ̀ⲕⲁⲛⲇⲁⲗⲟⲛ ⲛⲉⲙ ⲛⲏⲉⲧⲓ̀ⲣⲓ ⲙ̀ⲙⲱⲟⲩ ⲕⲟⲣϥⲟⲩ: ⲙⲁⲣⲟⲩⲕⲏⲛ ⲛ̀ϫⲉ ⲛⲓⲫⲱⲣϫ ⲙ̀ⲡ̀ⲧⲁⲕⲟ ⲛ̀ⲧⲉ ⲛⲓϩⲉⲣⲉⲥⲓⲥ."
+        - generic [ref=f1e372]: الشكوكُ وفاعلوها أبطِلهُم، ولتنقضِ إفتراقاتُ فسادِ البدعِ.
+      - generic [ref=f1e373]:
+        - generic [ref=f1e374]: The enemies of Your holy Church, O Lord, as at all times, now also humiliate.
+        - generic [ref=f1e375]: "Ⲛⲓϫⲁϫⲓ ⲛ̀ⲧⲉ ⲧⲉⲕⲉⲕⲕ̀ⲗⲏⲥⲓⲁ̀ ⲉⲑⲟⲩⲁⲃ Ⲡϭⲟⲓⲥ: ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ ⲛⲉⲙ ϯⲛⲟⲩ ⲙⲁⲑⲉⲃⲓⲱ̀ⲟⲩ."
+        - generic [ref=f1e376]: أعداءُ كنيستِكَ المقدسةِ ياربُّ، مثلَ كلِّ زمانٍ والآنَ، أَذِلَّهُم.
+      - generic [ref=f1e377]:
+        - generic [ref=f1e378]: Strip their vanity, show them their weakness speedily.
+        - generic [ref=f1e379]: "Ⲃⲱⲗ ⲛ̀ⲧⲟⲩⲙⲉⲧϭⲁⲥⲓϩⲏⲧ ⲉ̀ⲃⲟⲗ: ⲙⲁⲧⲁⲙⲱⲟⲩ ⲉ̀ⲧⲟⲩⲙⲉⲧϫⲱⲃ ⲛ̀ⲭⲱⲗⲉⲙ."
+        - generic [ref=f1e380]: حلَّ تعاظُمَهم، عرِّفَهُم ضعفَهُم سريعاً.
+      - generic [ref=f1e381]:
+        - generic [ref=f1e382]: Bring to naught their envies, their intrigues, their madness, their wickedness, and their slanders, which they commit against us.
+        - generic [ref=f1e383]: Ⲕⲱⲣϥ ⲛ̀ⲛⲟⲩⲫ̀ⲑⲟⲛⲟⲥ ⲛⲟⲩⲉ̀ⲡⲓⲃⲟⲩⲗⲏ ⲛⲟⲩⲙⲁⲛⲕⲁⲛⲓⲁ ⲛⲟⲩⲕⲁⲕⲟⲩⲣⲅⲓⲁ ⲛⲟⲩⲕⲁⲧⲁⲗⲁⲗⲓⲁ ⲉ̀ⲧⲟⲩⲓ̀ⲣⲓ ⲙ̀ⲙⲱⲟⲩ ϧⲁⲣⲟⲛ.
+        - generic [ref=f1e384]: أبطِل حسَدَهم وسعايتَهم وجنونَهم وشرَّهم ونميمتَهم التي يصنعونَها فينا.
+      - generic [ref=f1e385]:
+        - generic [ref=f1e386]: O Lord, bring them all to no avail. Disperse their counsel, O God, who dispersed the counsel of Ahithophel.
+        - generic [ref=f1e387]: "Ⲡϭⲟⲓⲥ ⲁ̀ⲣⲓⲧⲟⲩ ⲧⲏⲣⲟⲩ ⲛ̀ⲁⲡⲣⲁⲕⲧⲟⲛ: ⲟⲩⲟϩ ϫⲱⲣ ⲉ̀ⲃⲟⲗ ⲙ̀ⲡⲟⲩⲥⲟϭⲛⲓ: Ⲫⲛⲟⲩϯ ⲫⲏⲉ̀ⲧⲁϥϫⲱⲣ ⲉ̀ⲃⲟⲗ ⲙ̀ⲡ̀ⲥⲟϭⲛⲓ ⲛ̀Ⲁⲭⲓⲧⲟⲫⲉⲗ."
+        - generic [ref=f1e388]: ياربُّ إجعلْهم كلَّهم كلا شيءٍ، وبدِّد مشورَتَهم يا الله الذي بدَّد مشورةَ أخيتوفل.
+      - generic [ref=f1e389]:
+        - generic [ref=f1e390]:
+          - generic [ref=f1e391]: "People:"
+          - text: Lord have mercy.
+        - generic [ref=f1e392]:
+          - generic [ref=f1e393]: "Ⲡⲓⲗⲁⲟⲥ:"
+          - text: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.
+        - generic [ref=f1e394]:
+          - generic [ref=f1e395]: "الشعبُ:"
+          - text: يارب إرحم.
+      - generic [ref=f1e396]:
+        - generic [ref=f1e397]: "The priest censes toward the East three times above the altar, saying:"
+        - generic [ref=f1e398]: "ثم يرفع الكاهن يده ويبخر شرقاً فوق المذبح ثلاث مرات وهو يقول بقية أوشيه الاجتماعات وهي هذه:"
+      - generic [ref=f1e399]:
+        - generic [ref=f1e400]:
+          - generic [ref=f1e401]: "Priest:"
+          - text: Arise, O Lord God, let all Your enemies be scattered, and let all who hate Your holy name flee before Your face.
+        - generic [ref=f1e402]:
+          - generic [ref=f1e403]: "Ⲡⲓⲟⲩⲏⲃ:"
+          - text: "Ⲧⲱⲛⲕ Ⲡϭⲟⲓⲥ Ⲫⲛⲟⲩϯ: ⲙⲁⲣⲟⲩϫⲱⲣ ⲉ̀ⲃⲟⲗ ⲛ̀ϫⲉ ⲛⲉⲕϫⲁϫⲓ ⲧⲏⲣⲟⲩ: ⲙⲁⲣⲟⲩⲫⲱⲧ ⲉ̀ⲃⲟⲗ ϧⲁⲧ̀ϩⲏ ⲙ̀ⲡⲉⲕϩⲟ ⲛ̀ϫⲉ ⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ ⲉⲑⲙⲟⲥϯ ⲙ̀ⲡⲉⲕⲣⲁⲛ ⲉⲑⲟⲩⲁⲃ"
+        - generic [ref=f1e404]:
+          - generic [ref=f1e405]: "الكاهنُ:"
+          - text: قمْ أيها الربُّ الإلهُ. ولتتفرق جميعُ أعدائِكَ. وليهرب من قدامِ وجهِكَ كلُّ مبغضي اسمِكَ القدوس.
+      - generic [ref=f1e406]:
+        - generic [ref=f1e407]: "The priest turns to the west and censes the priests, the deacons, and the people three times, saying:"
+        - generic [ref=f1e408]: "يلتفت إلى الغرب ويُعطي البخور للكهنة والشمامسة والشعب، ثلاث مرات، وهو يقول:"
+      - generic [ref=f1e409]:
+        - generic [ref=f1e410]: But let Your people be in blessing, thousands of thousands and ten thousand times ten thousand, doing Your will.
+        - generic [ref=f1e411]: Ⲡⲉⲕⲗⲁⲟⲥ ⲇⲉ ⲙⲁⲣⲉϥϣⲱⲡⲓ ϧⲉⲛ ⲡⲓⲥ̀ⲙⲟⲩ ⲉ̀ϩⲁⲛⲁⲛϣⲟ ⲛ̀ϣⲟ ⲛⲉⲙ ϩⲁⲛⲑ̀ⲃⲁ ⲛ̀ⲑ̀ⲃⲁ ⲉⲩⲓ̀ⲣⲓ ⲙ̀ⲡⲉⲕⲟⲩⲱϣ.
+        - generic [ref=f1e412]: وأما شعبُكَ فليكن بالبَركةِ، ألوفَ ألوفٍ وربواتَ ربواتٍ، يصنعونَ إرادتَكَ.
+      - generic [ref=f1e413]:
+        - generic [ref=f1e414]: "The priest turns to the East and censes three times, saying inaudibly:"
+        - generic [ref=f1e415]: "ثم يبخر شرقا ثلاث أياد وهو يقول سراً:"
+      - generic [ref=f1e416]:
+        - generic [ref=f1e417]:
+          - generic [ref=f1e418]: "Priest:"
+          - text: Through the grace, compassion, and love-of-mankind of Your only-begotten Son, our Lord, God, and Savior Jesus Christ.
+        - generic [ref=f1e419]:
+          - generic [ref=f1e420]: "Ⲡⲓⲟⲩⲏⲃ:"
+          - text: "Ϧⲉⲛ ⲡⲓϩ̀ⲙⲟⲧ ⲛⲉⲙ ⲛⲓⲙⲉⲧϣⲉⲛϩⲏⲧ ⲛⲉⲙ ϯⲙⲉⲧⲙⲁⲓⲣⲱⲙⲓ ⲛ̀ⲧⲉ ⲡⲉⲕⲙⲟⲛⲟⲅⲉⲛⲏⲥ ⲛ̀Ϣⲏⲣⲓ: Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ Ⲡⲉⲛⲛⲟⲩϯ ⲟⲩⲟϩ ⲡⲉⲛⲥⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ."
+        - generic [ref=f1e421]:
+          - generic [ref=f1e422]: "الكاهنُ:"
+          - text: بالنعمةِ والرأفاتِ ومحبةِ البشرِ اللواتي لابنِكَ الوحيدِ، ربِّنا وإلهِنا ومخلِّصِنا يسوعَ المسيحِ.
+      - generic [ref=f1e423]:
+        - generic [ref=f1e424]: through whom the glory, honor, dominion, and worship are due unto You, with Him and the Holy Spirit, the Giver of Life, who is of one essence with You,
+        - generic [ref=f1e425]: "Ⲫⲁⲓ ⲉ̀ⲧⲉ ⲉ̀ⲃⲟⲗ ϩⲓⲧⲟⲧϥ ⲉ̀ⲣⲉ ⲡⲓⲱ̀ⲟⲩ ⲛⲉⲙ ⲡⲓⲧⲁⲓⲟ ⲛⲉⲙ ⲡⲓⲁ̀ⲙⲁϩⲓ ⲛⲉⲙ ϯⲡ̀ⲣⲟⲥⲕⲩⲛⲏⲥⲓⲥ: ⲉⲣⲡ̀ⲣⲉⲡⲓ ⲛⲁⲕ ⲛⲉⲙⲁϥ: ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲣⲉϥⲧⲁⲛϧⲟ ⲟⲩⲟϩ ⲛ̀ⲟ̀ⲙⲟⲟⲩⲥⲓⲟⲥ ⲛⲉⲙⲁⲕ."
+        - generic [ref=f1e426]: هذا الذي مِنْ قبَلِه، المجدُ والكرامةُ والعزة والسجودُ، تليقُ بكَ معَهُ، ومعَ الرّوحِ القُدُسِ المُحيي المساوي لكَ.
+      - generic [ref=f1e427]:
+        - generic [ref=f1e428]: now and at all times and unto the age of all ages. Amen.
+        - generic [ref=f1e429]: "Ϯⲛⲟⲩ ⲛⲉⲙ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ ⲛⲉⲙ ϣⲁ ⲉ̀ⲛⲉϩ ⲛ̀ⲧⲉ ⲛⲓⲉ̀ⲛⲉϩ ⲧⲏⲣⲟⲩ: ⲁ̀ⲙⲏⲛ."
+        - generic [ref=f1e430]: الآنَ وكلَّ أوانٍ وإلى دهرِ الدهورِ كلِّها. آمين.
+      - generic [ref=f1e431]:
+        - generic [ref=f1e432]: At the words “Through whom” (Ⲫⲁⲓ ⲉ̀ⲧⲉ), the priest again censes three times toward the East, then gives the censer to the deacon.
+        - generic [ref=f1e433]: وعند ما يقول Ⲫⲁⲓ ⲉ̀ⲧⲉ يعطي البخور إلى الشرقِ ثلاث مرات. ثم يعطي المجمرة للشماس.
+    - generic [ref=f1e434]:
+      - generic [ref=f1e435]:
+        - generic [ref=f1e436]: "Deacon:"
+        - text: In the wisdom of God, let us attend. Lord have mercy. Lord have mercy. Truly…
+      - generic [ref=f1e437]:
+        - generic [ref=f1e438]: "Ⲡⲓⲇⲓⲁⲕⲱⲛ:"
+        - text: "Ⲉⲛ ⲥⲟⲫⲓⲁ Ⲑⲉⲟⲩ ⲡ̀ⲣⲟⲥⲭⲱⲙⲉⲛ: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ..."
+      - generic [ref=f1e439]:
+        - generic [ref=f1e440]: "الشماس:"
+        - text: أنصتوا بحكمة الله، يارب إرحم، يارب إرحم. بالحقيقة...
+    - table [ref=f1e443]:
+      - rowgroup [ref=f1e444]:
+        - row "The Orthodox Creed (قانون الإيمان المقدس الأرثوذكسي)" [ref=f1e445]:
+          - cell [ref=f1e446]:
+            - img [ref=f1e447]
+          - cell "The Orthodox Creed (قانون الإيمان المقدس الأرثوذكسي)" [ref=f1e448]:
+            - button "The Orthodox Creed (قانون الإيمان المقدس الأرثوذكسي)" [ref=f1e449]:
+              - text: The Orthodox Creed
+              - text: (قانون الإيمان المقدس الأرثوذكسي)
+    - generic [ref=f1e450]:
+      - generic [ref=f1e451]:
+        - generic [ref=f1e452]:
+          - generic [ref=f1e453]: "People:"
+          - text: We believe in one God, God the Father, the Pantocrator, Creator of heaven and earth, and of all things seen and unseen.
+        - generic [ref=f1e454]:
+          - generic [ref=f1e455]: "Ⲡⲓⲗⲁⲟⲥ:"
+          - text: "Ⲧⲉⲛⲛⲁϩϯ ⲉ̀ⲟⲩⲛⲟⲩϯ ⲛ̀ⲟⲩⲱⲧ: Ⲫⲛⲟⲩϯ Ⲫⲓⲱⲧ ⲡⲓⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ: ⲫⲏⲉ̀ⲧⲁϥⲑⲁⲙⲓⲟ ⲛ̀ⲧ̀ⲫⲉ ⲛⲉⲙ ⲡ̀ⲕⲁϩⲓ: ⲛⲏⲉ̀ⲧⲟⲩⲛⲁⲩ ⲉ̀ⲣⲱⲟⲩ ⲛⲉⲙ ⲛⲏⲉ̀ⲧⲉ ⲛ̀ⲥⲉⲛⲁⲩ ⲉ̀ⲣⲱⲟⲩ ⲁⲛ."
+        - generic [ref=f1e456]:
+          - generic [ref=f1e457]: "الشعبُ:"
+          - text: نؤمنُ بإلهٍ واحدٍ، اللهِ الآبِ، ضابطِ الكلِ، خالقِ السماءِ والأرضِ، ما يُرَى وما لا يُرَى.
+      - generic [ref=f1e458]:
+        - generic [ref=f1e459]: We believe in one Lord, Jesus Christ, the only-begotten Son of God, begotten of the Father before all ages.
+        - generic [ref=f1e460]: "Ⲧⲉⲛⲛⲁϩϯ ⲉ̀ⲟⲩϭⲟⲓⲥ ⲛ̀ⲟⲩⲱⲧ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡϣⲏⲣⲓ ⲙ̀Ⲫⲛⲟⲩϯ ⲡⲓⲙⲟⲛⲟⲅⲉⲛⲏⲥ: ⲡⲓⲙⲓⲥⲓ ⲉ̀ⲃⲟⲗϧⲉⲛ Ⲫⲓⲱⲧ ϧⲁϫⲱⲟⲩ ⲛ̀ⲛⲓⲉ̀ⲱⲛ ⲧⲏⲣⲟⲩ:"
+        - generic [ref=f1e461]: نؤمنُ بربٍ واحدٍ يسوعَ المسيحِ، ابنِ اللهِ الوحيدِ، المولودِ مِنَ الآبِ قبلَ كلِّ الدهورِ.
+      - generic [ref=f1e462]:
+        - generic [ref=f1e463]: Light of Light, true God of true God; begotten, not created; of one essence with the Father; by whom all things were made.
+        - generic [ref=f1e464]: "ⲟⲩⲟⲩⲱⲓⲛⲓ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲟⲩⲟⲩⲱⲓⲛⲓ: ⲟⲩⲛⲟⲩϯ ⲛ̀ⲧⲁⲫ̀ⲙⲏⲓ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲟⲩⲛⲟⲩϯ ⲛ̀ⲧⲁⲫ̀ⲙⲏⲓ: ⲟⲩⲙⲓⲥⲓ ⲡⲉ ⲟⲩⲑⲁⲙⲓⲟ ⲁⲛ ⲡⲉ ⲟⲩⲟ̀ⲙⲟⲟⲩⲥⲓⲟⲥ ⲡⲉ ⲛⲉⲙ Ⲫⲓⲱⲧ: ⲫⲏⲉ̀ⲧⲁ ϩⲱⲃ ⲛⲓⲃⲉⲛ ϣⲱⲡⲓ ⲉ̀ⲃⲟⲗ ϩⲓⲧⲟⲧϥ."
+        - generic [ref=f1e465]: نورٍ مِنْ نورٍ، إلهِ حقٍ مِنْ إلهِ حقٍ، مولودٍ غيرِ مخلوقٍ، مساوٍ للآبِ في الجوهرِ، الذي بِهِ كانَ كلُّ شيءٍ.
+      - generic [ref=f1e466]:
+        - generic [ref=f1e467]: Who for us men and for our salvation came down from heaven, was incarnate of the Holy Spirit and of the Virgin Mary, and became man.
+        - generic [ref=f1e468]: "Ⲫⲁⲓ ⲉ̀ⲧⲉ ⲉⲑⲃⲏⲧⲉⲛ ⲁ̀ⲛⲟⲛ ϧⲁ ⲛⲓⲣⲱⲙⲓ ⲛⲉⲙ ⲉⲑⲃⲉ ⲡⲉⲛⲟⲩϫⲁⲓ: ⲁϥⲓ̀ ⲉ̀ⲡⲉⲥⲏⲧ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲧ̀ⲫⲉ: ⲁϥϭⲓⲥⲁⲣⲝ ⲉ̀ⲃⲟⲗϧⲉⲛ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ ⲛⲉⲙ ⲉ̀ⲃⲟⲗϧⲉⲛ Ⲙⲁⲣⲓⲁ ϯⲡⲁⲣⲑⲉⲛⲟⲥ ⲟⲩⲟϩ ⲁϥⲉⲣⲣⲱⲙⲓ."
+        - generic [ref=f1e469]: هذا الذي مِنْ أجلِنا نحنُ البشرَ، ومِنْ أجلِ خلاصِنا، نزِلَ مِنَ السماءِ، وتجسدَ مِنَ الرّوحِ القُدُسِ ومِنْ مريمَ العذراءِ، وتأنسَ،
+      - generic [ref=f1e470]:
+        - generic [ref=f1e471]: And He was crucified for us under Pontius Pilate, suffered and was buried, and on the third day He rose from the dead according to the Scriptures.
+        - generic [ref=f1e472]: "Ⲟⲩⲟϩ ⲁⲩⲉⲣⲥ̀ⲧⲁⲩⲣⲱⲛⲓⲛ ⲙ̀ⲙⲟϥ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ ⲛⲁϩⲣⲉⲛ Ⲡⲟⲛⲧⲓⲟⲥ Ⲡⲓⲗⲁⲧⲟⲥ: ⲁϥϣⲉⲡⲉⲙⲕⲁϩ ⲟⲩⲟϩ ⲁⲩⲕⲟⲥϥ. Ⲟⲩⲟϩ ⲁϥⲧⲱⲛϥ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ ϧⲉⲛ ⲡⲓⲉ̀ϩⲟⲟⲩ ⲙ̀ⲙⲁϩϣⲟⲙⲧ ⲕⲁⲧⲁ ⲛⲓⲅ̀ⲣⲁⲫⲏ."
+        - generic [ref=f1e473]: وصُلِبَ عنَّا على عهدِ بيلاطسَ البُنطيِّ، تألّمَ وقُبِرَ وقامَ مِنْ بينِ الأمواتِ في اليومِ الثالثِ كما في الكتبِ.
+      - generic [ref=f1e474]:
+        - generic [ref=f1e475]: Ascended into the heavens; He sits at the right hand of His Father, and He is coming again in His glory to judge the living and the dead, whose kingdom shall have no end.
+        - generic [ref=f1e476]: "Ⲁϥϣⲉⲛⲁϥ ⲉ̀ⲡ̀ϣⲱⲓ ⲉ̀ⲛⲓⲫⲏⲟⲩⲓ: ⲁϥϩⲉⲙⲥⲓ ⲥⲁⲟⲩⲓⲛⲁⲙ ⲙ̀ⲡⲉϥⲓⲱⲧ. Ⲕⲉ ⲡⲁⲗⲓⲛ ϥ̀ⲛⲏⲟⲩ ϧⲉⲛ ⲡⲉϥⲱ̀ⲟⲩ ⲉ̀ϯϩⲁⲡ ⲉ̀ⲛⲏⲉⲧⲟⲛϧ ⲛⲉⲙ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ: ⲫⲏⲉ̀ⲧⲉ ⲧⲉϥⲙⲉⲧⲟⲩⲣⲟ ⲟⲩⲁⲑⲙⲟⲩⲛⲕ ⲧⲉ."
+        - generic [ref=f1e477]: وصَعِدَ إلى السماواتِ، وجلسَ عن يمينِ أبيهِ، وأيضاً يأتي في مجدِهِ ليُدينَ الأحياءَ والأمواتَ، الذي ليسَ لمُلكِهِ انقضاءٌ.
+      - generic [ref=f1e478]:
+        - generic [ref=f1e479]: Yes, we believe in the Holy Spirit, the Lord, the Giver of Life, who proceeds from the Father, who with the Father and the Son, is worshiped and glorified, who spoke by the prophets.
+        - generic [ref=f1e480]: "Ⲥⲉ ⲧⲉⲛⲛⲁϩϯ ⲉ̀Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ Ⲡϭⲟⲓⲥ ⲛ̀ⲣⲉϥϯ ⲙ̀ⲡ̀ⲱⲛϧ: ⲫⲏⲉⲑⲛⲏⲟⲩ ⲉ̀ⲃⲟⲗϧⲉⲛ Ⲫ̀ⲓⲱⲧ: ⲥⲉⲟⲩⲱϣⲧ ⲙ̀ⲙⲟϥ ⲥⲉϯ ⲱ̀ⲟⲩ ⲛⲁϥ ⲛⲉⲙ Ⲫⲓⲱⲧ ⲛⲉⲙ Ⲡϣⲏⲣⲓ: ⲫⲏⲉ̀ⲧⲁϥⲥⲁϫⲓ ϧⲉⲛ ⲛⲓⲡ̀ⲣⲟⲫⲏⲧⲏⲥ."
+        - generic [ref=f1e481]: نَعَم نؤمنُ بالرّوحِ القُدُسِ، الربِّ المحيي المنبثقِ مِنَ الآبِ. نسجدُ لهُ ونمجدُهُ معَ الآبِ والابنِ، الناطقِ في الأنبياءِ.
+      - generic [ref=f1e482]:
+        - generic [ref=f1e483]: And in one holy, catholic (universal), and apostolic Church. We confess one baptism, for the remission of sins.
+        - generic [ref=f1e484]: Ⲉⲟⲩⲓ ⲛ̀ⲁ̀ⲅⲓⲁ ⲛ̀ⲕⲁⲑⲟⲗⲓⲕⲏ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲓⲕⲏ ⲛ̀ⲉⲕⲕ̀ⲗⲏⲥⲓⲁ̀. Ⲧⲉⲛⲉⲣⲟ̀ⲙⲟⲗⲟⲅⲓⲛ ⲛ̀ⲟⲩⲱⲙⲥ ⲛ̀ⲟⲩⲱⲧ ⲉ̀ⲡ̀ⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲓⲛⲟⲃⲓ.
+        - generic [ref=f1e485]: وبكنيسةٍ واحدةٍ مُقدسَةٍ جامعةٍ رسوليةٍ. ونعترفُ بمعموديةٍ واحدةٍ لمغفِرةِ الخطايا.
+      - generic [ref=f1e486]:
+        - generic [ref=f1e487]: The people chant the last sentence in a loud voice.
+        - generic [ref=f1e488]: "ثم يقول الشعب جهراً هذه الجملة الأخيرة مِنْ قانون الإيمان، وهي:"
+      - generic [ref=f1e489]:
+        - generic [ref=f1e490]: We look for the resurrection of the dead, and the life of the age to come. Amen.
+        - generic [ref=f1e491]: "Ⲧⲉⲛϫⲟⲩϣⲧ ⲉ̀ⲃⲟⲗ ϧⲁⲧ̀ϩⲏ ⲛ̀ϯⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ ⲛ̀ⲧⲉ ⲛⲓⲣⲉϥⲙⲱⲟⲩⲧ: ⲛⲉⲙ ⲡⲓⲱⲛϧ ⲛ̀ⲧⲉ ⲡⲓⲉ̀ⲱⲛ ⲉⲑⲛⲏⲟⲩ: ⲁ̀ⲙⲏⲛ."
+        - generic [ref=f1e492]: وننتظرُ قيامةَ الأمواتِ، وحياةَ الدهرِ الآتي. آمين.
+    - table [ref=f1e495]:
+      - rowgroup [ref=f1e496]:
+        - row "You shall sprinkle... (Ⲉⲕⲉ̀ⲛⲟⲩϫϧ ⲉ̀ϫⲱⲓ...)" [ref=f1e497]:
+          - cell [ref=f1e498]:
+            - img [ref=f1e499]
+          - cell "You shall sprinkle... (Ⲉⲕⲉ̀ⲛⲟⲩϫϧ ⲉ̀ϫⲱⲓ...)" [ref=f1e500]:
+            - button "You shall sprinkle... (Ⲉⲕⲉ̀ⲛⲟⲩϫϧ ⲉ̀ϫⲱⲓ...)" [ref=f1e501]:
+              - text: You shall sprinkle...
+              - text: (Ⲉⲕⲉ̀ⲛⲟⲩϫϧ ⲉ̀ϫⲱⲓ...)
+    - generic [ref=f1e502]:
+      - generic [ref=f1e503]: Now the priest looks toward the west, shakes the water off his hands before all the people, then dries his hands with a clean towel.
+      - generic [ref=f1e504]: ثم يلتفت إلى الغرب وينفض يديه أمام جميع الشعب وينشفها في ستر نظيف.
+    - generic [ref=f1e505]:
+      - generic [ref=f1e506]:
+        - generic [ref=f1e507]: "Priest:"
+        - text: Let us pray.
+      - generic [ref=f1e508]:
+        - generic [ref=f1e509]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: Ϣⲗⲏⲗ.
+      - generic [ref=f1e510]:
+        - generic [ref=f1e511]: "الكاهنُ:"
+        - text: صلوا.
+    - generic [ref=f1e512]:
+      - generic [ref=f1e513]:
+        - generic [ref=f1e514]: "Deacon:"
+        - text: Stand up for prayer.
+      - generic [ref=f1e515]:
+        - generic [ref=f1e516]: "Ⲡⲓⲇⲓⲁⲕⲱⲛ:"
+        - text: Ⲉⲡⲓ ⲡ̀ⲣⲟⲥⲉⲩⲭⲏ ⲥ̀ⲧⲁⲑⲏⲧⲉ.
+      - generic [ref=f1e517]:
+        - generic [ref=f1e518]: "الشماس:"
+        - text: للصلاة قفوا.
+    - generic [ref=f1e519]:
+      - generic [ref=f1e520]: "The priest bows his head toward his fellow priests, and, while turning toward the west, he makes the sign of the cross over the people with his right hand, and says:"
+      - generic [ref=f1e521]: "ثم يحنى الكاهن رأسه نحو إخوته الكهنة، ويلتفت إلى الغرب ويرشم الشعب بيده اليمنى بمثال الصليب وهو يقول:"
+    - generic [ref=f1e522]:
+      - generic [ref=f1e523]:
+        - generic [ref=f1e524]: "Priest:"
+        - text: Peace be with all.
+      - generic [ref=f1e525]:
+        - generic [ref=f1e526]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: Ⲓⲣⲏⲛⲏ ⲡⲁⲥⲓ.
+      - generic [ref=f1e527]:
+        - generic [ref=f1e528]: "الكاهنُ:"
+        - text: السلام للكل.
+    - generic [ref=f1e529]:
+      - generic [ref=f1e530]:
+        - generic [ref=f1e531]: "People:"
+        - text: And with your spirit.
+      - generic [ref=f1e532]:
+        - generic [ref=f1e533]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ ⲥⲟⲩ.
+      - generic [ref=f1e534]:
+        - generic [ref=f1e535]: "الشعبُ:"
+        - text: ولروحك أيضاً.
+    - table [ref=f1e538]:
+      - rowgroup [ref=f1e539]:
+        - row "Prayer of Reconciliation (صلاة الصلح)" [ref=f1e540]:
+          - cell [ref=f1e541]:
+            - img [ref=f1e542]
+          - cell "Prayer of Reconciliation (صلاة الصلح)" [ref=f1e543]:
+            - button "Prayer of Reconciliation (صلاة الصلح)" [ref=f1e544]:
+              - text: Prayer of Reconciliation
+              - text: (صلاة الصلح)
+    - generic [ref=f1e545]:
+      - generic [ref=f1e546]:
+        - generic [ref=f1e547]:
+          - generic [ref=f1e548]: "Priest:"
+          - text: O God, the Great, the Eternal, who formed man in incorruption;
+        - generic [ref=f1e549]:
+          - generic [ref=f1e550]: "Ⲡⲓⲟⲩⲏⲃ:"
+          - text: "Ⲫⲛⲟⲩϯ ⲡⲓⲛⲓϣϯ ⲡⲓϣⲁⲉ̀ⲛⲉϩ: ⲫⲏⲉ̀ⲧⲁϥⲕⲱⲧ ⲙ̀ⲡⲓⲣⲱⲙⲓ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲉⲛ ϯⲙⲉⲧⲁⲧⲧⲁⲕⲟ."
+        - generic [ref=f1e551]:
+          - generic [ref=f1e552]: "الكاهنُ:"
+          - text: يا اللهُ العظيمُ الأبدي، الذي جَبَلَ الإنسانَ على غيرِ فسادٍ.
+      - generic [ref=f1e553]:
+        - generic [ref=f1e554]: and death, which entered into the world through the envy of the devil, You have destroyed by the life-giving manifestation of Your only-begotten Son, our Lord, God, and Savior Jesus Christ.
+        - generic [ref=f1e555]: "Ⲟⲩⲟϩ ⲫ̀ⲙⲟⲩ ⲉ̀ⲧⲁϥⲓ̀ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲕⲟⲥⲙⲟⲥ: ϩⲓⲧⲉⲛ ⲡⲓⲫ̀ⲑⲟⲛⲟⲥ ⲛ̀ⲧⲉ ⲡⲓⲇⲓⲁⲃⲟⲗⲟⲥ: ⲁⲕϣⲉⲣϣⲱⲣϥ ϩⲓⲧⲉⲛ ⲡⲓⲟⲩⲱⲛϩ ⲉ̀ⲃⲟⲗ ⲛ̀ⲣⲉϥⲧⲁⲛϧⲟ: ⲛ̀ⲧⲉ ⲡⲉⲕⲙⲟⲛⲟⲅⲉⲛⲏⲥ ⲛ̀Ϣⲏⲣⲓ: Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ Ⲡⲉⲛⲛⲟⲩϯ ⲟⲩⲟϩ ⲡⲉⲛⲥⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ."
+        - generic [ref=f1e556]: والموتُ الذي دخلَ إلى العالمِ بحسَدِ إبليسَ هَدَمْتَهُ، بالظهورِ المحيِي الذي لابنِكَ الوحيدِ ربِّنا وإلهِنا ومخلِّصنا يسوعَ المسيحِ.
+      - generic [ref=f1e557]:
+        - generic [ref=f1e558]: You have filled the earth with the heavenly peace
+        - generic [ref=f1e559]: Ⲟⲩⲟϩ ⲁⲕⲙⲟϩ ⲙ̀ⲡⲓⲕⲁϩⲓ ⲉ̀ⲃⲟⲗϧⲉⲛ ϯϩⲓⲣⲏⲛⲏ ϯⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ.
+        - generic [ref=f1e560]: وملأتَ الأرضَ من السلامِ الذي من السمواتِ.
+      - generic [ref=f1e561]:
+        - generic [ref=f1e562]: by which the host of angels glorify You, saying,
+        - generic [ref=f1e563]: Ⲑⲁⲓ ⲉⲧⲉ̀ⲣⲉ ϯⲥ̀ⲧⲣⲁⲧⲓⲁ ⲛ̀ⲧⲉ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ ϯⲱ̀ⲟⲩ ⲛⲁⲕ ⲛ̀ϧⲏⲧⲥ ⲉⲩϫⲱ ⲙ̀ⲙⲟⲥ.
+        - generic [ref=f1e564]: "هذا الذي أجنادُ الملائكةِ يمجدونَكَ به قائلين:"
+      - generic [ref=f1e565]:
+        - generic [ref=f1e566]: “Glory to God in the highest, peace on earth, and good will toward men.”
+        - generic [ref=f1e567]: "Ϫⲉ ⲟⲩⲱ̀ⲟⲩ ⲙ̀Ⲫⲛⲟⲩϯ ϧⲉⲛ ⲛⲏⲉⲧϭⲟⲥⲓ: ⲛⲉⲙ ⲟⲩϩⲓⲣⲏⲛⲏ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ: ⲛⲉⲙ ⲟⲩϯⲙⲁϯ ϧⲉⲛ ⲛⲓⲣⲱⲙⲓ."
+        - generic [ref=f1e568]: ”المجدُ للهِ في الأعالي، وعلى الأرضِ السلامُ، وفي الناسِ المسرةُ.“
+      - generic [ref=f1e569]:
+        - generic [ref=f1e570]:
+          - generic [ref=f1e571]: "Deacon:"
+          - text: Pray for perfect peace, love, and the holy apostolic greetings.
+        - generic [ref=f1e572]:
+          - generic [ref=f1e573]: "Ⲡⲓⲇⲓⲁⲕⲱⲛ:"
+          - text: Ⲡⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲏⲥ ⲧⲉⲗⲓⲁⲥ ⲓ̀ⲣⲏⲛⲏⲥ ⲕⲉ ⲁ̀ⲅⲁⲡⲏⲥ ⲕⲉ ⲧⲱⲛ ⲁ̀ⲅⲓⲱⲛ ⲁⲥⲡⲁⲥⲙⲱⲛ ⲧⲱⲛ ⲁ̀ⲡⲟⲥⲧⲟⲗⲱⲛ.
+        - generic [ref=f1e574]:
+          - generic [ref=f1e575]: "الشماس:"
+          - text: صلوا من أجل السلام الكامل والمحبّةِ، والقبلةِ الطاهرة الرسولية.
+      - generic [ref=f1e576]:
+        - generic [ref=f1e577]:
+          - generic [ref=f1e578]: "People:"
+          - text: Lord have mercy.
+        - generic [ref=f1e579]:
+          - generic [ref=f1e580]: "Ⲡⲓⲗⲁⲟⲥ:"
+          - text: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.
+        - generic [ref=f1e581]:
+          - generic [ref=f1e582]: "الشعبُ:"
+          - text: يارب إرحم.
+      - generic [ref=f1e583]:
+        - generic [ref=f1e584]:
+          - generic [ref=f1e585]: "Priest:"
+          - text: According to Your good will, O God, fill our hearts with Your peace.
+        - generic [ref=f1e586]:
+          - generic [ref=f1e587]: "Ⲡⲓⲟⲩⲏⲃ:"
+          - text: Ϧⲉⲛ ⲡⲉⲕϯⲙⲁϯ Ⲫⲛⲟⲩϯ ⲙⲟϩ ⲛ̀ⲛⲉⲛϩⲏⲧ ϧⲉⲛ ⲧⲉⲕϩⲓⲣⲏⲛⲏ.
+        - generic [ref=f1e588]:
+          - generic [ref=f1e589]: "الكاهنُ:"
+          - text: بمسرَّتِكَ يا الله، املأ قلوبَنا من سلامِكَ
+      - generic [ref=f1e590]:
+        - generic [ref=f1e591]: Cleanse us from all blemish, all guile, all hypocrisy, all craftiness, and the remembrance of vice bearing death.
+        - generic [ref=f1e592]: "Ⲟⲩⲟϩ ⲙⲁⲧⲟⲩⲃⲟⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲑⲱⲗⲉⲃ ⲛⲓⲃⲉⲛ: ⲛⲉⲙ ⲭ̀ⲣⲟϥ ⲛⲓⲃⲉⲛ: ⲛⲉⲙ ⲙⲉⲧϣⲟⲃⲓ ⲛⲓⲃⲉⲛ: ⲛⲉⲙ ⲡⲁⲛⲟⲩⲣⲅⲓⲁ ⲛⲓⲃⲉⲛ: ⲛⲉⲙ ϯⲙⲉⲧⲣⲉϥⲉⲣⲫ̀ⲙⲉⲩⲓ̀ ⲛ̀ⲧⲉ ϯⲕⲁⲕⲓⲁ ⲉⲧⲉⲣⲫⲟⲣⲓⲛ ⲙ̀ⲫ̀ⲙⲟⲩ."
+        - generic [ref=f1e593]: وطهِّرْنا من كلِّ دنسٍ، ومن كلِّ غشٍّ، ومن كلِّ رياءٍ، ومن كلِّ فعلٍ خبيثٍ، ومن تذكارِ الشرِّ اللابِس الموت.
+      - generic [ref=f1e594]:
+        - generic [ref=f1e595]: And make us all worthy, O our Master, to greet one another with a holy kiss,
+        - generic [ref=f1e596]: "Ⲟⲩⲟϩ ⲁ̀ⲣⲓⲧⲉⲛ ⲛ̀ⲉⲙⲡ̀ϣⲁ ⲧⲏⲣⲉⲛ ⲡⲉⲛⲛⲏⲃ: ⲉⲑⲣⲉⲛ ⲉⲣⲁⲥⲡⲁⲍⲉⲥⲑⲉ ⲛ̀ⲛⲉⲛⲉ̀ⲣⲏⲟⲩ ϧⲉⲛ ⲟⲩⲫⲓ ⲉⲥⲟⲩⲁⲃ."
+        - generic [ref=f1e597]: واجعلنا مستحقين كُلَّنا يا سيدَنا، أن نُقَبِّلَ بعضُنا بعضاً بقبلةٍ مقدسةٍ.
+      - generic [ref=f1e598]:
+        - generic [ref=f1e599]: that, without casting us into condemnation, we may partake of Your immortal and heavenly gift in Christ Jesus our Lord.
+        - generic [ref=f1e600]: "Ⲉⲡ̀ϫⲓⲛⲧⲉⲛϭⲓ ϧⲉⲛ ⲟⲩⲙⲉⲧⲁⲧϩⲓⲧⲧⲉⲛ ⲉ̀ⲡ̀ϩⲁⲡ: ⲉ̀ⲃⲟⲗϧⲉⲛ ⲧⲉⲕⲇⲱⲣⲉⲁ̀ ⲛ̀ⲁⲑⲙⲟⲩ ⲟⲩⲟϩ ⲛ̀ⲉⲡⲟⲩⲣⲁⲛⲓⲟⲛ: ϧⲉⲛ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ."
+        - generic [ref=f1e601]: لكي ننالَ بغيِر طَرْحِنا في دينونةٍ، من موهِبَتِكَ غيرِ المائتةِ السمائيةِ، بالمسيحِ يسوعَ ربِّنا.
+    - table [ref=f1e604]:
+      - rowgroup [ref=f1e605]:
+        - row "Another Prayer of Reconciliation to the Father (صلاة صلح أخرى للآب)" [ref=f1e606]:
+          - cell [ref=f1e607]:
+            - img [ref=f1e608]
+          - cell "Another Prayer of Reconciliation to the Father (صلاة صلح أخرى للآب)" [ref=f1e609]:
+            - button "Another Prayer of Reconciliation to the Father (صلاة صلح أخرى للآب)" [ref=f1e610]:
+              - text: Another Prayer of Reconciliation to the Father
+              - text: (صلاة صلح أخرى للآب)
+    - table [ref=f1e613]:
+      - rowgroup [ref=f1e614]:
+        - 'row "Adam Aspasmos: Our fathers the apostles... (الاسبسمس الادام: أباؤنا الرسل...)" [ref=f1e615]':
+          - cell [ref=f1e616]:
+            - img [ref=f1e617]
+          - 'cell "Adam Aspasmos: Our fathers the apostles... (الاسبسمس الادام: أباؤنا الرسل...)" [ref=f1e618]':
+            - 'button "Adam Aspasmos: Our fathers the apostles... (الاسبسمس الادام: أباؤنا الرسل...)" [ref=f1e619]':
+              - text: "Adam Aspasmos: Our fathers the apostles..."
+              - text: "(الاسبسمس الادام: أباؤنا الرسل...)"
+    - table [ref=f1e622]:
+      - rowgroup [ref=f1e623]:
+        - row "Standard Adam Aspasmos (Ⲟⲩⲛⲟϥ ⲙ̀ⲙⲟ...)" [ref=f1e624]:
+          - cell [ref=f1e625]:
+            - img [ref=f1e626]
+          - cell "Standard Adam Aspasmos (Ⲟⲩⲛⲟϥ ⲙ̀ⲙⲟ...)" [ref=f1e627]:
+            - button "Standard Adam Aspasmos (Ⲟⲩⲛⲟϥ ⲙ̀ⲙⲟ...)" [ref=f1e628]:
+              - text: Standard Adam Aspasmos
+              - text: (Ⲟⲩⲛⲟϥ ⲙ̀ⲙⲟ...)
+    - table [ref=f1e631]:
+      - rowgroup [ref=f1e632]:
+        - row "A Second Standard Adam Aspasmos (Ⲁⲣⲓⲁⲥⲡⲁⲍⲉⲥⲑⲉ...)" [ref=f1e633]:
+          - cell [ref=f1e634]:
+            - img [ref=f1e635]
+          - cell "A Second Standard Adam Aspasmos (Ⲁⲣⲓⲁⲥⲡⲁⲍⲉⲥⲑⲉ...)" [ref=f1e636]:
+            - button "A Second Standard Adam Aspasmos (Ⲁⲣⲓⲁⲥⲡⲁⲍⲉⲥⲑⲉ...)" [ref=f1e637]:
+              - text: A Second Standard Adam Aspasmos
+              - text: (Ⲁⲣⲓⲁⲥⲡⲁⲍⲉⲥⲑⲉ...)
+    - table [ref=f1e640]:
+      - rowgroup [ref=f1e641]:
+        - row "A Third Standard Adam Aspasmos (Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ...)" [ref=f1e642]:
+          - cell [ref=f1e643]:
+            - img [ref=f1e644]
+          - cell "A Third Standard Adam Aspasmos (Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ...)" [ref=f1e645]:
+            - button "A Third Standard Adam Aspasmos (Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ...)" [ref=f1e646]:
+              - text: A Third Standard Adam Aspasmos
+              - text: (Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ...)
+    - link "Ordinations (الرسامات)" [ref=f1e649] [cursor=pointer]:
+      - /url: include/Ordinations@true
+      - text: Ordinations
+      - text: (الرسامات)
+    - generic [ref=f1e650]:
+      - generic [ref=f1e651]: "Then the deacon, holding the cross, says:"
+      - generic [ref=f1e652]: "ثم يقول الشماس وهو رافع الصليب:"
+    - generic [ref=f1e653]:
+      - generic [ref=f1e654]:
+        - generic [ref=f1e655]: "Deacon:"
+        - text: Greet one another with a holy kiss.
+      - generic [ref=f1e656]:
+        - generic [ref=f1e657]: "Ⲡⲓⲇⲓⲁⲕⲱⲛ:"
+        - text: Ⲁⲥⲡⲁⲍⲉⲥⲑⲉ ⲁⲗⲗⲏⲗⲟⲩⲥ ⲉⲛ ⲫⲓⲗⲏⲙⲁⲧⲓ ⲁⲅⲓⲱ.
+      - generic [ref=f1e658]:
+        - generic [ref=f1e659]: "الشماس:"
+        - text: قبلوا بعضكم بعضا بقبلة مقدسة
+    - generic [ref=f1e660]:
+      - generic [ref=f1e661]: Lord have mercy. Lord have mercy. Lord have mercy.
+      - generic [ref=f1e662]: "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ."
+      - generic [ref=f1e663]: ياربُّ ارحَم. ياربُّ ارحَم. ياربُّ ارحَم.
+    - generic [ref=f1e664]:
+      - generic [ref=f1e665]: Yes, Lord, who are Jesus Christ, the Son of God, hear us and have mercy upon us.
+      - generic [ref=f1e666]: "Ⲥⲉ Ⲕⲩⲣⲓⲉ: ⲉ̀ⲧⲉ ⲫⲁⲓ ⲡⲉ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡϣⲏⲣⲓ ⲙ̀Ⲫⲛⲟⲩϯ: ⲥⲱⲧⲉⲙ ⲉ̀ⲣⲟⲛ ⲟⲩⲟϩ ⲛⲁⲓ ⲛⲁⲛ."
+      - generic [ref=f1e667]: نعم ياربُّ، الذي هو يسوعُ المسيحُ ابنُ اللهِ، اسمعْنا وارحَمْنا.
+    - generic [ref=f1e668]:
+      - generic [ref=f1e669]: Offer, [offer, offer] in order. Stand with trembling. Look toward the East. Let us attend.
+      - generic [ref=f1e670]: "Ⲡⲣⲟⲥⲫⲉⲣⲓⲛ: ⲡⲣⲟⲥⲫⲉⲣⲓⲛ: ⲡⲣⲟⲥⲫⲉⲣⲓⲛ ⲕⲁⲧⲁ ⲧ̀ⲣⲟⲡⲟⲛ: ⲥ̀ⲧⲁⲑⲏⲧⲉ ⲕⲁⲧⲁ ⲧ̀ⲣⲟⲙⲟⲩ: ⲓⲥ ⲁ̀ⲛⲁⲧⲟⲗⲁⲥ ⲃ̀ⲗⲉⲯⲁⲧⲉ: ⲡ̀ⲣⲟⲥⲭⲱⲙⲉⲛ."
+      - generic [ref=f1e671]: تقدموا. [تقدموا. تقدموا] على الرسمِ، قفوا برعدةٍ، وإلى الشرقِ انظروا. ننصِتْ.
+    - table [ref=f1e674]:
+      - rowgroup [ref=f1e675]:
+        - row "Greet One Another (Great) (Ⲁⲥⲡⲁⲍⲉⲥⲑⲉ)" [ref=f1e676]:
+          - cell [ref=f1e677]:
+            - img [ref=f1e678]
+          - cell "Greet One Another (Great) (Ⲁⲥⲡⲁⲍⲉⲥⲑⲉ)" [ref=f1e679]:
+            - button "Greet One Another (Great) (Ⲁⲥⲡⲁⲍⲉⲥⲑⲉ)" [ref=f1e680]:
+              - text: Greet One Another (Great)
+              - text: (Ⲁⲥⲡⲁⲍⲉⲥⲑⲉ)
+    - generic [ref=f1e681]:
+      - generic [ref=f1e682]: The priests kiss one another with a holy kiss, as do the deacons and the congregation. Then the priest and the deacon who stands opposite to him raise the prospheron. (The raising of the prospheron is a symbol of the angel moving the stone from the tomb after the resurrection.)
+      - generic [ref=f1e683]: يقبل الكهنة بعضهم بعضاً قبلة روحية. وكذلك الشمامسة والشعب يقبلون بعضهم بعضاً. ثم إن الكاهن والشماس مقابله يرفعان الإبروسفارين. (رفع الإبروسفارين إشارة إلى دحرجة الملاك للحجر عن القبر بعد القيامة(.
+    - generic [ref=f1e684]:
+      - generic [ref=f1e685]:
+        - generic [ref=f1e686]: "People:"
+        - text: Through the intercessions, of the Theotokos Saint Mary, O Lord grant us, the forgiveness of our sins.
+      - generic [ref=f1e687]:
+        - generic [ref=f1e688]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ: ⲛ̀ⲧⲉ ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ ⲉⲑⲟⲩⲁⲃ Ⲙⲁⲣⲓⲁ: Ⲡϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ: ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ."
+      - generic [ref=f1e689]:
+        - generic [ref=f1e690]: "الشعبُ:"
+        - text: بشفاعاتِ والِدةِ، الإلهِ القدِّيسةِ مريمَ، يا ربُّ أنعِمْ لَنا، بمغفِرةِ خطايانا.
+    - generic [ref=f1e692]: "On joyful days (see note in About Menu for details):"
+    - generic [ref=f1e693]:
+      - generic [ref=f1e694]: We worship You O Christ, with Your good Father, and the Holy Spirit, for You have risen and saved us.
+      - generic [ref=f1e695]: "Ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲕ ⲱ̀ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲛⲉⲙ Ⲡⲉⲕⲓⲱⲧ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ: ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ: ϫⲉ ⲁⲕⲧⲱⲛⲕ ⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ."
+      - generic [ref=f1e696]: نسجدُ لكَ أيها المسيحُ، معَ أبيكَ الصالِحِ، والرُّوحِ القُدُسِ، لأنَّكَ قُمتَ وخلَّصتَنا.
+    - generic [ref=f1e697]:
+      - generic [ref=f1e698]: A mercy of peace, a sacrifice of praise.
+      - generic [ref=f1e699]: Ⲉⲗⲉⲟⲥ ⲓ̀ⲣⲏⲛⲏⲥ ⲑⲩⲥⲓⲁ ⲉ̀ⲛⲉⲥⲉⲱⲥ.
+      - generic [ref=f1e700]: رحمة السلام، ذبيحة التسبيح
+    - generic [ref=f1e701]:
+      - generic [ref=f1e702]: The priest transfers to his left hand the veil which he is holding, and he takes in his right hand the veil which is upon the oblation, and with it he makes the following three signs of the cross while keeping the two veils in his hands.
+      - generic [ref=f1e703]: ثم يضع الكاهن اللفافة التي معه على يده اليسرى. ويأخذ بيده اليمنى اللفافة التي على القربانة ويرشم بها الثلاثة الرشوم الآتية. وبعد ذلك يُبقي اللفافتين على يديه.
+    - generic [ref=f1e704]:
+      - generic [ref=f1e705]: Anaphora
+      - generic [ref=f1e706]: الانافورا
+    - generic [ref=f1e707]:
+      - generic [ref=f1e708]: "Turning to the west, the priest signs the people once with the sign of the cross, saying:"
+      - generic [ref=f1e709]: "يرشم الكاهن الشعب غرباً رشماً واحداً بمثال الصليب وهو يقول:"
+    - generic [ref=f1e710]:
+      - generic [ref=f1e711]:
+        - generic [ref=f1e712]: "Priest:"
+        - text: The Lord be with you all.
+      - generic [ref=f1e713]:
+        - generic [ref=f1e714]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: Ⲟ Ⲕⲩⲣⲓⲟⲥ ⲙⲉⲧⲁ ⲡⲁⲛⲧⲱⲛ ⲩ̀ⲙⲱⲛ.
+      - generic [ref=f1e715]:
+        - generic [ref=f1e716]: "الكاهنُ:"
+        - text: الرب مع جميعكم
+    - generic [ref=f1e717]:
+      - generic [ref=f1e718]:
+        - generic [ref=f1e719]: "People:"
+        - text: And with your spirit.
+      - generic [ref=f1e720]:
+        - generic [ref=f1e721]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: Ⲕⲉ ⲙⲉⲧⲁ ⲧⲟⲩ ⲡ̀ⲛⲉⲩⲙⲁⲧⲟⲥ ⲥⲟⲩ.
+      - generic [ref=f1e722]:
+        - generic [ref=f1e723]: "الشعبُ:"
+        - text: ومع روحك ايضاً
+    - generic [ref=f1e724]:
+      - generic [ref=f1e725]: "The priest turns to the East and signs the deacons on his right once with the sign of the cross, saying:"
+      - generic [ref=f1e726]: "يرشم الكاهن الخدام شرقاً عن يمينه رشماً واحداً وهو يقول:"
+    - generic [ref=f1e727]:
+      - generic [ref=f1e728]:
+        - generic [ref=f1e729]: "Priest:"
+        - text: Lift up your hearts.
+      - generic [ref=f1e730]:
+        - generic [ref=f1e731]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: Ⲁⲛⲱ ⲩ̀ⲙⲱⲛ ⲧⲁⲥ ⲕⲁⲣⲇⲓⲁⲥ.
+      - generic [ref=f1e732]:
+        - generic [ref=f1e733]: "الكاهنُ:"
+        - text: إرفعوا قلوبكم
+    - generic [ref=f1e734]:
+      - generic [ref=f1e735]:
+        - generic [ref=f1e736]: "People:"
+        - text: We have them with the Lord.
+      - generic [ref=f1e737]:
+        - generic [ref=f1e738]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: Ⲉⲭⲱⲙⲉⲛ ⲡ̀ⲣⲟⲥ ⲧⲟⲛ Ⲕⲩⲣⲓⲟⲛ.
+      - generic [ref=f1e739]:
+        - generic [ref=f1e740]: "الشعبُ:"
+        - text: هي عند الرب
+    - generic [ref=f1e741]:
+      - generic [ref=f1e742]: "The priest signs himself once with the sign of the cross, saying:"
+      - generic [ref=f1e743]: "ثم يرشم الكاهن ذاته رشماً واحداّ وهو يقول:"
+    - generic [ref=f1e744]:
+      - generic [ref=f1e745]:
+        - generic [ref=f1e746]: "Priest:"
+        - text: Let us give thanks to the Lord.
+      - generic [ref=f1e747]:
+        - generic [ref=f1e748]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: Ⲉⲩⲭⲁⲣⲓⲥⲧⲏⲥⲱⲙⲉⲛ ⲧⲱ Ⲕⲩⲣⲓⲱ.
+      - generic [ref=f1e749]:
+        - generic [ref=f1e750]: "الكاهنُ:"
+        - text: فلنشكر الرب
+    - generic [ref=f1e751]:
+      - generic [ref=f1e752]:
+        - generic [ref=f1e753]: "People:"
+        - text: It is meet and right.
+      - generic [ref=f1e754]:
+        - generic [ref=f1e755]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: Ⲁⲝⲓⲟⲛ ⲕⲉ ⲇⲓⲕⲉⲟⲛ.
+      - generic [ref=f1e756]:
+        - generic [ref=f1e757]: "الشعبُ:"
+        - text: مستحق وعادل
+    - generic [ref=f1e758]:
+      - generic [ref=f1e759]:
+        - generic [ref=f1e760]: "Priest:"
+        - text: Meet and right, meet and right; truly, indeed, it is meet and right.
+      - generic [ref=f1e761]:
+        - generic [ref=f1e762]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: "Ⲁⲝⲓⲟⲛ ⲕⲉ ⲇⲓⲕⲉⲟⲛ: ⲁⲝⲓⲟⲛ ⲕⲉ ⲇⲓⲕⲉⲟⲛ: ⲁ̀ⲗⲏⲑⲱⲥ ⲅⲁⲣ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ: ⲁⲝⲓⲟⲛ ⲕⲉ ⲇⲓⲕⲉⲟⲛ."
+      - generic [ref=f1e763]:
+        - generic [ref=f1e764]: "الكاهنُ:"
+        - text: مستحقٌ وعادلٌ. مستحقٌ وعادلٌ. لأنه حقاً بالحقيقةِ مستحقٌ وعادلٌ.
+    - generic [ref=f1e765]:
+      - generic [ref=f1e766]: O You, THE BEING, Master, Lord, God of Truth,
+      - generic [ref=f1e767]: Ⲫⲏⲉⲧϣⲟⲡ Ⲫⲛⲏⲃ Ⲡϭⲟⲓⲥ Ⲫⲛⲟⲩϯ ⲛ̀ⲧⲉ ϯⲙⲉⲑⲙⲏⲓ.
+      - generic [ref=f1e768]: أيها الكائنُ السيدُ الربُّ إلهُ الحقِ.
+    - generic [ref=f1e769]:
+      - generic [ref=f1e770]: being before the ages and reigning for ever;
+      - generic [ref=f1e771]: "Ⲫⲏⲉⲧϣⲟⲡ ϧⲁϫⲱⲟⲩ ⲛ̀ⲛⲓⲉ̀ⲛⲉϩ: ⲟⲩⲟϩ ⲉⲧⲟⲓ ⲛ̀ⲟⲩⲣⲟ ϣⲁ ⲉ̀ⲛⲉϩ."
+      - generic [ref=f1e772]: الكائِنُ قبلَ الدهورِ، والمالِكُ إلى الأبد.
+    - generic [ref=f1e773]:
+      - generic [ref=f1e774]: who dwells in the highest and looks upon the lowly;
+      - generic [ref=f1e775]: "Ⲫⲏⲉⲧϣⲟⲡ ϧⲉⲛ ⲛⲏⲉⲧϭⲟⲥⲓ: ⲟⲩⲟϩ ⲉⲧϫⲟⲩϣⲧ ⲉ̀ϫⲉⲛ ⲛⲏⲉⲧⲑⲉⲃⲓⲏⲟⲩⲧ."
+      - generic [ref=f1e776]: الساكِنُ في الأعالي والناظِرُ إلى المتواضعاتِ.
+    - generic [ref=f1e777]:
+      - generic [ref=f1e778]: who has created the heaven, the earth, the sea, and all that is therein;
+      - generic [ref=f1e779]: "Ⲫⲏⲉ̀ⲧⲁϥⲑⲁⲙⲓⲟ ⲛ̀ⲧ̀ⲫⲉ ⲛⲉⲙ ⲡ̀ⲕⲁϩⲓ ⲛⲉⲙ ⲫ̀ⲓⲟⲙ: ⲛⲉⲙ ⲛⲏⲉ̀ⲧⲉ ⲛ̀ϧⲏⲧⲟⲩ ⲧⲏⲣⲟⲩ."
+      - generic [ref=f1e780]: الذي خلقَ السماءَ والأرضَ والبحرَ وكلَّ ما فيها.
+    - generic [ref=f1e781]:
+      - generic [ref=f1e782]: the Father of our Lord, God, and Savior Jesus Christ,
+      - generic [ref=f1e783]: Ⲫⲓⲱⲧ ⲙ̀Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ Ⲡⲉⲛⲛⲟⲩϯ ⲟⲩⲟϩ ⲡⲉⲛⲥⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ.
+      - generic [ref=f1e784]: أبو ربِّنا وإلهِنا ومخلِّصِنا يسوعَ المسيحِ.
+    - generic [ref=f1e785]:
+      - generic [ref=f1e786]: by whom You have created all things, visible and invisible;
+      - generic [ref=f1e787]: "Ⲫⲁⲓ ⲉ̀ⲧⲁⲕⲑⲁⲙⲓⲟ ⲙ̀ⲡ̀ⲧⲏⲣϥ ⲉ̀ⲃⲟⲗ ϩⲓⲧⲟⲧϥ: ⲛⲏⲉ̀ⲧⲟⲩⲛⲁⲩ ⲉ̀ⲣⲱⲟⲩ ⲛⲉⲙ ⲛⲏⲉ̀ⲧⲉ ⲛ̀ⲥⲉⲛⲁⲩ ⲉ̀ⲣⲱⲟⲩ ⲁⲛ."
+      - generic [ref=f1e788]: هذا الذي خَلَقْتَ الكلَّ بهِ، ما يُرَى وما لا يُرَى.
+    - generic [ref=f1e789]:
+      - generic [ref=f1e790]: who is seated upon the throne of His glory; and who is worshiped by all the holy powers.
+      - generic [ref=f1e791]: "Ⲫⲏⲉⲧϩⲉⲙⲥⲓ ϩⲓϫⲉⲛ ⲡⲓⲑ̀ⲣⲟⲛⲟⲥ ⲛ̀ⲧⲉ ⲡⲉϥⲱ̀ⲟⲩ: ⲫⲏⲉ̀ⲧⲟⲩⲟⲩⲱϣⲧ ⲙ̀ⲙⲟϥ ϩⲓⲧⲉⲛ ϫⲟⲙ ⲛⲓⲃⲉⲛ ⲉⲑⲟⲩⲁⲃ."
+      - generic [ref=f1e792]: الجالسُ على عَرْشِ مجدِهِ، المسجودُ لهُ من جميعِ القواتِ المقدسةِ.
+    - generic [ref=f1e793]:
+      - generic [ref=f1e794]:
+        - generic [ref=f1e795]: "Deacon:"
+        - text: You who are seated, stand.
+      - generic [ref=f1e796]:
+        - generic [ref=f1e797]: "Ⲡⲓⲇⲓⲁⲕⲱⲛ:"
+        - text: Ⲓ ⲕⲁⲑⲏⲙⲉⲛⲓ ⲁ̀ⲛⲁⲥⲑⲏⲧⲉ.
+      - generic [ref=f1e798]:
+        - generic [ref=f1e799]: "الشماس:"
+        - text: أيها الجلوس قفوا
+    - generic [ref=f1e800]:
+      - generic [ref=f1e801]:
+        - generic [ref=f1e802]: "Priest:"
+        - text: Before whom stand the angels, the archangels, the principalities, the authorities, the thrones, the dominions, and the powers.
+      - generic [ref=f1e803]:
+        - generic [ref=f1e804]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: "Ⲫⲏⲉ̀ⲧⲟⲩⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧⲟⲩ ⲛⲁϩⲣⲁϥ: ⲛ̀ϫⲉ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ: ⲛⲉⲙ ⲛⲓⲁⲣⲭⲓⲁⲅⲅⲉⲗⲟⲥ: ⲛⲓⲁⲣⲭⲏ: ⲛⲓⲉⲝⲟⲩⲥⲓⲁ: ⲛⲓⲑ̀ⲣⲟⲛⲟⲥ: ⲛⲓⲙⲉⲧϭⲟⲓⲥ: ⲛⲓϫⲟⲙ."
+      - generic [ref=f1e805]:
+        - generic [ref=f1e806]: "الكاهنُ:"
+        - text: الذي يقفُ أمامَهُ الملائكةُ ورؤساءُ الملائكةِ، والرئاساتُ والسلطاتُ والكراسيُّ، والربوبياتُ والقواتُ
+    - generic [ref=f1e807]:
+      - generic [ref=f1e808]:
+        - generic [ref=f1e809]: "Deacon:"
+        - text: Look towards the East.
+      - generic [ref=f1e810]:
+        - generic [ref=f1e811]: "Ⲡⲓⲇⲓⲁⲕⲱⲛ:"
+        - text: Ⲓⲥ ⲁ̀ⲛⲁⲧⲟⲗⲁⲥ ⲃ̀ⲗⲉⲯⲁⲧⲉ.
+      - generic [ref=f1e812]:
+        - generic [ref=f1e813]: "الشماس:"
+        - text: وإلى الشرق انظروا
+    - generic [ref=f1e814]:
+      - generic [ref=f1e815]:
+        - generic [ref=f1e816]: "Priest:"
+        - text: You are He around whom stand the cherubim full of eyes, and the seraphim with six wings, praising continuously, without ceasing, saying—
+      - generic [ref=f1e817]:
+        - generic [ref=f1e818]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: "Ⲛ̀ⲑⲟⲕ ⲅⲁⲣ ⲡⲉ ⲉ̀ⲧⲟⲩⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧⲟⲩ ⲙ̀ⲡⲉⲕⲕⲱϯ: ⲛ̀ϫⲉ ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ ⲉⲑⲙⲉϩ ⲙ̀ⲃⲁⲗ: ⲛⲉⲙ ⲛⲓⲥⲉⲣⲁⲫⲓⲙ ⲛⲁ ⲡⲓⲥⲟⲟⲩ ⲛ̀ⲧⲉⲛϩ: ⲉⲩⲉⲣϩⲩⲙⲛⲟⲥ ϧⲉⲛ ⲟⲩⲙⲟⲩⲛ ⲉ̀ⲃⲟⲗ ⲛ̀ⲁⲧⲭⲁⲣⲱⲟⲩ ⲉⲩϫⲱ ⲙ̀ⲙⲟⲥ."
+      - generic [ref=f1e819]:
+        - generic [ref=f1e820]: "الكاهنُ:"
+        - text: "أنتَ هو الذي يقفُ حولَكَ الشاروبيم الممتلئونَ أعيناً، والسارافيم ذَوُو الستةِ الأجنحةِ، يسبحونَ على الدوامِ بغيرِ سكوتٍ قائلين:"
+    - generic [ref=f1e821]:
+      - generic [ref=f1e822]:
+        - generic [ref=f1e823]: "Deacon:"
+        - text: Let us attend.
+      - generic [ref=f1e824]:
+        - generic [ref=f1e825]: "Ⲡⲓⲇⲓⲁⲕⲱⲛ:"
+        - text: Ⲡⲣⲟⲥⲭⲱⲙⲉⲛ.
+      - generic [ref=f1e826]:
+        - generic [ref=f1e827]: "الشماس:"
+        - text: ننصت
+    - generic [ref=f1e828]:
+      - generic [ref=f1e829]: The congregation may chant the following short Watos Aspasmos hymn.
+      - generic [ref=f1e830]: "يقول الشعب أسبسمس واطس مختصر سنوي:"
+    - generic [ref=f1e831]:
+      - generic [ref=f1e832]:
+        - generic [ref=f1e833]: "People:"
+        - text: The cherubim worship You, and the seraphim glorify You, proclaiming and saying,
+      - generic [ref=f1e834]:
+        - generic [ref=f1e835]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: "Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ ⲥⲉⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲕ: ⲛⲉⲙ ⲛⲓⲥⲉⲣⲁⲫⲓⲙ ⲥⲉϯⲱ̀ⲟⲩ ⲛⲁⲕ: ⲉⲩⲱϣ ⲉ̀ⲃⲟⲗ ⲉⲩϫⲱ ⲙ̀ⲙⲟⲥ."
+      - generic [ref=f1e836]:
+        - generic [ref=f1e837]: "الشعبُ:"
+        - text: "الشاروبيم يسجدون لك، والسيرافيم يمجدونك، صارخين قائلين:"
+    - generic [ref=f1e838]:
+      - generic [ref=f1e839]: Holy, holy, holy, Lord of hosts, heaven and earth are full of Your holy glory.
+      - generic [ref=f1e840]: "Ϫⲉ ⲁ̀ⲅⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ: Ⲕⲩⲣⲓⲟⲥ ⲥⲁⲃⲁⲱⲑ: ⲡ̀ⲗⲏⲣⲏⲥ ⲟ̀ ⲟⲩⲣⲁⲛⲟⲥ ⲕⲉ ⲏ̀ ⲅⲏ ⲧⲏⲥ ⲁ̀ⲅⲓⲁⲥ ⲥⲟⲩ ⲇⲟⲝⲏⲥ."
+      - generic [ref=f1e841]: قدوس. قدوس. قدوس. رب الصاباؤوت. السماء والأرض مملوءتان من مجدك الأقدس
+    - generic [ref=f1e842]:
+      - generic [ref=f1e843]: "The congregation may chant the following Watos Aspasmos hymn:"
+      - generic [ref=f1e844]: "أو يقول الشعب هذا الأسبسمس الواطس:"
+    - table [ref=f1e847]:
+      - rowgroup [ref=f1e848]:
+        - row "Watos Aspasmos (Ⲛⲉⲛⲓⲟϯ ⲉⲑⲟⲩⲁⲃ...)" [ref=f1e849]:
+          - cell [ref=f1e850]:
+            - img [ref=f1e851]
+          - cell "Watos Aspasmos (Ⲛⲉⲛⲓⲟϯ ⲉⲑⲟⲩⲁⲃ...)" [ref=f1e852]:
+            - button "Watos Aspasmos (Ⲛⲉⲛⲓⲟϯ ⲉⲑⲟⲩⲁⲃ...)" [ref=f1e853]:
+              - text: Watos Aspasmos
+              - text: (Ⲛⲉⲛⲓⲟϯ ⲉⲑⲟⲩⲁⲃ...)
+    - table [ref=f1e856]:
+      - rowgroup [ref=f1e857]:
+        - row "Standard Watos Aspasmos (Ⲡϭⲟⲓⲥ Ⲫⲛⲟⲩϯ...)" [ref=f1e858]:
+          - cell [ref=f1e859]:
+            - img [ref=f1e860]
+          - cell "Standard Watos Aspasmos (Ⲡϭⲟⲓⲥ Ⲫⲛⲟⲩϯ...)" [ref=f1e861]:
+            - button "Standard Watos Aspasmos (Ⲡϭⲟⲓⲥ Ⲫⲛⲟⲩϯ...)" [ref=f1e862]:
+              - text: Standard Watos Aspasmos
+              - text: (Ⲡϭⲟⲓⲥ Ⲫⲛⲟⲩϯ...)
+    - table [ref=f1e865]:
+      - rowgroup [ref=f1e866]:
+        - row "A Second Standard Watos Aspasmos (Ⲙⲁⲣⲉⲛϩⲱⲥ...)" [ref=f1e867]:
+          - cell [ref=f1e868]:
+            - img [ref=f1e869]
+          - cell "A Second Standard Watos Aspasmos (Ⲙⲁⲣⲉⲛϩⲱⲥ...)" [ref=f1e870]:
+            - button "A Second Standard Watos Aspasmos (Ⲙⲁⲣⲉⲛϩⲱⲥ...)" [ref=f1e871]:
+              - text: A Second Standard Watos Aspasmos
+              - text: (Ⲙⲁⲣⲉⲛϩⲱⲥ...)
+    - table [ref=f1e874]:
+      - rowgroup [ref=f1e875]:
+        - row "A Third Standard Watos Aspasmos (Ⲙⲁⲣⲓⲁ ϯϭⲣⲟⲙⲡⲓ...)" [ref=f1e876]:
+          - cell [ref=f1e877]:
+            - img [ref=f1e878]
+          - cell "A Third Standard Watos Aspasmos (Ⲙⲁⲣⲓⲁ ϯϭⲣⲟⲙⲡⲓ...)" [ref=f1e879]:
+            - button "A Third Standard Watos Aspasmos (Ⲙⲁⲣⲓⲁ ϯϭⲣⲟⲙⲡⲓ...)" [ref=f1e880]:
+              - text: A Third Standard Watos Aspasmos
+              - text: (Ⲙⲁⲣⲓⲁ ϯϭⲣⲟⲙⲡⲓ...)
+    - generic [ref=f1e881]:
+      - generic [ref=f1e882]: Agios Agios Agios
+      - generic [ref=f1e883]: قدوس قدوس قدوس
+    - generic [ref=f1e884]:
+      - generic [ref=f1e885]: The priest takes in his right hand the veil that is upon the chalice, and with it makes the sign of the cross three times; firstly, upon himself, his face being turned toward the East, then upon the deacons on his right hand, and lastly toward the west, upon the people, saying "Holy (Ⲁⲅⲓⲟⲥ)" each time.
+      - generic [ref=f1e886]: ثم يأخذ الكاهن اللفافة الموضوعة على الكأس بيده اليمنى ويرشم بها ثلاثة رشوم، الأول على ذاته وهو متجه إلى الشرقِ. والثاني على الخدام عن يمينه. والثالث على الشعب إلى الغرب. وكل رشم يقول فيه Ⲁⲅⲓⲟⲥ
+    - generic [ref=f1e887]:
+      - generic [ref=f1e888]:
+        - generic [ref=f1e889]: "Priest:"
+        - text: Ⲁⲅⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ.
+      - generic [ref=f1e890]:
+        - generic [ref=f1e891]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: Ⲁⲅⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ.
+      - generic [ref=f1e892]:
+        - generic [ref=f1e893]: "الكاهنُ:"
+        - text: Ⲁⲅⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ.
+    - generic [ref=f1e894]:
+      - generic [ref=f1e895]: Holy, holy, holy, indeed. O Lord our God,
+      - generic [ref=f1e896]: Ⲭⲟⲩⲁⲃ Ⲭⲟⲩⲁⲃ Ⲭⲟⲩⲁⲃ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ Ⲡϭⲟⲓⲥ Ⲡⲉⲛⲛⲟⲩϯ.
+      - generic [ref=f1e897]: قدوسٌ، قدوسٌ، قدوسٌ، بالحقيقةِ أيها الربُّ إلهُنا.
+    - generic [ref=f1e898]:
+      - generic [ref=f1e899]: who formed us, created us, and placed us in the Paradise of joy,
+      - generic [ref=f1e900]: "Ⲫⲏⲉ̀ⲧⲁϥⲉⲣⲡ̀ⲗⲁⲍⲓⲛ ⲙ̀ⲙⲟⲛ: ⲟⲩⲟϩ ⲁϥⲑⲁⲙⲓⲟⲛ: ⲟⲩⲟϩ ⲁϥⲭⲁⲛ ϧⲉⲛ ⲡⲓⲡⲁⲣⲁⲇⲓⲥⲟⲥ ⲛ̀ⲧⲉ ⲡ̀ⲟⲩⲛⲟϥ."
+      - generic [ref=f1e901]: الذي جَبَلَنا وخلقَنا ووضعَنا في فردوسِ النعيمِ.
+    - generic [ref=f1e902]:
+      - generic [ref=f1e903]: when we disobeyed Your commandment by the deceit of the serpent, we fell from eternal life and were exiled from the Paradise of joy.
+      - generic [ref=f1e904]: "Ϧⲉⲛ ⲡ̀ϫⲓⲛⲑ̀ⲣⲉⲛⲉⲣⲡⲁⲣⲁⲃⲉⲛⲓⲛ ⲇⲉ ⲛ̀ⲧⲉⲕⲉⲛⲧⲟⲗⲏ: ϩⲓⲧⲉⲛ ϯⲁ̀ⲡⲁⲧⲏ ⲛ̀ⲧⲉ ⲡⲓϩⲟϥ: ⲁⲛϩⲉⲓ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲡⲓⲱⲛϧ ⲛ̀ⲉ̀ⲛⲉϩ: ⲟⲩⲟϩ ⲁⲩⲉⲣⲉⲝⲟⲣⲓⲍⲓⲛ ⲙ̀ⲙⲟⲛ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲡⲓⲡⲁⲣⲁⲇⲓⲥⲟⲥ ⲛ̀ⲧⲉ ⲡ̀ⲟⲩⲛⲟϥ."
+      - generic [ref=f1e905]: وعندما خالفنا وصيتَكَ بغوايةِ الحيةِ، سقطنا من الحياةِ الأبديةِ، ونُفينا من فردوسِ النعيمِ.
+    - generic [ref=f1e906]:
+      - generic [ref=f1e907]: You have not abandoned us to the end, but have always visited us through Your holy prophets,
+      - generic [ref=f1e908]: "Ⲙⲡⲉⲕⲭⲁⲛ ⲛ̀ⲥⲱⲕ ⲟⲛ ϣⲁ ⲉ̀ⲃⲟⲗ: ⲁⲗⲗⲁ ⲁⲕϫⲉⲙⲡⲉⲛϣⲓⲛⲓ ϧⲉⲛ ⲟⲩⲙⲟⲩⲛ ⲉ̀ⲃⲟⲗ ϩⲓⲧⲉⲛ ⲛⲉⲕⲡ̀ⲣⲟⲫⲏⲧⲏⲥ ⲉⲑⲟⲩⲁⲃ."
+      - generic [ref=f1e909]: لم تتركْنا عنكَ أيضاً إلى الانقضاءِ، بل تعهدتَنا دائماً بأنبيائِكَ القديسين.
+    - generic [ref=f1e910]:
+      - generic [ref=f1e911]: and in the last days You manifested Yourself to us, who were sitting in darkness and the shadow of death,
+      - generic [ref=f1e912]: "Ⲟⲩⲟϩ ϧⲉⲛ ⲧ̀ϧⲁⲉ̀ ⲛ̀ⲧⲉ ⲛⲓⲉ̀ϩⲟⲟⲩ ⲁⲕⲟⲩⲱⲛϩ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ⲁ̀ⲛⲟⲛ ϧⲁ ⲛⲏⲉⲧϩⲉⲙⲥⲓ ϧⲉⲛ ⲡ̀ⲭⲁⲕⲓ ⲛⲉⲙ ⲧ̀ϧⲏⲓⲃⲓ ⲙ̀ⲫ̀ⲙⲟⲩ."
+      - generic [ref=f1e913]: وفي آخرِ الأيامِ ظهرتَ لنا، نحنُ الجلوسَ في الظلمةِ وظلالِ الموتِ.
+    - generic [ref=f1e914]:
+      - generic [ref=f1e915]: through Your only-begotten Son, our Lord, God, and Savior Jesus Christ,
+      - generic [ref=f1e916]: Ϩⲓⲧⲉⲛ ⲡⲉⲕⲙⲟⲛⲟⲅⲉⲛⲏⲥ ⲛ̀Ϣⲏⲣⲓ Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ Ⲡⲉⲛⲛⲟⲩϯ ⲟⲩⲟϩ ⲡⲉⲛⲥⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ.
+      - generic [ref=f1e917]: بابنِكَ الوحيدِ ربِّنا وإلهِنا ومخلِّصِنا يسوعَ المسيحِ.
+    - generic [ref=f1e918]:
+      - generic [ref=f1e919]: who, of the Holy Spirit and of the holy Virgin Mary—
+      - generic [ref=f1e920]: "Ⲫⲁⲓ ⲉ̀ⲧⲉ ⲉ̀ⲃⲟⲗϧⲉⲛ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ: ⲛⲉⲙ ⲉ̀ⲃⲟⲗϧⲉⲛ ϯⲡⲁⲣⲑⲉⲛⲟⲥ ⲉⲑⲟⲩⲁⲃ Ⲙⲁⲣⲓⲁ."
+      - generic [ref=f1e921]: هذا الذي من الروحِ القدسِ ومن العذراءِ القديسةِ مريمَ.
+    - generic [ref=f1e922]:
+      - generic [ref=f1e923]:
+        - generic [ref=f1e924]: "People:"
+        - text: Amen.
+      - generic [ref=f1e925]:
+        - generic [ref=f1e926]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: Ⲁⲙⲏⲛ.
+      - generic [ref=f1e927]:
+        - generic [ref=f1e928]: "الشعبُ:"
+        - text: آمين
+    - generic [ref=f1e929]:
+      - generic [ref=f1e930]: The deacon presents the censer to the priest, who puts a handful of incense into it.
+      - generic [ref=f1e931]: يقدم الشماس المجمرة إلى الكاهن فيضع فيها يد بخور.
+    - generic [ref=f1e932]:
+      - generic [ref=f1e933]:
+        - generic [ref=f1e934]: "Priest:"
+        - text: was incarnate and became man, and taught us the ways of salvation.
+      - generic [ref=f1e935]:
+        - generic [ref=f1e936]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: "Ⲁϥϭⲓⲥⲁⲣⲝ ⲟⲩⲟϩ ⲁϥⲉⲣⲣⲱⲙⲓ: ⲟⲩⲟϩ ⲁϥⲧ̀ⲥⲁⲃⲟⲛ ⲉ̀ϩⲁⲛⲙⲱⲓⲧ ⲛ̀ⲧⲉ ⲡⲓⲟⲩϫⲁⲓ."
+      - generic [ref=f1e937]:
+        - generic [ref=f1e938]: "الكاهنُ:"
+        - text: تجسدَ وتأنسَ وعلَّمَنا طُرقَ الخلاصِ.
+    - generic [ref=f1e939]:
+      - generic [ref=f1e940]: He granted us the birth from on high through water and Spirit.
+      - generic [ref=f1e941]: Ⲉⲁϥⲉⲣⲭⲁⲣⲓⲍⲉⲥⲑⲉ ⲛⲁⲛ ⲙ̀ⲡⲓⲙⲓⲥⲓ ⲡⲓⲉ̀ⲃⲟⲗ ⲙ̀ⲡ̀ϣⲱⲓ ϩⲓⲧⲉⲛ ⲟⲩⲙⲱⲟⲩ ⲛⲉⲙ ⲟⲩⲡ̀ⲛⲉⲩⲙⲁ.
+      - generic [ref=f1e942]: وأنعمَ لنا بالميلادِ الذي من فوقُ بواسطةِ الماءِ والروحِ.
+    - generic [ref=f1e943]:
+      - generic [ref=f1e944]: He made us unto Himself an assembled people, and sanctified us by Your Holy Spirit.
+      - generic [ref=f1e945]: "Ⲁϥⲁⲓⲧⲉⲛ ⲛⲁϥ ⲛ̀ⲟⲩⲗⲁⲟⲥ ⲉϥⲑⲟⲩⲏⲧ: ⲁϥⲑ̀ⲣⲉⲛϣⲱⲡⲓ ⲉⲛⲟⲩⲁⲃ: ϩⲓⲧⲉⲛ Ⲡⲉⲕⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ."
+      - generic [ref=f1e946]: وجَعَلَنا له شعباً مجتمِعاً، وصيَّرنا أطهاراً بروحِكَ القدوسِ.
+    - generic [ref=f1e947]:
+      - generic [ref=f1e948]: He loved His own who were in the world, and, as a ransom on our behalf, gave Himself up unto death, which reigned over us, whereby we were bound and sold on account of our sins.
+      - generic [ref=f1e949]: "Ⲫⲁⲓ ⲉ̀ⲧⲁϥⲙⲉⲛⲣⲉ ⲛⲏⲉ̀ⲧⲉ ⲛⲟⲩϥ ⲉⲧϧⲉⲛ ⲡⲓⲕⲟⲥⲙⲟⲥ: ⲁϥⲧⲏⲓϥ ⲙ̀ⲙⲓⲛ ⲙ̀ⲙⲟϥ ⲛ̀ⲥⲱϯ ϧⲁⲣⲟⲛ: ⲉ̀ⲫ̀ⲙⲟⲩ ⲉⲧⲟⲓ ⲛ̀ⲟⲩⲣⲟ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ: ⲫⲁⲓ ⲉ̀ⲛⲁⲩⲁ̀ⲙⲟⲛⲓ ⲙ̀ⲙⲟⲛ ⲉ̀ⲃⲟⲗ ϩⲓⲧⲟⲧϥ: ⲉⲛⲧⲟⲓ ⲉ̀ⲃⲟⲗ ϩⲓⲧⲉⲛ ⲛⲉⲛⲛⲟⲃⲓ."
+      - generic [ref=f1e950]: هذا الذي أحبَّ خاصَّتَهُ الذين في العالم، وسَلَّم ذاتَه فداءً عنا، إلى الموتِ الذي تملَّكَ علينا، هذا الذي كنا ممسكينَ به، مبيعينَ من قِبَلِ خطايانا.
+    - generic [ref=f1e951]:
+      - generic [ref=f1e952]: He descended into Hades through the Cross.
+      - generic [ref=f1e953]: Ⲁϥϣⲉⲛⲁϥ ⲉ̀ⲡⲉⲥⲏⲧ ⲉ̀ⲁ̀ⲙⲉⲛϯ ⲉ̀ⲃⲟⲗ ϩⲓⲧⲉⲛ ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ.
+      - generic [ref=f1e954]: نَزَلَ إلى الجحيمِ من قِبَلِ الصليبِ.
+    - generic [ref=f1e955]:
+      - generic [ref=f1e956]:
+        - generic [ref=f1e957]: "People:"
+        - text: Amen. I believe.
+      - generic [ref=f1e958]:
+        - generic [ref=f1e959]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: Ⲁⲙⲏⲛ ϯⲛⲁϩϯ.
+      - generic [ref=f1e960]:
+        - generic [ref=f1e961]: "الشعبُ:"
+        - text: حقاً أؤمن
+    - generic [ref=f1e962]:
+      - generic [ref=f1e963]:
+        - generic [ref=f1e964]: "Priest:"
+        - text: He rose from the dead on the third day.
+      - generic [ref=f1e965]:
+        - generic [ref=f1e966]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: "Ⲁϥⲧⲱⲛϥ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ: ϧⲉⲛ ⲡⲓⲉ̀ϩⲟⲟⲩ ⲙ̀ⲙⲁϩϣⲟⲙⲧ."
+      - generic [ref=f1e967]:
+        - generic [ref=f1e968]: "الكاهنُ:"
+        - text: وقامَ من الأمواتِ في اليومِ الثالثِ.
+    - generic [ref=f1e969]:
+      - generic [ref=f1e970]: He ascended into the heavens and sat at Your right hand, O Father.
+      - generic [ref=f1e971]: "Ⲁϥϣⲉⲛⲁϥ ⲉ̀ⲡ̀ϣⲱⲓ ⲉ̀ⲛⲓⲫⲏⲟⲩⲓ: ⲁϥϩⲉⲙⲥⲓ ⲥⲁⲧⲉⲕⲟⲩⲓⲛⲁⲙ Ⲫⲓⲱⲧ."
+      - generic [ref=f1e972]: وصعَدَ إلى السمواتِ، وجَلَسَ عن يمينِكَ أيها الآبُ.
+    - generic [ref=f1e973]:
+      - generic [ref=f1e974]: He has appointed a Day for recompense, on which He will appear to judge the world in righteousness, and give each one according to his deeds.
+      - generic [ref=f1e975]: "Ⲉⲁϥⲑⲱϣ ⲛ̀ⲟⲩⲉ̀ϩⲟⲟⲩ ⲛ̀ϯϣⲉⲃⲓⲱ: ⲫⲁⲓ ⲉ̀ⲧⲉ ϥ̀ⲛⲁⲟⲩⲱⲛϩ ⲉ̀ⲃⲟⲗ ⲛ̀ϧⲏⲧϥ: ⲉ̀ϯϩⲁⲡ ⲉ̀ϯⲟⲓⲕⲟⲩⲙⲉⲛⲏ ϧⲉⲛ ⲟⲩⲇⲓⲕⲉⲟ̀ⲥⲩⲛⲏ: ⲟⲩⲟϩ ϥ̀ⲛⲁϯ ⲙ̀ⲡⲓⲟⲩⲁⲓ ⲡⲓⲟⲩⲁⲓ ⲕⲁⲧⲁ ⲛⲉϥϩ̀ⲃⲏⲟⲩⲓ̀."
+      - generic [ref=f1e976]: ورَسَمَ يوماً للمجازاةِ، هذا الذي يَظْهَرُ فيه ليدينَ المسكُونَةَ بالعدلِ، ويعطيَ كلَّ واحدٍ حسب أعمالِهِ.
+    - generic [ref=f1e977]:
+      - generic [ref=f1e978]:
+        - generic [ref=f1e979]: "People:"
+        - text: According to Your mercy, O Lord, and not according to our sins.
+      - generic [ref=f1e980]:
+        - generic [ref=f1e981]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: "Ⲕⲁⲧⲁ ⲧⲟ ⲉ̀ⲗⲉⲟⲥ ⲥⲟⲩ Ⲕⲩⲣⲓⲉ: ⲕⲉ ⲙⲏ ⲕⲁⲧⲁ ⲧⲁⲥ ⲁ̀ⲙⲁⲣⲧⲓⲁⲥ ⲏ̀ⲙⲱⲛ."
+      - generic [ref=f1e982]:
+        - generic [ref=f1e983]: "الشعبُ:"
+        - text: كرحمتك يارب، وليس كخطايانا
+    - generic [ref=f1e984]:
+      - generic [ref=f1e985]: The Institution Narrative
+      - generic [ref=f1e986]: الصلُّوات التأسيسية
+    - generic [ref=f1e987]:
+      - generic [ref=f1e988]: "The priest censes his hands three times and then censes the bread, followed by the wine, with his hands, while saying:"
+      - generic [ref=f1e989]: "يبخر الكاهن يديه على المجمرة ثلاث مرات ثم يبخر بيديه إلى القربانة ثم إلى الخمر.وهو يقول:"
+    - generic [ref=f1e990]:
+      - generic [ref=f1e991]:
+        - generic [ref=f1e992]: "Priest:"
+        - text: He instituted for us this great Mystery of godliness.
+      - generic [ref=f1e993]:
+        - generic [ref=f1e994]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: Ⲁϥⲭⲱ ⲇⲉ ⲛⲁⲛ ⲉ̀ϧ̀ⲣⲏⲓ ⲙ̀ⲡⲁⲓⲛⲓϣϯ ⲙ̀ⲙⲩⲥⲧⲏⲣⲓⲟⲛ ⲛ̀ⲧⲉ ϯⲙⲉⲧⲉⲩⲥⲉⲃⲏⲥ.
+      - generic [ref=f1e995]:
+        - generic [ref=f1e996]: "الكاهنُ:"
+        - text: ووضع لنا هذا السر العظيم الذي للتقوى
+    - generic [ref=f1e997]:
+      - generic [ref=f1e998]: "The priest takes away his smoke-filled hands from the censer, and says:"
+      - generic [ref=f1e999]: "ثم يرفع يديه من فوق المجمرة بالبخور ويقول:"
+    - generic [ref=f1e1000]:
+      - generic [ref=f1e1001]: For being determined to give Himself up to death for the life of the world,
+      - generic [ref=f1e1002]: Ⲉϥⲑⲏϣ ⲅⲁⲣ ⲉ̀ⲧⲏⲓϥ ⲉ̀ⲫ̀ⲙⲟⲩ ϧⲁ ⲡ̀ⲱⲛϧ ⲙ̀ⲡⲓⲕⲟⲥⲙⲟⲥ.
+      - generic [ref=f1e1003]: لأنه فيما هو راسم أن يسلم نفسه للموت عن حياة العالمِ.
+    - generic [ref=f1e1004]:
+      - generic [ref=f1e1005]:
+        - generic [ref=f1e1006]: "People:"
+        - text: We believe.
+      - generic [ref=f1e1007]:
+        - generic [ref=f1e1008]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: Ⲡⲓⲥⲧⲉⲩⲟ̀ⲙⲉⲛ.
+      - generic [ref=f1e1009]:
+        - generic [ref=f1e1010]: "الشعبُ:"
+        - text: نؤمن
+    - generic [ref=f1e1011]:
+      - generic [ref=f1e1012]: "The priest takes the bread into his left hand, raises the silk veil that was beneath it on the paten and kisses it, then places it on the altar, saying:"
+      - generic [ref=f1e1013]: "يأخذ الكاهن القربانة ويضعها على يده اليسرى. ويرفع اللفافة الحرير التي تحتها في الصينية ويقبلها بفيه ويتركها على المذبح وهو يقول:"
+    - generic [ref=f1e1014]:
+      - generic [ref=f1e1015]:
+        - generic [ref=f1e1016]: "Priest:"
+        - text: He took bread into His holy hands, which are without spot or blemish, blessed, and life-giving.
+      - generic [ref=f1e1017]:
+        - generic [ref=f1e1018]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: "Ⲁϥϭⲓ ⲛ̀ⲟⲩⲱⲓⲕ ⲉ̀ϫⲉⲛ ⲛⲉϥϫⲓϫ ⲉⲑⲟⲩⲁⲃ: ⲛ̀ⲁⲧⲁϭⲛⲓ ⲟⲩⲟϩ ⲛ̀ⲁⲧⲑⲱⲗⲉⲃ: ⲟⲩⲟϩ ⲙ̀ⲙⲁⲕⲁⲣⲓⲟⲛ: ⲟⲩⲟϩ ⲛ̀ⲣⲉϥⲧⲁⲛϧⲟ."
+      - generic [ref=f1e1019]:
+        - generic [ref=f1e1020]: "الكاهنُ:"
+        - text: أخذ خُبزاً على يديْهِ الطاهرتَيْنِ، اللتينِ بلا عيبٍ ولا دنسٍ، الطوباويتَيْنِ المحييتَيْنِ.
+    - generic [ref=f1e1021]:
+      - generic [ref=f1e1022]:
+        - generic [ref=f1e1023]: "People:"
+        - text: We believe that this is true. Amen.
+      - generic [ref=f1e1024]:
+        - generic [ref=f1e1025]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: "Ⲧⲉⲛⲛⲁϩϯ ϫⲉ ⲫⲁⲓ ⲡⲉ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ: ⲁ̀ⲙⲏⲛ."
+      - generic [ref=f1e1026]:
+        - generic [ref=f1e1027]: "الشعبُ:"
+        - text: نؤمنُ أن هذا هو بالحقيقةِ. آمين.
+    - generic [ref=f1e1028]:
+      - generic [ref=f1e1029]: "The priest places his right hand upon the bread that is in his left hand, raises his eyes upward, and says:"
+      - generic [ref=f1e1030]: "يضع الكاهن يده اليمنى على القربانة التي على يده اليسرى، ويرفع نظره إلى فوق ويقول:"
+    - generic [ref=f1e1031]:
+      - generic [ref=f1e1032]:
+        - generic [ref=f1e1033]: "Priest:"
+        - text: He looked up toward heaven to You, O God, who are His Father and Master of everyone.
+      - generic [ref=f1e1034]:
+        - generic [ref=f1e1035]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: "Ⲁϥϫⲟⲩϣⲧ ⲉ̀ⲡ̀ϣⲱⲓ ⲉ̀ⲧ̀ⲫⲉ ϩⲁⲣⲟⲕ: ⲫⲏⲉ̀ⲧⲉ ⲫⲱϥ ⲛ̀ⲓⲱⲧ Ⲫⲛⲟⲩϯ ⲟⲩⲟϩ ⲫ̀ⲛⲏⲃ ⲛ̀ⲧⲉ ⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ."
+      - generic [ref=f1e1036]:
+        - generic [ref=f1e1037]: "الكاهنُ:"
+        - text: ونَظَرَ إلى فوقُ نحوَ السماءِ، إليكَ يا اللهُ أَباهُ وسيِّدُ كلِّ أحدٍ.
+    - generic [ref=f1e1038]:
+      - generic [ref=f1e1039]: "The priest makes the sign of the cross with his finger three times, and each time the congregation responds, saying, “Amen.” At the first signing, the priest says:"
+      - generic [ref=f1e1040]: "يرشم الكاهن الخبز بأصبعه ثلاثة رشوم. وفي كل رشم يجاوبه الشعب قائلين .Ⲁⲙⲏⲛأول رشم يقول الكاهن:"
+    - generic [ref=f1e1041]:
+      - generic [ref=f1e1042]: And when He had given thanks—
+      - generic [ref=f1e1043]: Ⲉⲧⲁϥϣⲉⲡϩ̀ⲙⲟⲧ.
+      - generic [ref=f1e1044]: وشكر
+    - generic [ref=f1e1045]:
+      - generic [ref=f1e1046]:
+        - generic [ref=f1e1047]: "People:"
+        - text: Amen.
+      - generic [ref=f1e1048]:
+        - generic [ref=f1e1049]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: Ⲁⲙⲏⲛ.
+      - generic [ref=f1e1050]:
+        - generic [ref=f1e1051]: "الشعبُ:"
+        - text: آمين
+    - generic [ref=f1e1052]:
+      - generic [ref=f1e1053]: "And at the second signing:"
+      - generic [ref=f1e1054]: "وثاني رشم:"
+    - generic [ref=f1e1055]:
+      - generic [ref=f1e1056]:
+        - generic [ref=f1e1057]: "Priest:"
+        - text: He blessed it—
+      - generic [ref=f1e1058]:
+        - generic [ref=f1e1059]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: Ⲁϥⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ.
+      - generic [ref=f1e1060]:
+        - generic [ref=f1e1061]: "الكاهنُ:"
+        - text: وباركه
+    - generic [ref=f1e1062]:
+      - generic [ref=f1e1063]:
+        - generic [ref=f1e1064]: "People:"
+        - text: Amen.
+      - generic [ref=f1e1065]:
+        - generic [ref=f1e1066]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: Ⲁⲙⲏⲛ.
+      - generic [ref=f1e1067]:
+        - generic [ref=f1e1068]: "الشعبُ:"
+        - text: آمين
+    - generic [ref=f1e1069]:
+      - generic [ref=f1e1070]: "And at the third signing:"
+      - generic [ref=f1e1071]: "وثالث رشم:"
+    - generic [ref=f1e1072]:
+      - generic [ref=f1e1073]:
+        - generic [ref=f1e1074]: "Priest:"
+        - text: He sanctified it.
+      - generic [ref=f1e1075]:
+        - generic [ref=f1e1076]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: Ⲁϥⲉⲣⲁ̀ⲅⲓⲁⲍⲓⲛ ⲙ̀ⲙⲟϥ.
+      - generic [ref=f1e1077]:
+        - generic [ref=f1e1078]: "الكاهنُ:"
+        - text: وقدسه
+    - generic [ref=f1e1079]:
+      - generic [ref=f1e1080]:
+        - generic [ref=f1e1081]: "People:"
+        - text: Amen. We believe, we confess, and we glorify.
+      - generic [ref=f1e1082]:
+        - generic [ref=f1e1083]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: Ⲁⲙⲏⲛ. Ⲡⲓⲥⲧⲉⲩⲟ̀ⲙⲉⲛ ⲕⲉ ⲟ̀ⲙⲟⲗⲟⲅⲟⲩⲙⲉⲛ ⲕⲉ ⲇⲟⲝⲁⲍⲟⲙⲉⲛ.
+      - generic [ref=f1e1084]:
+        - generic [ref=f1e1085]: "الشعبُ:"
+        - text: آمين. نؤمنُ ونعترفُ ونمجِّدُ.
+    - generic [ref=f1e1086]:
+      - generic [ref=f1e1087]: "The priest breaks the oblation into a two-thirds and a one-third part, carefully, slightly, and without separating one part from the other, and without touching the Despotikon. The fraction must be made with his right thumb, and not with the nail. Making the fraction from the top to the bottom with the one-third part on his right and the two-thirds part on his left, he says:"
+      - generic [ref=f1e1088]: "ثم يقسم القربانة ثلثين وثلثاً بعناية من غير فصل بعضهما عن بعض. ومن غير أن يمس الأسباديقون. وتكون القسمة بإبهام يده اليمنى وليس بالظفر. ويجعل القسمة من فوق إلى أسفل ويكون الثلث عن يمينه والثلثان عن يساره. وهو يقول:"
+    - generic [ref=f1e1089]:
+      - generic [ref=f1e1090]:
+        - generic [ref=f1e1091]: "Priest:"
+        - text: He broke it, and gave it to His own saintly disciples and holy apostles, saying, “Take, eat of it, all of you. For this is My Body,
+      - generic [ref=f1e1092]:
+        - generic [ref=f1e1093]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: "Ⲁϥⲫⲁϣϥ ⲁϥⲧⲏⲓϥ ⲛ̀ⲛⲏⲉ̀ⲧⲉ ⲛⲟⲩϥ ⲛ̀ⲁ̀ⲅⲓⲟⲥ ⲙ̀ⲙⲁⲑⲏⲧⲏⲥ: ⲟⲩⲟϩ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ ⲉⲑⲟⲩⲁⲃ ⲉϥϫⲱ ⲙ̀ⲙⲟⲥ: ϫⲉ ϭⲓ ⲟⲩⲱⲙ ⲉ̀ⲃⲟⲗ ⲛ̀ϧⲏⲧϥ ⲧⲏⲣⲟⲩ: ⲫⲁⲓ ⲅⲁⲣ ⲡⲉ ⲡⲁⲥⲱⲙⲁ."
+      - generic [ref=f1e1094]:
+        - generic [ref=f1e1095]: "الكاهنُ:"
+        - text: "وقسَّمَهُ، وأعطاهُ لتلاميذِهِ القديسينَ ورُسُلِهِ الأطهارِ قائلاً: ”خذوا كُلوا منه كلُّكُم، لأن هذا هو جسدي"
+    - generic [ref=f1e1096]:
+      - generic [ref=f1e1097]: "The priest slightly and gently breaks the top of the oblation with the tips of his fingers, without, however, completely separating it. He places it in the paten, and cleans his hands inside the paten so that nothing of the oblation should adhere to either of them. He does this while saying:"
+      - generic [ref=f1e1098]: "هنا يفرق رأس القربانة من فوق قليلاً بأطراف أصابعه بعناية من غير فصل ويضعها في الصينية. وينظف يديه داخل الصينية لئلا يكون قد التصق بهما شيء من القربانة. يفعل ذلك وهو يقول:"
+    - generic [ref=f1e1099]:
+      - generic [ref=f1e1100]: which is broken for you and for many, to be given for the remission of sins. This do in remembrance of Me.”
+      - generic [ref=f1e1101]: "ⲉ̀ⲧⲟⲩⲛⲁⲫⲁϣϥ ⲉ̀ϫⲉⲛ ⲑⲏⲛⲟⲩ ⲛⲉⲙ ϩⲁⲛⲕⲉⲙⲏϣ: ⲛ̀ⲥⲉⲧⲏⲓϥ ⲉ̀ⲡ̀ⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲓⲛⲟⲃⲓ: ⲫⲁⲓ ⲁ̀ⲣⲓⲧϥ ⲉ̀ⲡⲁⲉⲣⲫ̀ⲙⲉⲩⲓ̀."
+      - generic [ref=f1e1102]: الذي يُقْسَمُ عَنكم وعن كثيرين، يُعطَى لمغفرةِ الخطايا، هذا اصنعوهُ لذِكرِي.“
+    - generic [ref=f1e1103]:
+      - generic [ref=f1e1104]:
+        - generic [ref=f1e1105]: "People:"
+        - text: This is true. Amen.
+      - generic [ref=f1e1106]:
+        - generic [ref=f1e1107]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: "Ⲫⲁⲓ ⲡⲉ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ: ⲁ̀ⲙⲏⲛ."
+      - generic [ref=f1e1108]:
+        - generic [ref=f1e1109]: "الشعبُ:"
+        - text: هذا هو بالحقيقة، آمين
+    - generic [ref=f1e1110]:
+      - generic [ref=f1e1111]: "The priest places his hand upon the rim of the chalice, and says:"
+      - generic [ref=f1e1112]: "يضع الكاهن يده على حافة الكأس ويقول:"
+    - generic [ref=f1e1113]:
+      - generic [ref=f1e1114]:
+        - generic [ref=f1e1115]: "Priest:"
+        - text: Likewise also, the cup, after supper, He mixed it of wine and water.
+      - generic [ref=f1e1116]:
+        - generic [ref=f1e1117]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: "Ⲡⲁⲓⲣⲏϯ ⲟⲛ ⲡⲓⲕⲉⲁ̀ⲫⲟⲧ ⲙⲉⲛⲉⲛⲥⲁ ⲡⲓⲇⲓⲡⲛⲟⲛ: ⲁϥⲑⲟⲧϥ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲟⲩⲏⲣⲡ ⲛⲉⲙ ⲟⲩⲙⲱⲟⲩ."
+      - generic [ref=f1e1118]:
+        - generic [ref=f1e1119]: "الكاهنُ:"
+        - text: هكذا الكأس أيضاً، بعد العشاء، مزجها من خمر وماء
+    - generic [ref=f1e1120]:
+      - generic [ref=f1e1121]: "The priest makes the sign of the cross three times, and each time the congregation responds, saying, “Amen.” At the first signing, the priest says:"
+      - generic [ref=f1e1122]: "يرشم الكأس ثلاثة رشوم. وفي كل رشم يجاوبه الشعب قائلين Ⲁⲙⲏⲛأول رشم يقول الكاهن:"
+    - generic [ref=f1e1123]:
+      - generic [ref=f1e1124]: And when He had given thanks,
+      - generic [ref=f1e1125]: Ⲉⲧⲁϥϣⲉⲡϩ̀ⲙⲟⲧ.
+      - generic [ref=f1e1126]: وشكر
+    - generic [ref=f1e1127]:
+      - generic [ref=f1e1128]:
+        - generic [ref=f1e1129]: "People:"
+        - text: Amen.
+      - generic [ref=f1e1130]:
+        - generic [ref=f1e1131]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: Ⲁⲙⲏⲛ.
+      - generic [ref=f1e1132]:
+        - generic [ref=f1e1133]: "الشعبُ:"
+        - text: آمين
+    - generic [ref=f1e1134]:
+      - generic [ref=f1e1135]: "And at the second signing:"
+      - generic [ref=f1e1136]: "وثاني رشم:"
+    - generic [ref=f1e1137]:
+      - generic [ref=f1e1138]:
+        - generic [ref=f1e1139]: "Priest:"
+        - text: He blessed it,
+      - generic [ref=f1e1140]:
+        - generic [ref=f1e1141]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: Ⲁϥⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ.
+      - generic [ref=f1e1142]:
+        - generic [ref=f1e1143]: "الكاهنُ:"
+        - text: وباركها
+    - generic [ref=f1e1144]:
+      - generic [ref=f1e1145]:
+        - generic [ref=f1e1146]: "People:"
+        - text: Amen.
+      - generic [ref=f1e1147]:
+        - generic [ref=f1e1148]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: Ⲁⲙⲏⲛ.
+      - generic [ref=f1e1149]:
+        - generic [ref=f1e1150]: "الشعبُ:"
+        - text: آمين
+    - generic [ref=f1e1151]:
+      - generic [ref=f1e1152]: "And at the third signing:"
+      - generic [ref=f1e1153]: "وثالث رشم:"
+    - generic [ref=f1e1154]:
+      - generic [ref=f1e1155]:
+        - generic [ref=f1e1156]: "Priest:"
+        - text: He sanctified it.
+      - generic [ref=f1e1157]:
+        - generic [ref=f1e1158]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: Ⲁϥⲉⲣⲁ̀ⲅⲓⲁⲍⲓⲛ ⲙ̀ⲙⲟϥ.
+      - generic [ref=f1e1159]:
+        - generic [ref=f1e1160]: "الكاهنُ:"
+        - text: وقدسها
+    - generic [ref=f1e1161]:
+      - generic [ref=f1e1162]:
+        - generic [ref=f1e1163]: "People:"
+        - text: Amen. Again, we believe, we confess, and we glorify.
+      - generic [ref=f1e1164]:
+        - generic [ref=f1e1165]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: Ⲁⲙⲏⲛ. Ⲕⲉ ⲡⲁⲗⲓⲛ ⲡⲓⲥⲧⲉⲩⲟ̀ⲙⲉⲛ ⲕⲉ ⲟ̀ⲙⲟⲗⲟⲅⲟⲩⲙⲉⲛ ⲕⲉ ⲇⲟⲝⲁⲍⲟⲙⲉⲛ.
+      - generic [ref=f1e1166]:
+        - generic [ref=f1e1167]: "الشعبُ:"
+        - text: آمين. وأيضاً نُؤمِنُ ونعتَرِفُ ونُمَجَّدُ.
+    - generic [ref=f1e1168]:
+      - generic [ref=f1e1169]: "The priest holds the rim of the chalice with his hands, saying:"
+      - generic [ref=f1e1170]: "يمسك الكاهن حافة الكأس بيده ويقول:"
+    - generic [ref=f1e1171]:
+      - generic [ref=f1e1172]:
+        - generic [ref=f1e1173]: "Priest:"
+        - text: He tasted, and gave it also to His own saintly disciples and holy apostles, saying,
+      - generic [ref=f1e1174]:
+        - generic [ref=f1e1175]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: "Ⲁϥϫⲉⲙϯⲡⲓ ⲁϥⲧⲏⲓϥ ⲟⲛ ⲛ̀ⲛⲏⲉ̀ⲧⲉ ⲛⲟⲩϥ ⲛ̀ⲁ̀ⲅⲓⲟⲥ ⲙ̀ⲙⲁⲑⲏⲧⲏⲥ: ⲟⲩⲟϩ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ ⲉⲑⲟⲩⲁⲃ ⲉϥϫⲱ ⲙ̀ⲙⲟⲥ..."
+      - generic [ref=f1e1176]:
+        - generic [ref=f1e1177]: "الكاهنُ:"
+        - text: "وذاق، وأعطاها أيضاً لتلاميذه القديسين ورسله الأطهار قائلاً:"
+    - generic [ref=f1e1178]:
+      - generic [ref=f1e1179]: "The priest moves the chalice in the form of the cross, inclining it carefully first to the west, then to the East, to the north, and to the south, while saying:"
+      - generic [ref=f1e1180]: "يحرك الكأس مثال الصليب. أي يميلها باحتراس إلى الغرب أولاً ثم الشرقِ والشمال والجنوب، وهو يقول:"
+    - generic [ref=f1e1181]:
+      - generic [ref=f1e1182]: “Take, drink of it, all of you.
+      - generic [ref=f1e1183]: ϫⲉ ϭⲓ ⲥⲱ ⲉ̀ⲃⲟⲗⲛ̀ϧⲏⲧϥ ⲧⲏⲣⲟⲩ.
+      - generic [ref=f1e1184]: ”خُذوا اشربوا منها كُلُّكُم.
+    - generic [ref=f1e1185]:
+      - generic [ref=f1e1186]: "The priest points with his hands to the chalice, and says:"
+      - generic [ref=f1e1187]: "ثم يشير بيديه إلى الكأس ويقول:"
+    - generic [ref=f1e1188]:
+      - generic [ref=f1e1189]: For this is My Blood of the New Covenant, which is shed for you and for many, to be given for the remission of sins. This do in remembrance of Me.”
+      - generic [ref=f1e1190]: "Ⲫⲁⲓ ⲅⲁⲣ ⲡⲉ ⲡⲁⲥ̀ⲛⲟϥ ⲛ̀ⲧⲉ ϯⲇⲓⲁⲑⲏⲕⲏ ⲙ̀ⲃⲉⲣⲓ: ⲉ̀ⲧⲟⲩⲛⲁⲫⲟⲛϥ ⲉ̀ⲃⲟⲗ ⲉ̀ϫⲉⲛ ⲑⲏⲛⲟⲩ ⲛⲉⲙ ϩⲁⲛⲕⲉⲙⲏϣ: ⲛ̀ⲥⲉⲧⲏⲓϥ ⲉ̀ⲡ̀ⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲓⲛⲟⲃⲓ: ⲫⲁⲓ ⲁ̀ⲣⲓⲧϥ ⲉ̀ⲡⲁⲉⲣⲫ̀ⲙⲉⲩⲓ̀."
+      - generic [ref=f1e1191]: لأنَّ هذا هو دمي الذي للعهدِ الجديدِ، الذي يُسفَكُ عنكُم وعن كثيرينَ. يُعطَى لمغفرةِ الخطايا. هذا اصنعوهُ لذِكرِي.“
+    - generic [ref=f1e1192]:
+      - generic [ref=f1e1193]:
+        - generic [ref=f1e1194]: "People:"
+        - text: This is also true. Amen.
+      - generic [ref=f1e1195]:
+        - generic [ref=f1e1196]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: "Ⲫⲁⲓ ⲟⲛ ⲡⲉ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ: ⲁ̀ⲙⲏⲛ."
+      - generic [ref=f1e1197]:
+        - generic [ref=f1e1198]: "الشعبُ:"
+        - text: وهذا هو أيضاً بالحقيقة آمين
+    - generic [ref=f1e1199]:
+      - generic [ref=f1e1200]: "The priest points with his hand to the Body, saying:"
+      - generic [ref=f1e1201]: "يشير الكاهن بيديه إلى الجسد وهو يقول:"
+    - generic [ref=f1e1202]:
+      - generic [ref=f1e1203]:
+        - generic [ref=f1e1204]: "Priest:"
+        - text: “For every time you eat of this bread
+      - generic [ref=f1e1205]:
+        - generic [ref=f1e1206]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: Ⲥⲟⲡ ⲅⲁⲣ ⲛⲓⲃⲉⲛ ⲉ̀ⲧⲉⲧⲉⲛⲛⲁⲟⲩⲱⲙ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲡⲁⲓⲱⲓⲕ ⲫⲁⲓ.
+      - generic [ref=f1e1207]:
+        - generic [ref=f1e1208]: "الكاهنُ:"
+        - text: لأنَّ كلَّ مرةٍ تأكُلونَ من هذا الخبزِ.
+    - generic [ref=f1e1209]:
+      - generic [ref=f1e1210]: "Then he points with his hands to the chalice, saying:"
+      - generic [ref=f1e1211]: "ثم يشير بيديه إلى الكأس أيضاً وهو يقول:"
+    - generic [ref=f1e1212]:
+      - generic [ref=f1e1213]: and drink of this cup,
+      - generic [ref=f1e1214]: ⲟⲩⲟϩ ⲛ̀ⲧⲉⲧⲉⲛⲥⲱ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲡⲁⲓⲁ̀ⲫⲟⲧ ⲫⲁⲓ.
+      - generic [ref=f1e1215]: وتشرَبونَ من هذه الكأسِ.
+    - generic [ref=f1e1216]:
+      - generic [ref=f1e1217]: "The priest continues, saying:"
+      - generic [ref=f1e1218]: "ثم يكمل قائلاً:"
+    - generic [ref=f1e1219]:
+      - generic [ref=f1e1220]: you proclaim My Death, confess My Resurrection, and remember Me till I come.”
+      - generic [ref=f1e1221]: "ⲉ̀ⲣⲉⲧⲉⲛϩⲓⲱⲓϣ ⲙ̀ⲡⲁⲙⲟⲩ: ⲉ̀ⲣⲉⲧⲉⲛⲉⲣⲟ̀ⲙⲟⲗⲟⲅⲓⲛ ⲛ̀ⲧⲁⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ: ⲉ̀ⲣⲉⲧⲉⲛⲓ̀ⲣⲓ ⲙ̀ⲡⲁⲙⲉⲩⲓ̀ ϣⲁϯⲓ̀."
+      - generic [ref=f1e1222]: تُبشرونَ بموتِي وتعترفونَ بقيامتي وتذكروني إلى أن أجيءَ.
+    - table [ref=f1e1225]:
+      - rowgroup [ref=f1e1226]:
+        - row "Amen, Amen, Amen (Ⲁⲙⲏⲛ ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ)" [ref=f1e1227]:
+          - cell [ref=f1e1228]:
+            - img [ref=f1e1229]
+          - cell "Amen, Amen, Amen (Ⲁⲙⲏⲛ ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ)" [ref=f1e1230]:
+            - button "Amen, Amen, Amen (Ⲁⲙⲏⲛ ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ)" [ref=f1e1231]:
+              - text: Amen, Amen, Amen
+              - text: (Ⲁⲙⲏⲛ ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ)
+    - generic [ref=f1e1232]:
+      - generic [ref=f1e1233]:
+        - generic [ref=f1e1234]:
+          - generic [ref=f1e1235]: "People:"
+          - text: Amen. Amen. Amen. Your Death, O Lord, we proclaim; Your holy Resurrection and Ascension into the heavens, we confess.
+        - generic [ref=f1e1236]:
+          - generic [ref=f1e1237]: "Ⲡⲓⲗⲁⲟⲥ:"
+          - text: "Ⲁⲙⲏⲛ ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ: ⲧⲟⲛ ⲑⲁⲛⲁⲧⲟⲛ ⲥⲟⲩ Ⲕⲩⲣⲓⲉ ⲕⲁⲧⲁⲅⲅⲉⲗⲟⲙⲉⲛ: ⲕⲉ ⲧⲏⲛ ⲁ̀ⲅⲓⲁⲛ ⲥⲟⲩ ⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲛ ⲕⲉ ⲧⲏⲛ ⲁ̀ⲛⲁⲗⲩⲯⲓⲛ ⲥⲟⲩ ⲉⲛ ⲧⲏⲥ ⲟⲩⲣⲁⲛⲓⲥ ⲥⲉ ⲟ̀ⲙⲟⲗⲟⲅⲟⲩⲙⲉⲛ."
+        - generic [ref=f1e1238]:
+          - generic [ref=f1e1239]: "الشعبُ:"
+          - text: آمين آمين آمين بموتك يارب نبشر، وبقيامتك المقدسة وصعودك إلى السموات، نعترف
+      - generic [ref=f1e1240]:
+        - generic [ref=f1e1241]: We praise You, we bless You, we thank You, O Lord, and we entreat You, O our God.
+        - generic [ref=f1e1242]: "Ⲥⲉ ⲉ̀ⲛⲟⲩⲙⲉⲛ ⲥⲉ ⲉⲩⲗⲟⲅⲟⲩⲙⲉⲛ ⲥⲓ ⲉⲩⲭⲁⲣⲓⲥⲧⲟⲩⲙⲉⲛ Ⲕⲩⲣⲓⲉ: ⲕⲉ ⲇⲉⲟ̀ⲙⲉⲑⲁ ⲥⲟⲩ ⲟ̀ Ⲑⲉⲟⲥ ⲏ̀ⲙⲱⲛ."
+        - generic [ref=f1e1243]: نسبحك، نباركك، نشكرك يارب، ونتضرع إليك يا إلهنا
+    - generic [ref=f1e1244]:
+      - generic [ref=f1e1245]:
+        - generic [ref=f1e1246]: "Priest:"
+        - text: Therefore, as we also commemorate His holy Passion, His Resurrection from the dead, His Ascension into the heavens, His Sitting at Your right hand, O Father,
+      - generic [ref=f1e1247]:
+        - generic [ref=f1e1248]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: "Ⲉⲛⲓ̀ⲣⲓ ⲟⲩⲛ ϩⲱⲛ ⲙ̀ⲫ̀ⲙⲉⲩⲓ̀ ⲛ̀ⲛⲉϥϧⲓⲥⲓ ⲉⲑⲟⲩⲁⲃ: ⲛⲉⲙ ⲡⲉϥϫⲓⲛⲧⲱⲛϥ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ: ⲛⲉⲙ ⲡⲉϥϫⲓⲛϣⲉ ⲉ̀ⲡ̀ϣⲱⲓ ⲉ̀ⲛⲓⲫⲏⲟⲩⲓ: ⲛⲉⲙ ⲡⲉϥϫⲓⲛϩⲉⲙⲥⲓ ⲥⲁⲧⲉⲕⲟⲩⲓⲛⲁⲙ Ⲫⲓⲱⲧ."
+      - generic [ref=f1e1249]:
+        - generic [ref=f1e1250]: "الكاهنُ:"
+        - text: ففيما نحنُ أيضاً نصنعُ ذِكرَ آلامِهِ المقدسةِ، وقيامتِهِ مِن الأمواتِ، وصعودِهِ إلى السمواتِ، وجلوسِهِ عن يمينِكَ أيها الآبُّ.
+    - generic [ref=f1e1251]:
+      - generic [ref=f1e1252]: and His Second Coming from the heavens, awesome and full of glory,
+      - generic [ref=f1e1253]: "Ⲛⲉⲙ ⲧⲉϥⲙⲁϩⲥ̀ⲛⲟⲩϯ ⲙ̀ⲡⲁⲣⲟⲩⲥⲓⲁ: ⲉⲑⲛⲏⲟⲩ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ: ⲉⲧⲟⲓ ⲛ̀ϩⲟϯ ⲟⲩⲟϩ ⲉⲑⲙⲉϩ ⲛ̀ⲱ̀ⲟⲩ."
+      - generic [ref=f1e1254]: وظهورِهِ الثاني الآتي من السمواتِ، المخوفِ المملوءِ مجداً.
+    - generic [ref=f1e1255]:
+      - generic [ref=f1e1256]: we offer unto You Your gifts from what is Yours, for everything, concerning everything, and in everything.
+      - generic [ref=f1e1257]: "Ⲧⲉⲛⲉⲣⲡ̀ⲣⲟⲥⲫⲉⲣⲓⲛ ⲛⲁⲕ ⲛ̀ⲛⲏⲉ̀ⲧⲉ ⲛⲟⲩⲕ ⲛ̀ⲇⲱⲣⲟⲛ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲛⲏⲉ̀ⲧⲉ ⲛⲟⲩⲕ: ⲕⲁⲧⲁ ϩⲱⲃ ⲛⲓⲃⲉⲛ: ⲛⲉⲙ ⲉⲑⲃⲉ ϩⲱⲃ ⲛⲓⲃⲉⲛ: ⲛⲉⲙ ϧⲉⲛ ϩⲱⲃ ⲛⲓⲃⲉⲛ."
+      - generic [ref=f1e1258]: نقرِّبُ لكَ قرابينكَ من الذي لكَ، على كلِّ حالٍ، ومن أجل كلِّ حالٍ، وفي كلِّ حالٍ.
+    - generic [ref=f1e1259]:
+      - generic [ref=f1e1260]:
+        - generic [ref=f1e1261]: "Deacon:"
+        - text: Worship God in fear and trembling.
+      - generic [ref=f1e1262]:
+        - generic [ref=f1e1263]: "Ⲡⲓⲇⲓⲁⲕⲱⲛ:"
+        - text: Ⲟⲩⲱϣⲧ ⲙ̀Ⲫⲛⲟⲩϯ ϧⲉⲛ ⲟⲩϩⲟϯ ⲛⲉⲙ ⲟⲩⲥ̀ⲑⲉⲣⲧⲉⲣ.
+      - generic [ref=f1e1264]:
+        - generic [ref=f1e1265]: "الشماس:"
+        - text: اسجدوا لله بخوف ورعدة
+    - generic [ref=f1e1266]:
+      - generic [ref=f1e1267]: "While all the people bow their heads, they say:"
+      - generic [ref=f1e1268]: يسجد جميع الشعب لله ويقولون وهم مطامنون رؤوسهم.
+    - generic [ref=f1e1269]:
+      - generic [ref=f1e1270]:
+        - generic [ref=f1e1271]: "People:"
+        - text: We praise You, we bless You, we serve You, we worship You.
+      - generic [ref=f1e1272]:
+        - generic [ref=f1e1273]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: Ⲧⲉⲛϩⲱⲥ ⲉ̀ⲣⲟⲕ ⲧⲉⲛⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲕ ⲧⲉⲛϣⲉⲙϣⲓ ⲙ̀ⲙⲟⲕ ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲕ.
+      - generic [ref=f1e1274]:
+        - generic [ref=f1e1275]: "الشعبُ:"
+        - text: نسبحك. نباركك. نخدمك نسجد لك
+    - generic [ref=f1e1276]:
+      - generic [ref=f1e1277]: While kneeling with hands stretched forth, the priest says the Prayer of the Descent of the Holy Spirit (the Epiclesis) inaudibly.
+      - generic [ref=f1e1278]: "يقول الكاهن أوشية حلول الروح القدس سراً وهو ساجد وباسط يديه، وهي هذه:"
+    - table [ref=f1e1281]:
+      - rowgroup [ref=f1e1282]:
+        - row "The Epiclesis (صلاة استدعاء الروح القدس)" [ref=f1e1283]:
+          - cell [ref=f1e1284]:
+            - img [ref=f1e1285]
+          - cell "The Epiclesis (صلاة استدعاء الروح القدس)" [ref=f1e1286]:
+            - button "The Epiclesis (صلاة استدعاء الروح القدس)" [ref=f1e1287]:
+              - text: The Epiclesis
+              - text: (صلاة استدعاء الروح القدس)
+    - generic [ref=f1e1288]:
+      - generic [ref=f1e1289]:
+        - generic [ref=f1e1290]: "Deacon:"
+        - text: Let us attend. Amen.
+      - generic [ref=f1e1291]:
+        - generic [ref=f1e1292]: "Ⲡⲓⲇⲓⲁⲕⲱⲛ:"
+        - text: "Ⲡⲣⲟⲥⲭⲱⲙⲉⲛ: ⲁ̀ⲙⲏⲛ."
+      - generic [ref=f1e1293]:
+        - generic [ref=f1e1294]: "الشماس:"
+        - text: ننصت آمين
+    - generic [ref=f1e1295]:
+      - generic [ref=f1e1296]: "Everyone raises his head, and, three times, the priest quickly signs with the sign of the cross the oblation which is upon the paten, and says aloud:"
+      - generic [ref=f1e1297]: "يرفع الجميع رؤوسهم. ويرشم الكاهن القربان ثلاثة رشوم بسرعة وهو موضوع في الصينية ويصرخ ويقول:"
+    - generic [ref=f1e1298]:
+      - generic [ref=f1e1299]:
+        - generic [ref=f1e1300]: "Priest:"
+        - text: And this bread He makes into His holy Body.
+      - generic [ref=f1e1301]:
+        - generic [ref=f1e1302]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: Ⲟⲩⲟϩ ⲡⲁⲓⲱⲓⲕ ⲙⲉⲛ ⲛ̀ⲧⲉϥⲁⲓϥ ⲛ̀ⲥⲱⲙⲁ ⲉϥⲟⲩⲁⲃ ⲛ̀ⲧⲁϥ.
+      - generic [ref=f1e1303]:
+        - generic [ref=f1e1304]: "الكاهنُ:"
+        - text: وهذا الخبز يجعله جسداً مقدساً له
+    - generic [ref=f1e1305]:
+      - generic [ref=f1e1306]: "The people worship, and say:"
+      - generic [ref=f1e1307]: "يسجد الشعب ويقولون:"
+    - generic [ref=f1e1308]:
+      - generic [ref=f1e1309]:
+        - generic [ref=f1e1310]: "People:"
+        - text: I believe. Amen.
+      - generic [ref=f1e1311]:
+        - generic [ref=f1e1312]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: "Ϯⲛⲁϩϯ: ⲁ̀ⲙⲏⲛ."
+      - generic [ref=f1e1313]:
+        - generic [ref=f1e1314]: "الشعبُ:"
+        - text: أؤمن. آمين.
+    - generic [ref=f1e1315]:
+      - generic [ref=f1e1316]: "Meanwhile, the priest stretches forth his hands and bows his head to the Lord, saying:"
+      - generic [ref=f1e1317]: "يبسط الكاهن يديه ويخضع برأسه للرب ويقول:"
+    - generic [ref=f1e1318]:
+      - generic [ref=f1e1319]:
+        - generic [ref=f1e1320]: "Priest:"
+        - text: Our Lord, God, and Savior Jesus Christ, given for the remission of sins and eternal life to those who partake of Him.
+      - generic [ref=f1e1321]:
+        - generic [ref=f1e1322]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: "Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ Ⲡⲉⲛⲛⲟⲩϯ ⲟⲩⲟϩ ⲡⲉⲛⲥⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓ̀ⲭ̀ⲣⲓⲥⲧⲟⲥ. ⲉⲩϯ ⲙ̀ⲙⲟϥ ⲉ̀ⲡ̀ⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲓⲛⲟⲃⲓ: ⲛⲉⲙ ⲟⲩⲱⲛϧ ⲛ̀ⲉ̀ⲛⲉϩ ⲛ̀ⲛⲏⲉⲑⲛⲁϭⲓ ⲉ̀ⲃⲟⲗ ⲛ̀ϧⲏⲧϥ."
+      - generic [ref=f1e1323]:
+        - generic [ref=f1e1324]: "الكاهنُ:"
+        - text: ربنا وإلهنا ومخلصنا يسوع المسيح. يعطى لغفران الخطايا وحياة أبدية لمن يتناول منه
+    - generic [ref=f1e1325]:
+      - generic [ref=f1e1326]: Three times, the priest quickly signs the chalice with the sign of the cross.
+      - generic [ref=f1e1327]: "يرشم الكاهن الكأس أيضاً ثلاثة رشوم بسرعة ويصرخ ويقول:"
+    - generic [ref=f1e1328]:
+      - generic [ref=f1e1329]:
+        - generic [ref=f1e1330]: "Priest:"
+        - text: And this cup also, the precious Blood of His New Covenant.
+      - generic [ref=f1e1331]:
+        - generic [ref=f1e1332]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: "Ⲟⲩⲟϩ ⲡⲁⲓⲁ̀ⲫⲟⲧ ⲇⲉ ⲟⲛ ⲛ̀ⲥ̀ⲛⲟϥ ⲉϥⲧⲁⲓⲏⲟⲩⲧ: ⲛ̀ⲧⲉ ϯⲇⲓⲁⲑⲏⲕⲏ ⲙ̀ⲃⲉⲣⲓ ⲛ̀ⲧⲁϥ."
+      - generic [ref=f1e1333]:
+        - generic [ref=f1e1334]: "الكاهنُ:"
+        - text: وهذه الكأس أيضاً دماً كريماً للعهد الجديد الذي له
+    - generic [ref=f1e1335]:
+      - generic [ref=f1e1336]: "The people worship, and say:"
+      - generic [ref=f1e1337]: "يسجد الشعب أيضاً ويقولون:"
+    - generic [ref=f1e1338]:
+      - generic [ref=f1e1339]:
+        - generic [ref=f1e1340]: "People:"
+        - text: Again, I believe. Amen.
+      - generic [ref=f1e1341]:
+        - generic [ref=f1e1342]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: "Ⲕⲉ ⲡⲁⲗⲓⲛ ϯⲛⲁϩϯ: ⲁ̀ⲙⲏⲛ."
+      - generic [ref=f1e1343]:
+        - generic [ref=f1e1344]: "الشعبُ:"
+        - text: وأيضاً أؤمن. آمين.
+    - generic [ref=f1e1345]:
+      - generic [ref=f1e1346]: "The priest stretches forth his hands and bows his head to the Lord, saying:"
+      - generic [ref=f1e1347]: "يبسط الكاهن يديه ويخضع برأسه للرب ويقول:"
+    - generic [ref=f1e1348]:
+      - generic [ref=f1e1349]:
+        - generic [ref=f1e1350]: "Priest:"
+        - text: Our Lord, God, and Savior Jesus Christ,
+      - generic [ref=f1e1351]:
+        - generic [ref=f1e1352]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ Ⲡⲉⲛⲛⲟⲩϯ ⲟⲩⲟϩ ⲡⲉⲛⲥⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ.
+      - generic [ref=f1e1353]:
+        - generic [ref=f1e1354]: "الكاهنُ:"
+        - text: ربُّنا وإلهُنا ومخلِّصُنا يسوعَ المسيحُ.
+    - generic [ref=f1e1355]:
+      - generic [ref=f1e1356]: given for the remission of sins
+      - generic [ref=f1e1357]: "Ⲉⲩϯ ⲙ̀ⲙⲟϥ ⲉ̀ⲡ̀ⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲓⲛⲟⲃⲓ:"
+      - generic [ref=f1e1358]: يُعطَى لغفرانِ الخطايا،
+    - generic [ref=f1e1359]:
+      - generic [ref=f1e1360]:
+        - generic [ref=f1e1361]: "Priest:"
+        - text: ...and eternal life to those who partake of Him.
+      - generic [ref=f1e1362]:
+        - generic [ref=f1e1363]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: ...ⲛⲉⲙ ⲟⲩⲱⲛϧ ⲛ̀ⲉ̀ⲛⲉϩ ⲛ̀ⲛⲏⲉⲑⲛⲁϭⲓ ⲉ̀ⲃⲟⲗ ⲛ̀ϧⲏⲧϥ.
+      - generic [ref=f1e1364]:
+        - generic [ref=f1e1365]: "الكاهنُ:"
+        - text: ...وحياةً أبديةً لمن يتناول منه.
+    - generic [ref=f1e1366]:
+      - generic [ref=f1e1367]: Now, indeed, the bread has become the Body of Christ and the wine the Blood of Christ. After this, the signings of both of Them shall be through Them and by Them.
+      - generic [ref=f1e1368]: الآن فقد صار القربان جسد المسيح والخمر دم المسيح وصار رشمهما في مابعد منهما وبِهما.
+    - generic [ref=f1e1369]:
+      - generic [ref=f1e1370]:
+        - generic [ref=f1e1371]: "People:"
+        - text: Amen. Lord have mercy. Lord have mercy. Lord have mercy.
+      - generic [ref=f1e1372]:
+        - generic [ref=f1e1373]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: Ⲁⲙⲏⲛ. Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ. Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ. Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.
+      - generic [ref=f1e1374]:
+        - generic [ref=f1e1375]: "الشعبُ:"
+        - text: آمين. يارب إرحم. يارب إرحم. يارب إرحم
+    - link "Yes We Ask You (نعم نسألُكَ)" [ref=f1e1378] [cursor=pointer]:
+      - /url: liturgies/gregory/Yes We Ask You@true
+      - text: Yes We Ask You
+      - text: (نعم نسألُكَ)
+    - generic [ref=f1e1379]:
+      - generic [ref=f1e1380]: "The priest takes a veil in his right hand and another in his left hand, and says:"
+      - generic [ref=f1e1381]: "ثم يأخذ الكاهن لفافة على يده اليمنى ولفافة أخرى على يده اليسرى ويقول:"
+    - generic [ref=f1e1382]:
+      - generic [ref=f1e1383]:
+        - generic [ref=f1e1384]: "Priest:"
+        - text: Make us all worthy, O our Master, to partake of Your Holies, unto the purification of our souls, bodies, and spirits,
+      - generic [ref=f1e1385]:
+        - generic [ref=f1e1386]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: "Ⲁⲣⲓⲧⲉⲛ ⲛ̀ⲉⲙⲡ̀ϣⲁ ⲧⲏⲣⲉⲛ ⲡⲉⲛⲛⲏⲃ: ⲉ̀ϭⲓ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲛⲏⲉⲑⲟⲩⲁⲃ ⲛ̀ⲧⲁⲕ: ⲉ̀ⲟⲩⲧⲟⲩⲃⲟ ⲛ̀ⲧⲉ ⲛⲉⲛⲯⲩⲭⲏ ⲛⲉⲙ ⲛⲉⲛⲥⲱⲙⲁ ⲛⲉⲙ ⲛⲉⲛⲡ̀ⲛⲉⲩⲙⲁ."
+      - generic [ref=f1e1387]:
+        - generic [ref=f1e1388]: "الكاهنُ:"
+        - text: اجعلنا مُستحِقينَ كلَّنا، يا سيدَنا، أن نتناولَ من قُدساتِكَ طهارةً لأنفسِنا وأجسادِنا وأرواحِنا.
+    - generic [ref=f1e1389]:
+      - generic [ref=f1e1390]: that we may become one body and one spirit, and may have a share and inheritance with all the saints who have pleased You since the beginning.
+      - generic [ref=f1e1391]: "Ϩⲓⲛⲁ ⲛ̀ⲧⲉⲛϣⲱⲡⲓ ⲛ̀ⲟⲩⲥⲱⲙⲁ ⲛ̀ⲟⲩⲱⲧ: ⲛⲉⲙ ⲟⲩⲡ̀ⲛⲉⲩⲙⲁ ⲛ̀ⲟⲩⲱⲧ: ⲛ̀ⲧⲉⲛϫⲓⲙⲓ ⲛ̀ⲟⲩⲙⲉⲣⲟⲥ ⲛⲉⲙ ⲟⲩⲕ̀ⲗⲏⲣⲟⲥ: ⲛⲉⲙ ⲛⲏⲉⲑⲟⲩⲁⲃ ⲧⲏⲣⲟⲩ ⲉ̀ⲧⲁⲩⲣⲁⲛⲁⲕ ⲓⲥϫⲉⲛ ⲡ̀ⲉ̀ⲛⲉϩ."
+      - generic [ref=f1e1392]: لكي نكونَ جسداً واحداً، وروحاً واحداً، ونجدَ نصيباً وميراثاً مع جميعِ القديسينَ الذين أرضَوْكَ مُنذُ البدءِ.
+    - generic [ref=f1e1393]:
+      - generic [ref=f1e1394]: The Seven Short Litanies
+      - generic [ref=f1e1395]: السبع الأواشي الصغار
+    - table [ref=f1e1398]:
+      - rowgroup [ref=f1e1399]:
+        - row "Litany of Peace (أوشية السلام)" [ref=f1e1400]:
+          - cell [ref=f1e1401]:
+            - img [ref=f1e1402]
+          - cell "Litany of Peace (أوشية السلام)" [ref=f1e1403]:
+            - button "Litany of Peace (أوشية السلام)" [ref=f1e1404]:
+              - text: Litany of Peace
+              - text: (أوشية السلام)
+    - generic [ref=f1e1405]:
+      - generic [ref=f1e1406]:
+        - generic [ref=f1e1407]:
+          - generic [ref=f1e1408]: "Priest:"
+          - text: Remember, O Lord, the peace of Your one, only, holy, catholic, and apostolic Church
+        - generic [ref=f1e1409]:
+          - generic [ref=f1e1410]: "Ⲡⲓⲟⲩⲏⲃ:"
+          - text: Ⲁⲣⲓⲫ̀ⲙⲉⲩⲓ̀ Ⲡϭⲟⲓⲥ ⲛ̀ϯϩⲓⲣⲏⲛⲏ ⲛ̀ⲧⲉ ⲧⲉⲕⲟⲩⲓ̀ ⲙ̀ⲙⲁⲩⲁⲧⲥ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲕⲁⲑⲟⲗⲓⲕⲏ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲓⲕⲏ ⲛ̀ⲉⲕⲕ̀ⲗⲏⲥⲓⲁ̀.
+        - generic [ref=f1e1411]:
+          - generic [ref=f1e1412]: "الكاهنُ:"
+          - text: اذكر ياربُّ سلامَ كنيستِكَ الواحدةِ، الوحيدةِ المقدسةِ، الجامعةِ الرسوليةِ.
+      - generic [ref=f1e1413]:
+        - generic [ref=f1e1414]:
+          - generic [ref=f1e1415]: "Deacon:"
+          - text: Pray for the peace of the one, holy, catholic, and apostolic orthodox Church of God.
+        - generic [ref=f1e1416]:
+          - generic [ref=f1e1417]: "Ⲡⲓⲇⲓⲁⲕⲱⲛ:"
+          - text: Ⲡⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲏⲥ ⲓ̀ⲣⲏⲛⲏⲥ ⲧⲏⲥ ⲁ̀ⲅⲓⲁⲥ ⲙⲟⲛⲏⲥ ⲕⲁⲑⲟⲗⲓⲕⲏⲥ ⲕⲉ ⲁ̀ⲡⲟⲥⲧⲟⲗⲓⲕⲏⲥ ⲟⲣⲑⲟⲇⲟⲝⲟⲩ ⲧⲟⲩ Ⲑⲉⲟⲩ ⲉⲕⲕ̀ⲗⲏⲥⲓⲁ̀ⲥ.
+        - generic [ref=f1e1418]:
+          - generic [ref=f1e1419]: "الشماس:"
+          - text: صلوا من أجلِ سلامِ الواحدةِ المقدسةِ الجامعةِ الرسوليةِ كنيسةِ الله الارثوذكسية.
+      - generic [ref=f1e1420]:
+        - generic [ref=f1e1421]:
+          - generic [ref=f1e1422]: "People:"
+          - text: Lord have mercy.
+        - generic [ref=f1e1423]:
+          - generic [ref=f1e1424]: "Ⲡⲓⲗⲁⲟⲥ:"
+          - text: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.
+        - generic [ref=f1e1425]:
+          - generic [ref=f1e1426]: "الشعبُ:"
+          - text: يارب إرحم.
+      - generic [ref=f1e1427]:
+        - generic [ref=f1e1428]: "While pointing with his hand first to the Blood and then to the Body, the priest says:"
+        - generic [ref=f1e1429]: "يقول الكاهن وهو يشير بيديه إلى الدم أولاً وإلى الجسد ثانياً:"
+      - generic [ref=f1e1430]:
+        - generic [ref=f1e1431]:
+          - generic [ref=f1e1432]: "Priest:"
+          - text: this, which You have acquired to Yourself with the precious Blood of Your Christ,
+        - generic [ref=f1e1433]:
+          - generic [ref=f1e1434]: "Ⲡⲓⲟⲩⲏⲃ:"
+          - text: Ⲑⲁⲓ ⲉ̀ⲧⲁⲕϫ̀ⲫⲟⲥ ⲛⲁⲕ ⲉ̀ⲃⲟⲗϩⲓⲧⲉⲛ ⲡⲓⲥ̀ⲛⲟϥ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ ⲛ̀ⲧⲉ Ⲡⲉⲕⲭ̀ⲣⲓⲥⲧⲟⲥ.
+        - generic [ref=f1e1435]:
+          - generic [ref=f1e1436]: "الكاهنُ:"
+          - text: هذه التي اقتنيتَها لكَ بالدَّمِ الكريمِ الذي لمسيحِكَ.
+      - generic [ref=f1e1437]:
+        - generic [ref=f1e1438]: keep her in peace, with all the orthodox bishops who are in her.
+        - generic [ref=f1e1439]: "Ⲁⲣⲉϩ ⲉ̀ⲣⲟⲥ ϧⲉⲛ ⲟⲩϩⲓⲣⲏⲛⲏ: ⲛⲉⲙ ⲛⲓⲉ̀ⲡⲓⲥⲕⲟⲡⲟⲥ ⲧⲏⲣⲟⲩ ⲛ̀ⲟⲣⲑⲟⲇⲟⲝⲟⲥ ⲉ̀ⲧⲉ ⲛ̀ϧⲏⲧⲥ."
+        - generic [ref=f1e1440]: احفظها بسلامٍ، وكلَّ الأساقفةِ الأرثوذكسيين الذينَ فيها.
+    - table [ref=f1e1443]:
+      - rowgroup [ref=f1e1444]:
+        - row "Litany of the Fathers (أوشية الآباء)" [ref=f1e1445]:
+          - cell [ref=f1e1446]:
+            - img [ref=f1e1447]
+          - cell "Litany of the Fathers (أوشية الآباء)" [ref=f1e1448]:
+            - button "Litany of the Fathers (أوشية الآباء)" [ref=f1e1449]:
+              - text: Litany of the Fathers
+              - text: (أوشية الآباء)
+    - generic [ref=f1e1450]:
+      - generic [ref=f1e1451]:
+        - generic [ref=f1e1452]:
+          - generic [ref=f1e1453]: "Priest:"
+          - text: "Foremost remember, O Lord, our blessed and honored father, the archbishop, our patriarch, Abba (...), and his spiritual brethren: the Patriarch of Antioch Mar Ignatius (...) and the Patriarch of Eritrea Abouna (...),"
+        - generic [ref=f1e1454]:
+          - generic [ref=f1e1455]: "Ⲡⲓⲟⲩⲏⲃ:"
+          - text: Ⲛϣⲟⲣⲡ ⲙⲉⲛ ⲁ̀ⲣⲓⲫ̀ⲙⲉⲩⲓ̀ Ⲡϭⲟⲓⲥ ⲙ̀ⲡⲉⲛⲙⲁⲕⲁⲣⲓⲟⲥ ⲛ̀ⲓⲱⲧ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ ⲛ̀ⲁⲣⲭⲓⲉ̀ⲡⲓⲥⲕⲟⲡⲟⲥ ⲡⲉⲛⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ ⲁⲃⲃⲁ (...) ⲛⲉⲙ ⲛⲉϥⲥ̀ⲛⲏⲟⲩ ⲙ̀ⲡ̀ⲛⲉⲩⲙⲁⲧⲓⲕⲟⲛ ⲡⲓⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ ⲛ̀ⲧ̀Ⲁⲛⲧⲓⲟ̀ⲭⲓⲁ̀ Ⲙⲁⲣ Ⲓⲅⲛⲁⲧⲓⲟⲥ (...) ⲛⲉⲙ ⲡⲓⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ ⲛ̀Ⲉⲣⲓⲧⲣⲉⲁ Ⲁⲡⲟⲩⲛⲁ (...).
+        - generic [ref=f1e1456]:
+          - generic [ref=f1e1457]: "الكاهنُ:"
+          - text: وأولاً اُذكُرْ يا رَبُّ أبانا الطوباوي المُكرَّمَ رئيسَ الأساقِفةِ بطريَرْكنا أنبا (...)، وأَخَوَيْهِ الروحِيَيْنِ مار إغناطيوس (...) بطريرك أنطاكيه، وأبونا (...) بطريرك إريتريا.
+      - generic [ref=f1e1458]:
+        - generic [ref=f1e1459]: In the presence of a metropolitan or bishop, the following is added.
+        - generic [ref=f1e1460]: "وفي وجود مطران أو أسقف يضاف:"
+      - generic [ref=f1e1461]:
+        - generic [ref=f1e1462]: and his partner in the [apostolic] liturgy, our father the bishop (metropolitan), Abba (...).
+        - generic [ref=f1e1463]: ⲛⲉⲙ ⲡⲉϥⲕⲉϣ̀ⲫⲏⲣ ⲛ̀ⲗⲓⲧⲟⲩⲣⲅⲟⲥ ⲡⲉⲛⲓⲱⲧ ⲛ̀ⲉ̀ⲡⲓⲥⲕⲟⲡⲟⲥ (ⲙ̀ⲙⲏⲧⲣⲟⲡⲟⲗⲓⲧⲏⲥ) ⲁⲃⲃⲁ (...).
+        - generic [ref=f1e1464]: وشريكَهُ في الخدمةِ [الرسولية] أبانا الأسقف (المطران) المكرم أنبا (...).
+      - generic [ref=f1e1465]:
+        - generic [ref=f1e1466]:
+          - generic [ref=f1e1467]: "Deacon:"
+          - text: Pray for our archpriest, Pope Abba (...), Pope and Patriarch and archbishop of the great city of Alexandria; And his spiritual brethren in the apostolic liturgy, the Patriarch of Antioch, Mar Ignatius (…), and the Patriarch of Eritrea, Abouna (…),
+        - generic [ref=f1e1468]:
+          - generic [ref=f1e1469]: "Ⲡⲓⲇⲓⲁⲕⲱⲛ:"
+          - text: "Ⲡⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲟⲩ ⲁⲣⲭⲓ ⲉ̀ⲣⲉⲱⲥ ⲏ̀ⲙⲱⲛ ⲡⲁⲡⲁ ⲁⲃⲃⲁ (ⲛⲓⲙ): ⲡⲁⲡⲁ ⲕⲉ ⲡⲁⲧⲣⲓⲁⲣⲭⲟⲩ ⲕⲉ ⲁⲣⲭⲓⲉ̀ⲡⲓⲥⲕⲟⲡⲟⲩ ⲧⲏⲥ ⲙⲉⲅⲁⲗⲟⲩ ⲡⲟⲗⲉⲱⲥ Ⲁⲗⲉⲝⲁⲛⲇ̀ⲣⲓⲁⲥ: ⲕⲉ ⲧⲱⲛ ⲁⲇⲉⲗⲫⲱⲛ ⲁⲩⲧⲟⲩ ⲉⲛ ⲧⲏ ⲁ̀ⲡⲟⲥⲧⲟⲗⲓⲕⲏ ⲗⲓⲧⲟⲩⲣⲅⲓⲁ: Ⲙⲁⲣ Ⲓⲅⲛⲁⲑⲓⲟⲩ (ⲛⲓⲙ) ⲧⲟⲩ ⲡⲁⲧⲣⲓⲁⲣⲭⲟⲩ ⲧⲏⲥ Ⲁⲛⲧⲓⲟⲭⲓⲁⲥ: ⲕⲉ Ⲁⲡⲟⲩⲛⲁ (ⲛⲓⲙ) ⲧⲟⲩ ⲡⲁⲧⲣⲓⲁⲣⲭⲟⲩ ⲧⲏⲥ Ⲉⲣⲓⲧⲣⲉⲁⲥ:"
+        - generic [ref=f1e1470]:
+          - generic [ref=f1e1471]: "الشماس:"
+          - text: صلوا من أجل رئيس كهنتنا البابا أنبا (...) بابا وبطريرك ورئيس أساقفة المدينة العظمى الاسكندرية وأخويه الروحيين في الخدمة الرسولية مار اغناطيوس (...) بطريرك أنطاكيه و أبونا (...) بطريرك أرتيريا
+      - generic [ref=f1e1472]:
+        - generic [ref=f1e1473]: "If a metropolitan or a bishop is present, he adds:"
+        - generic [ref=f1e1474]: "وفي وجود مطران أو أسقف يضاف:"
+      - generic [ref=f1e1475]:
+        - generic [ref=f1e1476]: and his partner in the [apostolic] liturgy, our father the bishop (metropolitan), Abba (…)...
+        - generic [ref=f1e1477]: ⲕⲉ ⲧⲟⲩ ⲥⲩⲛⲕⲟⲓⲛⲱⲛⲟⲩ ⲁⲩⲧⲟⲩ ⲉⲛ ⲧⲏ ⲗⲓⲧⲟⲩⲣⲅⲓⲁ ⲧⲟⲩ ⲡⲁⲧⲣⲟⲥ ⲏ̀ⲙⲱⲛ ⲧⲟⲩ ⲉ̀ⲡⲓⲥⲕⲟⲡⲟⲩ (ⲙⲏⲧⲣⲟⲡⲟⲗⲓⲧⲟⲩ) ⲁⲃⲃⲁ (ⲛⲓⲙ)...
+        - generic [ref=f1e1478]: وشريكه في الخدمة الرسولية أبينا الأسقف (المطران) المكرم الأنبا (...)
+      - generic [ref=f1e1479]:
+        - generic [ref=f1e1480]: "Then he concludes:"
+        - generic [ref=f1e1481]: "ثم يختم:"
+      - generic [ref=f1e1482]:
+        - generic [ref=f1e1483]: and for our orthodox bishops.
+        - generic [ref=f1e1484]: ⲕⲉ ⲧⲱⲛ ⲟⲣⲑⲟⲇⲟⲝⲱⲛ ⲏ̀ⲙⲱⲛ ⲉ̀ⲡⲓⲥⲕⲟⲡⲱⲛ.
+        - generic [ref=f1e1485]: وسائر أساقفتنا ألأرثوذكسيين
+      - generic [ref=f1e1486]:
+        - generic [ref=f1e1487]:
+          - generic [ref=f1e1488]: "People:"
+          - text: Lord have mercy.
+        - generic [ref=f1e1489]:
+          - generic [ref=f1e1490]: "Ⲡⲓⲗⲁⲟⲥ:"
+          - text: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.
+        - generic [ref=f1e1491]:
+          - generic [ref=f1e1492]: "الشعبُ:"
+          - text: يارب إرحم.
+    - table [ref=f1e1495]:
+      - rowgroup [ref=f1e1496]:
+        - row "Litany of the Departed Patriarch/Metropolitan/Bishop (أوشية الآباء)" [ref=f1e1497]:
+          - cell [ref=f1e1498]:
+            - img [ref=f1e1499]
+          - cell "Litany of the Departed Patriarch/Metropolitan/Bishop (أوشية الآباء)" [ref=f1e1500]:
+            - button "Litany of the Departed Patriarch/Metropolitan/Bishop (أوشية الآباء)" [ref=f1e1501]:
+              - text: Litany of the Departed Patriarch/Metropolitan/Bishop
+              - text: (أوشية الآباء)
+    - table [ref=f1e1504]:
+      - rowgroup [ref=f1e1505]:
+        - row "Litany of the Clergy (أوشية القسوس)" [ref=f1e1506]:
+          - cell [ref=f1e1507]:
+            - img [ref=f1e1508]
+          - cell "Litany of the Clergy (أوشية القسوس)" [ref=f1e1509]:
+            - button "Litany of the Clergy (أوشية القسوس)" [ref=f1e1510]:
+              - text: Litany of the Clergy
+              - text: (أوشية القسوس)
+    - generic [ref=f1e1511]:
+      - generic [ref=f1e1512]:
+        - generic [ref=f1e1513]:
+          - generic [ref=f1e1514]: "Priest:"
+          - text: And those who rightly handle the word of truth with him,
+        - generic [ref=f1e1515]:
+          - generic [ref=f1e1516]: "Ⲡⲓⲟⲩⲏⲃ:"
+          - text: Ⲛⲉⲙ ⲛⲏⲉⲧϣⲱⲧ ⲉ̀ⲃⲟⲗ ⲛⲉⲙⲁϥ ⲙ̀ⲡ̀ⲥⲁϫⲓ ⲛ̀ⲧⲉ ϯⲙⲉⲑⲙⲏⲓ ϧⲉⲛ ⲟⲩⲥⲱⲟⲩⲧⲉⲛ.
+        - generic [ref=f1e1517]:
+          - generic [ref=f1e1518]: "الكاهنُ:"
+          - text: والذين يُفَصِّلُونَ معه كلمةَ الحقِ باستقامةٍ.
+      - generic [ref=f1e1519]:
+        - generic [ref=f1e1520]: grant them unto Your holy Church to shepherd Your flock in peace.
+        - generic [ref=f1e1521]: "Ⲁⲣⲓⲭⲁⲣⲓⲍⲉⲥⲑⲉ ⲙ̀ⲙⲱⲟⲩ ⲛ̀ⲧⲉⲕⲉⲕⲕ̀ⲗⲏⲥⲓⲁ̀ ⲉⲑⲟⲩⲁⲃ: ⲉⲩⲁ̀ⲙⲟⲛⲓ ⲙ̀ⲡⲉⲕⲟ̀ϩⲓ ϧⲉⲛ ⲟⲩϩⲓⲣⲏⲛⲏ."
+        - generic [ref=f1e1522]: أَنعِمْ بِهم على كنيستِكَ المقدسةِ يَرْعَوْنَ قطيعَكَ بسلامٍ.
+      - generic [ref=f1e1523]:
+        - generic [ref=f1e1524]: Remember, O Lord, the orthodox hegumens, priests, and deacons—
+        - generic [ref=f1e1525]: "Ⲁⲣⲓⲫ̀ⲙⲉⲩⲓ̀ Ⲡϭⲟⲓⲥ ⲛ̀ⲛⲓϩⲏⲅⲟⲩⲙⲉⲛⲟⲥ: ⲛⲉⲙ ⲛⲓⲡ̀ⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲛ̀ⲟⲣⲑⲟⲇⲟⲝⲟⲥ: ⲛⲉⲙ ⲛⲓⲇⲓⲁⲕⲱⲛ."
+        - generic [ref=f1e1526]: اذكر ياربُّ القمامصةَ والقسوسَ الأرثوذكسيين والشمامسةَ.
+      - generic [ref=f1e1527]:
+        - generic [ref=f1e1528]:
+          - generic [ref=f1e1529]: "Deacon:"
+          - text: Pray for the hegumens, priests, deacons, subdeacons, and the seven orders of the Church of God.
+        - generic [ref=f1e1530]:
+          - generic [ref=f1e1531]: "Ⲡⲓⲇⲓⲁⲕⲱⲛ:"
+          - text: Ⲡⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲱⲛ ⲏ̀ⲅⲟⲙⲉⲛⲱⲛ ⲕⲉ ⲡ̀ⲣⲉⲥⲃⲩⲧⲉⲣⲱⲛ ⲕⲉ ⲇⲓⲁⲕⲟⲛⲱⲛ ⲕⲉ ⲩ̀ⲡⲟⲇⲓⲁⲕⲟⲛⲱⲛ ⲉⲡⲧⲁ ⲧⲁⲅⲙⲁⲧⲱⲛ ⲧⲟⲩ Ⲑⲉⲟⲩ ⲧⲏⲥ ⲉⲕⲕ̀ⲗⲏⲥⲓⲁ̀ⲥ.
+        - generic [ref=f1e1532]:
+          - generic [ref=f1e1533]: "الشماس:"
+          - text: صلوا من أجل القمامصة والقسوس والشمامسة والإيبوذياكونيين، وسبع طغمات كنيسة الله
+      - generic [ref=f1e1534]:
+        - generic [ref=f1e1535]:
+          - generic [ref=f1e1536]: "People:"
+          - text: Lord have mercy.
+        - generic [ref=f1e1537]:
+          - generic [ref=f1e1538]: "Ⲡⲓⲗⲁⲟⲥ:"
+          - text: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.
+        - generic [ref=f1e1539]:
+          - generic [ref=f1e1540]: "الشعبُ:"
+          - text: يارب إرحم.
+    - table [ref=f1e1543]:
+      - rowgroup [ref=f1e1544]:
+        - row "Litany of Mercy (أوشية الرحمة)" [ref=f1e1545]:
+          - cell [ref=f1e1546]:
+            - img [ref=f1e1547]
+          - cell "Litany of Mercy (أوشية الرحمة)" [ref=f1e1548]:
+            - button "Litany of Mercy (أوشية الرحمة)" [ref=f1e1549]:
+              - text: Litany of Mercy
+              - text: (أوشية الرحمة)
+    - generic [ref=f1e1550]:
+      - generic [ref=f1e1551]:
+        - generic [ref=f1e1552]:
+          - generic [ref=f1e1553]: "Priest:"
+          - text: And all the servants, and all who are in virginity, and the purity of all Your faithful people.
+        - generic [ref=f1e1554]:
+          - generic [ref=f1e1555]: "Ⲡⲓⲟⲩⲏⲃ:"
+          - text: "Ⲛⲉⲙ ⲣⲉϥϣⲉⲙϣⲓ ⲛⲓⲃⲉⲛ: ⲛⲉⲙ ⲛⲏ ⲧⲏⲣⲟⲩ ⲉⲧϧⲉⲛ ϯⲡⲁⲣⲑⲉⲛⲓⲁ: ⲛⲉⲙ ⲟⲩⲧⲟⲩⲃⲟ ⲙ̀ⲡⲉⲕⲗⲁⲟⲥ ⲧⲏⲣϥ ⲙ̀ⲡⲓⲥⲧⲟⲥ."
+        - generic [ref=f1e1556]:
+          - generic [ref=f1e1557]: "الكاهنُ:"
+          - text: وكل الخدام، وكل الذين في البتولية، وطهارة كل شعبك المؤمن
+      - generic [ref=f1e1558]:
+        - generic [ref=f1e1559]: +Remember, O Lord, to have mercy upon us all.
+        - generic [ref=f1e1560]: +Ⲁⲣⲓⲫ̀ⲙⲉⲩⲓ̀ Ⲡϭⲟⲓⲥ ⲛ̀ⲧⲉⲕⲛⲁⲓ ⲛⲁⲛ ⲧⲏⲣⲟⲩ ⲉⲩⲥⲟⲡ.
+        - generic [ref=f1e1561]: (أذكر يارب أن ترحمنا كلنا معاً)+
+      - generic [ref=f1e1562]:
+        - generic [ref=f1e1563]: +Said by the Pope, a metropolitan, or a bishop, if present.
+        - generic [ref=f1e1564]: +يقولها الأب البابا أو المطران أو الأسقف إذا كان حاضراً.
+      - generic [ref=f1e1565]:
+        - generic [ref=f1e1566]:
+          - generic [ref=f1e1567]: "People:"
+          - text: Have mercy upon us, O God, the Father, the Pantocrator.
+        - generic [ref=f1e1568]:
+          - generic [ref=f1e1569]: "Ⲡⲓⲗⲁⲟⲥ:"
+          - text: Ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ ⲟ̀ Ⲑⲉⲟⲥ ⲟ̀ Ⲡⲁⲧⲏⲣ ⲟ̀ Ⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ.
+        - generic [ref=f1e1570]:
+          - generic [ref=f1e1571]: "الشعبُ:"
+          - text: إرحمنا يا الله الأب، ضابط الكل
+    - table [ref=f1e1574]:
+      - rowgroup [ref=f1e1575]:
+        - row "Litany of the Place (أوشية الموضع)" [ref=f1e1576]:
+          - cell [ref=f1e1577]:
+            - img [ref=f1e1578]
+          - cell "Litany of the Place (أوشية الموضع)" [ref=f1e1579]:
+            - button "Litany of the Place (أوشية الموضع)" [ref=f1e1580]:
+              - text: Litany of the Place
+              - text: (أوشية الموضع)
+    - generic [ref=f1e1581]:
+      - generic [ref=f1e1582]:
+        - generic [ref=f1e1583]:
+          - generic [ref=f1e1584]: "Priest:"
+          - text: Remember, O Lord, the salvation of this Your holy place, and every place, and every monastery of our orthodox fathers.
+        - generic [ref=f1e1585]:
+          - generic [ref=f1e1586]: "Ⲡⲓⲟⲩⲏⲃ:"
+          - text: "Ⲁⲣⲓⲫ̀ⲙⲉⲩⲓ̀ Ⲡϭⲟⲓⲥ ⲛ̀ⲧ̀ⲥⲱⲧⲏⲣⲓⲁ ⲙ̀ⲡⲁⲓⲧⲟⲡⲟⲥ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲧⲁⲕ ⲫⲁⲓ: ⲛⲉⲙ ⲧⲟⲡⲟⲥ ⲛⲓⲃⲉⲛ: ⲛⲉⲙ ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ ⲛⲓⲃⲉⲛ ⲛ̀ⲧⲉ ⲛⲉⲛⲓⲟϯ ⲛ̀ⲟⲣⲑⲟⲇⲟⲝⲟⲥ."
+        - generic [ref=f1e1587]:
+          - generic [ref=f1e1588]: "الكاهنُ:"
+          - text: اذكر ياربُّ خلاصَ هذا الموضعِ المقدس الذي لكَ، وكلِّ المواضعِ وكلِّ أديرةِ آبائنا الأرثوذكسيين.
+      - generic [ref=f1e1589]:
+        - generic [ref=f1e1590]:
+          - generic [ref=f1e1591]: "Deacon:"
+          - text: Pray for the salvation of the world and of this city+ of ours, and of all cities, districts, islands, and monasteries.
+        - generic [ref=f1e1592]:
+          - generic [ref=f1e1593]: "Ⲡⲓⲇⲓⲁⲕⲱⲛ:"
+          - text: Ⲡⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲏⲥ ⲥⲱⲧⲏⲣⲓⲁⲥ ⲧⲟⲩ ⲕⲟⲥⲙⲟⲩ ⲕⲉ ⲧⲏⲥ ⲡⲟⲗⲉⲱⲥ ⲏ̀ⲙⲱⲛ ⲧⲁⲩⲧⲏⲥ ⲕⲉ ⲡⲁⲥⲱⲛ ⲡⲟⲗⲉⲱⲛ ⲕⲉ ⲧⲱⲛ ⲭⲱⲣⲱⲛ ⲕⲉ ⲛⲏⲥⲱⲛ ⲕⲉ ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲱⲛ.
+        - generic [ref=f1e1594]:
+          - generic [ref=f1e1595]: "الشماس:"
+          - text: صلوا من أجل خلاص العالم ومدينتنا هذه،+ وسائر المدن والأقاليم والجزائر والأديرة
+      - generic [ref=f1e1596]:
+        - generic [ref=f1e1597]: + “This monastery of ours” is said in the monasteries instead of “this city of ours.”
+        - generic [ref=f1e1598]: +ⲕⲉ ⲧⲟⲩ ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲩ ⲏ̀ⲙⲱⲛ ⲧⲟⲩⲧⲟⲩ
+        - generic [ref=f1e1599]: +في الأديرة يقال ”وديرِنا هذا“، بدلاً من ”ومدينتِنا هذه“
+      - generic [ref=f1e1600]:
+        - generic [ref=f1e1601]:
+          - generic [ref=f1e1602]: "People:"
+          - text: Lord have mercy.
+        - generic [ref=f1e1603]:
+          - generic [ref=f1e1604]: "Ⲡⲓⲗⲁⲟⲥ:"
+          - text: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.
+        - generic [ref=f1e1605]:
+          - generic [ref=f1e1606]: "الشعبُ:"
+          - text: يارب إرحم.
+      - generic [ref=f1e1607]:
+        - generic [ref=f1e1608]:
+          - generic [ref=f1e1609]: "Priest:"
+          - text: And those who dwell therein in God’s faith.
+        - generic [ref=f1e1610]:
+          - generic [ref=f1e1611]: "Ⲡⲓⲟⲩⲏⲃ:"
+          - text: Ⲛⲉⲙ ⲛⲏⲉⲧϣⲟⲡ ⲛ̀ϧⲏⲧⲟⲩ ϧⲉⲛ ⲡⲓⲛⲁϩϯ ⲛ̀ⲧⲉ Ⲫⲛⲟⲩϯ.
+        - generic [ref=f1e1612]:
+          - generic [ref=f1e1613]: "الكاهنُ:"
+          - text: والساكنين فيها بإيمانِ الله.
+    - link "For Your People (Ⲡⲉⲕⲗⲁⲟⲥ Ⲅⲁⲣ)" [ref=f1e1616] [cursor=pointer]:
+      - /url: liturgies/gregory/For Your People@true
+      - text: For Your People
+      - text: (Ⲡⲉⲕⲗⲁⲟⲥ Ⲅⲁⲣ)
+    - generic [ref=f1e1617]:
+      - generic [ref=f1e1618]: The priest says the appropriate prayer according to the season, either the Litany for the Waters, the Litany for the Seeds, or the Litany for the Fruits.
+      - generic [ref=f1e1619]: ههنا يقول الكاهن ما يوافق الوقت من أوشية المياه أو أوشية الزروع أو أوشية الثمار
+    - table [ref=f1e1622]:
+      - rowgroup [ref=f1e1623]:
+        - row "Litany of the Air of Heaven and the Fruits (أوشية أهوية السماء والثمار)" [ref=f1e1624]:
+          - cell [ref=f1e1625]:
+            - img [ref=f1e1626]
+          - cell "Litany of the Air of Heaven and the Fruits (أوشية أهوية السماء والثمار)" [ref=f1e1627]:
+            - button "Litany of the Air of Heaven and the Fruits (أوشية أهوية السماء والثمار)" [ref=f1e1628]:
+              - text: Litany of the Air of Heaven and the Fruits
+              - text: (أوشية أهوية السماء والثمار)
+    - generic [ref=f1e1629]:
+      - generic [ref=f1e1630]:
+        - generic [ref=f1e1631]: "From 11 Tobe to 11 Paone (January 19/20 to June 18), the Litany for the Air of Heaven and the Fruits is said:"
+        - generic [ref=f1e1632]: "من 11 طوبه إلى 11 بؤونه (19/20 يناير إلى 18يونيو) يقول الكاهن أوشية الثمار، وهي هذه:"
+      - generic [ref=f1e1633]:
+        - generic [ref=f1e1634]:
+          - generic [ref=f1e1635]: "Priest:"
+          - text: Graciously accord, O Lord, the air of heaven and the fruits of the earth this year, to bless them.
+        - generic [ref=f1e1636]:
+          - generic [ref=f1e1637]: "Ⲡⲓⲟⲩⲏⲃ:"
+          - text: "Ⲁⲣⲓⲕⲁⲧⲁⲝⲓⲟⲓⲛ Ⲡϭⲟⲓⲥ ⲛⲓⲁ̀ⲏⲣ ⲛ̀ⲧⲉ ⲧ̀ⲫⲉ ⲛⲉⲙ ⲛⲓⲕⲁⲣⲡⲟⲥ ⲛ̀ⲧⲉ ⲡ̀ⲕⲁϩⲓ ϧⲉⲛ ⲧⲁⲓⲣⲟⲙⲡⲓ ⲑⲁⲓ: ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲱⲟⲩ."
+        - generic [ref=f1e1638]:
+          - generic [ref=f1e1639]: "الكاهنُ:"
+          - text: تفضل ياربُّ أهويةَ السماءِ وثمراتَ الأرضِ، في هذه السنةِ، بارِكْها.
+      - generic [ref=f1e1640]:
+        - generic [ref=f1e1641]:
+          - generic [ref=f1e1642]: "Deacon:"
+          - text: Pray for the air of heaven, the fruits of the earth, the trees, the vines, and for every fruit-bearing tree in all the world, that Christ our God may bless them, bring them to perfection in peace without harm, and forgive us our sins.
+        - generic [ref=f1e1643]:
+          - generic [ref=f1e1644]: "Ⲡⲓⲇⲓⲁⲕⲱⲛ:"
+          - text: "Ⲧⲱⲃϩ ⲉ̀ϫⲉⲛ ⲛⲓⲁ̀ⲏⲣ ⲛ̀ⲧⲉ ⲧ̀ⲫⲉ ⲛⲉⲙ ⲛⲓⲕⲁⲣⲡⲟⲥ ⲛ̀ⲧⲉ ⲡ̀ⲕⲁϩⲓ ⲛⲉⲙ ⲫⲁ ⲛⲓϣ̀ϣⲏⲛ ⲛⲉⲙ ⲫⲁ ⲛⲓⲙⲁⲛ̀ⲁⲗⲟⲗⲓ ⲛⲉⲙ ϣ̀ϣⲏⲛ ⲛⲓⲃⲉⲛ ⲛ̀ⲣⲉϥϯⲕⲁⲣⲡⲟⲥ ⲉⲧϧⲉⲛ ϯⲟⲓⲕⲟⲩⲙⲉⲛⲏ ⲧⲏⲣⲥ: ϩⲓⲛⲁ ⲛ̀ⲧⲉ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡⲉⲛⲛⲟⲩϯ ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲱⲟⲩ ⲛ̀ⲧⲉϥϫⲟⲕⲟⲩ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲟⲩϩⲓⲣⲏⲛⲏ ⲁϭⲛⲉ ⲙ̀ⲕⲁϩ: ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ."
+        - generic [ref=f1e1645]:
+          - generic [ref=f1e1646]: "الشماس:"
+          - text: اطلبوا عن أهويةِ السماءِ، وثمراتِ الأرضِ والشجرِ والكرومِ، وكل شجرةٍ مثمرةٍ في كلِ المسكونةِ، لكي يباركَها المسيحُ إلهنا، ويكَملُها سالمةً بغير ألمٍ ويغفرَ لنا خطايانا.
+      - generic [ref=f1e1647]:
+        - generic [ref=f1e1648]:
+          - generic [ref=f1e1649]: "People:"
+          - text: Lord have mercy. (3)
+        - generic [ref=f1e1650]:
+          - generic [ref=f1e1651]: "Ⲡⲓⲗⲁⲟⲥ:"
+          - text: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ. (ⲅ︦)
+        - generic [ref=f1e1652]:
+          - generic [ref=f1e1653]: "الشعبُ:"
+          - text: يارب إرحم. (3)
+      - generic [ref=f1e1654]:
+        - generic [ref=f1e1655]: "The priest continues with the following:"
+        - generic [ref=f1e1656]: "يكمل الكاهن قائلاً:"
+      - generic [ref=f1e1657]:
+        - generic [ref=f1e1658]:
+          - generic [ref=f1e1659]: "Priest:"
+          - text: Raise them to their measure according to Your grace. Give joy to the face of the earth. May its furrows be abundantly watered and its fruits be plentiful.
+        - generic [ref=f1e1660]:
+          - generic [ref=f1e1661]: "Ⲡⲓⲟⲩⲏⲃ:"
+          - text: "Ⲁⲛⲓⲧⲟⲩ ⲉ̀ⲡ̀ϣⲱⲓ ⲕⲁⲧⲁ ⲛⲟⲩϣⲓ: ⲕⲁⲧⲁ ⲫⲏⲉ̀ⲧⲉ ⲫⲱⲕ ⲛ̀ϩ̀ⲙⲟⲧ: ⲙⲁ ⲡ̀ⲟⲩⲛⲟϥ ⲙ̀ⲡ̀ϩⲟ ⲙ̀ⲡ̀ⲕⲁϩⲓ: ⲙⲁⲣⲟⲩⲑⲓϧⲓ ⲛ̀ϫⲉ ⲛⲉϥⲑ̀ⲗⲱⲙ: ⲙⲁⲣⲟⲩⲁ̀ϣⲁⲓ ⲛ̀ϫⲉ ⲛⲉϥⲟⲩⲧⲁϩ."
+        - generic [ref=f1e1662]:
+          - generic [ref=f1e1663]: "الكاهنُ:"
+          - text: اصعِدْها كمقدارِها كنعمَتِكَ، فَرِّحْ وجهَ الأرضِ، ليُرْوَ حرثُها ولتكثرَ أثمارُها.
+      - generic [ref=f1e1664]:
+        - generic [ref=f1e1665]: Prepare it for sowing and harvesting. Manage our life as deemed fit.
+        - generic [ref=f1e1666]: "Ⲥⲉⲃⲧⲱⲧϥ ⲉ̀ⲟⲩϫ̀ⲣⲟϫ ⲛⲉⲙ ⲟⲩⲱⲥϧ: ⲟⲩⲟϩ ⲁ̀ⲣⲓⲟⲓⲕⲟⲛⲟⲙⲓⲛ ⲙ̀ⲡⲉⲛϫⲓⲛⲱⲛϧ ⲕⲁⲧⲁ ⲡⲉⲧⲉⲣⲛⲟϥⲣⲓ."
+        - generic [ref=f1e1667]: أعِدَّها للزرعِ والحصادِ، ودبِّر حياتَنا كما يليق.
+      - generic [ref=f1e1668]:
+        - generic [ref=f1e1669]: Bless the crown of the year with Your goodness for the sake of the poor of Your people, the widow, the orphan, the traveler, the stranger, and for the sake of all of us who entreat You and seek Your holy name.
+        - generic [ref=f1e1670]: "Ⲥⲙⲟⲩ ⲉ̀ⲡⲓⲭ̀ⲗⲟⲙ ⲛ̀ⲧⲉ ϯⲣⲟⲙⲡⲓ ϩⲓⲧⲉⲛ ⲧⲉⲕⲙⲉⲧⲭ̀ⲣⲏⲥⲧⲟⲥ: ⲉⲑⲃⲉ ⲛⲓϩⲏⲕⲓ ⲛ̀ⲧⲉ ⲡⲉⲕⲗⲁⲟⲥ: ⲉⲑⲃⲉ ϯⲭⲏⲣⲁ ⲛⲉⲙ ⲡⲓⲟⲣⲫⲁⲛⲟⲥ ⲛⲉⲙ ⲡⲓϣⲉⲙⲙⲟ ⲛⲉⲙ ⲡⲓⲣⲉⲙⲛ̀ϫⲱⲓⲗⲓ: ⲛⲉⲙ ⲉⲑⲃⲏⲧⲉⲛ ⲧⲏⲣⲉⲛ ϧⲁ ⲛⲏⲉⲧⲉⲣϩⲉⲗⲡⲓⲥ ⲉ̀ⲣⲟⲕ: ⲟⲩⲟϩ ⲉⲧⲧⲱⲃϩ ⲙ̀ⲡⲉⲕⲣⲁⲛ ⲉⲑⲟⲩⲁⲃ."
+        - generic [ref=f1e1671]: بَارِكْ إكليلَ السنةِ بصلاحِكَ، من أجلِ فقراءِ شعبِكَ، من أجلِ الأرملةِ واليتيمِ والغريبِ والضيفِ، ومن أجلِنا كُلِّنا نحنُ الذين نرجوكَ ونطلبُ اسمَكَ القدوس.
+      - generic [ref=f1e1672]:
+        - generic [ref=f1e1673]: For the eyes of everyone wait upon You, for You give them their food in due season.
+        - generic [ref=f1e1674]: "Ϫⲉ ⲛⲉⲛⲃⲁⲗ ⲛ̀ⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ ⲥⲉⲉⲣϩⲉⲗⲡⲓⲥ ⲉ̀ⲣⲟⲕ: ϫⲉ ⲛ̀ⲑⲟⲕ ⲉⲧϯ ⲛ̀ⲧⲟⲩϧ̀ⲣⲉ ⲛⲱⲟⲩ ϧⲉⲛ ⲟⲩⲥⲏⲟⲩ ⲉ̀ⲛⲁⲛⲉϥ."
+        - generic [ref=f1e1675]: لأن أعينَ الكلِّ تترجاكَ، لأنَّكَ أنتَ الذي تُعطِيهم طعامَهم في حينٍ حسنٍ.
+      - generic [ref=f1e1676]:
+        - generic [ref=f1e1677]: Deal with us according to Your goodness, O You who give food to all flesh. Fill our hearts with joy and gladness, that we, too, having sufficiency in everything always, may abound in every good deed.
+        - generic [ref=f1e1678]: "Ⲁⲣⲓⲟⲩⲓ̀ ⲛⲉⲙⲁⲛ ⲕⲁⲧⲁ ⲧⲉⲕⲙⲉⲧⲁ̀ⲅⲁⲑⲟⲥ: ⲫⲏⲉⲧϯ ϧ̀ⲣⲉ ⲛ̀ⲥⲁⲣⲝ ⲛⲓⲃⲉⲛ: ⲙⲟϩ ⲛ̀ⲛⲉⲛϩⲏⲧ ⲛ̀ⲣⲁϣⲓ ⲛⲉⲙ ⲟⲩⲟⲩⲛⲟϥ: ϩⲓⲛⲁ ⲁ̀ⲛⲟⲛ ϩⲱⲛ ⲉ̀ⲣⲉ ⲫ̀ⲣⲱϣⲓ ⲛ̀ⲧⲟⲧⲉⲛ ϧⲉⲛ ϩⲱⲃ ⲛⲓⲃⲉⲛ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ: ⲛ̀ⲧⲉⲛⲉⲣϩⲟⲩⲟ̀ ϧⲉⲛ ϩⲱⲃ ⲛⲓⲃⲉⲛ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲛ."
+        - generic [ref=f1e1679]: اصنع معنا حَسَبَ صلاحِكَ، يا مُعطِياً طعاماً لكلِّ جسدٍ. املأ قلوبَنا فرحاً ونعيماً، لكي نحنُ أيضاً إذ تكونَ لنا الكفايةُ في كلِّ شيءٍ، كلَّ حينٍ نزدادَ في كلِّ عملٍ صالحٍ.
+      - generic [ref=f1e1680]:
+        - generic [ref=f1e1681]:
+          - generic [ref=f1e1682]: "People:"
+          - text: Lord have mercy.
+        - generic [ref=f1e1683]:
+          - generic [ref=f1e1684]: "Ⲡⲓⲗⲁⲟⲥ:"
+          - text: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.
+        - generic [ref=f1e1685]:
+          - generic [ref=f1e1686]: "الشعبُ:"
+          - text: يارب إرحم.
+    - table [ref=f1e1689]:
+      - rowgroup [ref=f1e1690]:
+        - row "Combined Litany for the Three Seasons (الثلاث أواشي معاً)" [ref=f1e1691]:
+          - cell [ref=f1e1692]:
+            - img [ref=f1e1693]
+          - cell "Combined Litany for the Three Seasons (الثلاث أواشي معاً)" [ref=f1e1694]:
+            - button "Combined Litany for the Three Seasons (الثلاث أواشي معاً)" [ref=f1e1695]:
+              - text: Combined Litany for the Three Seasons
+              - text: (الثلاث أواشي معاً)
+    - link "Healing to the Sick (شفاءً للمرضى)" [ref=f1e1698] [cursor=pointer]:
+      - /url: liturgies/gregory/Healing to the Sick@true
+      - text: Healing to the Sick
+      - text: (شفاءً للمرضى)
+    - table [ref=f1e1701]:
+      - rowgroup [ref=f1e1702]:
+        - row "Litany of the Oblations (أوشية القرابين)" [ref=f1e1703]:
+          - cell [ref=f1e1704]:
+            - img [ref=f1e1705]
+          - cell "Litany of the Oblations (أوشية القرابين)" [ref=f1e1706]:
+            - button "Litany of the Oblations (أوشية القرابين)" [ref=f1e1707]:
+              - text: Litany of the Oblations
+              - text: (أوشية القرابين)
+    - generic [ref=f1e1708]:
+      - generic [ref=f1e1709]:
+        - generic [ref=f1e1710]: "While pointing to the oblations set before him, the priest says:"
+        - generic [ref=f1e1711]: "يقول الكاهن ويشير إلى القرابين الموضوعة أمامه:"
+      - generic [ref=f1e1712]:
+        - generic [ref=f1e1713]:
+          - generic [ref=f1e1714]: "Priest:"
+          - text: Remember, O Lord, those who have brought to You these gifts, those on whose behalf they have been brought, and those by whom they have been brought. Give them all the heavenly reward.
+        - generic [ref=f1e1715]:
+          - generic [ref=f1e1716]: "Ⲡⲓⲟⲩⲏⲃ:"
+          - text: "Ⲁⲣⲓⲫ̀ⲙⲉⲩⲓ̀ Ⲡϭⲟⲓⲥ ⲛ̀ⲛⲏⲉ̀ⲧⲁⲩⲓ̀ⲛⲓ ⲛⲁⲕ ⲉ̀ϧⲟⲩⲛ ⲛ̀ⲛⲁⲓⲇⲱⲣⲟⲛ: ⲛⲉⲙ ⲛⲏⲉ̀ⲧⲁⲩⲉ̀ⲛⲟⲩ ⲉ̀ϫⲱⲟⲩ: ⲛⲉⲙ ⲛⲏⲉ̀ⲧⲁⲩⲉ̀ⲛⲟⲩ ⲉ̀ⲃⲟⲗ ϩⲓⲧⲟⲧⲟⲩ: ⲙⲟⲓ ⲛⲱⲟⲩ ⲧⲏⲣⲟⲩ ⲙ̀ⲡⲓⲃⲉⲭⲉ ⲡⲓⲉ̀ⲃⲟⲗϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ."
+        - generic [ref=f1e1717]:
+          - generic [ref=f1e1718]: "الكاهنُ:"
+          - text: اذكر ياربُّ الذين قَدَّموا لكَ هذه القرابينَ، والذين قُدِّمَت عنهُم، والذين قُدِّمَت بواسِطَتِهِم، أَعطِهِم كلَّهُم الأجرَ السمائي.
+      - generic [ref=f1e1719]:
+        - generic [ref=f1e1720]:
+          - generic [ref=f1e1721]: "Deacon:"
+          - text: Pray for these holy precious gifts, our sacrifices, and those who bring them.
+        - generic [ref=f1e1722]:
+          - generic [ref=f1e1723]: "Ⲡⲓⲇⲓⲁⲕⲱⲛ:"
+          - text: Ⲡ̀ⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲱⲛ ⲁ̀ⲅⲓⲱⲛ ⲧⲓⲙⲓⲱⲛ ⲇⲱⲣⲟⲛ ⲧⲟⲩⲧⲱⲛ ⲕⲉ ⲑⲩⲥⲓⲱⲛ ⲏ̀ⲙⲱⲛ ⲕⲉ ⲡ̀ⲣⲟⲥⲫⲉⲣⲟⲛⲧⲱⲛ.
+        - generic [ref=f1e1724]:
+          - generic [ref=f1e1725]: "الشماس:"
+          - text: صلوا من أجل هذه القرابين المقدسة الكريمة، وضحايانا، والذين قدموها
+      - generic [ref=f1e1726]:
+        - generic [ref=f1e1727]:
+          - generic [ref=f1e1728]: "People:"
+          - text: Lord have mercy.
+        - generic [ref=f1e1729]:
+          - generic [ref=f1e1730]: "Ⲡⲓⲗⲁⲟⲥ:"
+          - text: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.
+        - generic [ref=f1e1731]:
+          - generic [ref=f1e1732]: "الشعبُ:"
+          - text: يارب إرحم.
+    - generic [ref=f1e1733]:
+      - generic [ref=f1e1734]: Commemoration of the Saints
+      - generic [ref=f1e1735]: مجمع القديسين
+    - generic [ref=f1e1736]:
+      - generic [ref=f1e1737]:
+        - generic [ref=f1e1738]: "Priest:"
+        - text: As this, O Lord, is the command of Your only-begotten Son, that we share in the commemoration of Your saints,
+      - generic [ref=f1e1739]:
+        - generic [ref=f1e1740]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: "Ⲉⲡⲓⲇⲏ Ⲡϭⲟⲓⲥ ⲟⲩⲁϩⲥⲁϩⲛⲓ ⲡⲉ ⲛ̀ⲧⲉ ⲡⲉⲕⲙⲟⲛⲟⲅⲉⲛⲏⲥ ⲛ̀Ϣⲏⲣⲓ: ⲉⲑⲣⲉⲛⲉⲣϣ̀ⲫⲏⲣ ⲉ̀ⲡⲓⲉⲣⲫ̀ⲙⲉⲩⲓ̀ ⲛ̀ⲧⲉ ⲛⲏⲉⲑⲟⲩⲁⲃ ⲛ̀ⲧⲁⲕ."
+      - generic [ref=f1e1741]:
+        - generic [ref=f1e1742]: "الكاهنُ:"
+        - text: لأنَ هذا ياربُّ هو أمرُ ابنِكَ الوحيدِ، أن نَشترِكَ في تذكارِ قديسيكَ.
+    - generic [ref=f1e1743]:
+      - generic [ref=f1e1744]: "graciously accord, O Lord, to remember all the saints who have pleased You since the beginning:"
+      - generic [ref=f1e1745]: Ⲁⲣⲓⲕⲁⲧⲁⲝⲓⲟⲓⲛ Ⲡϭⲟⲓⲥ ⲛ̀ⲧⲉⲕⲉⲣⲫ̀ⲙⲉⲩⲓ̀ ⲛ̀ⲛⲏⲉⲑⲟⲩⲁⲃ ⲧⲏⲣⲟⲩ ⲉ̀ⲧⲁⲩⲣⲁⲛⲁⲕ ⲓⲥϫⲉⲛ ⲡ̀ⲉ̀ⲛⲉϩ.
+      - generic [ref=f1e1746]: "تَفَضَّل ياربُّ، أن تذْكُرَ جميعَ القديسينَ الذين أَرضَوْكَ مُنْذُ البدءِ:"
+    - generic [ref=f1e1747]:
+      - generic [ref=f1e1748]: our holy fathers the patriarchs, the prophets, the apostles, the preachers, the evangelists, the martyrs, the confessors, and all the spirits of the righteous perfected in the faith.
+      - generic [ref=f1e1749]: "Ⲛⲉⲛⲓⲟϯ ⲉⲑⲟⲩⲁⲃ: ⲛⲓⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ ⲛⲓⲡ̀ⲣⲟⲫⲏⲧⲏⲥ ⲛⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ ⲛⲓⲣⲉϥϩⲓⲱⲓϣ ⲛⲓⲉⲩⲁⲅⲅⲉⲗⲓⲥⲧⲏⲥ ⲛⲓⲙⲁⲣⲧⲩⲣⲟⲥ ⲛⲓⲟ̀ⲙⲟⲗⲟⲅⲓⲧⲏⲥ: ⲛⲉⲙ ⲡ̀ⲛⲉⲩⲙⲁ ⲛⲓⲃⲉⲛ ⲛ̀ⲑ̀ⲙⲏⲓ ⲉ̀ⲧⲁⲩϫⲱⲕ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲫ̀ⲛⲁϩϯ."
+      - generic [ref=f1e1750]: آباءَنا الأطهارَ رؤساءَ الآباءِ والأنبياءَ، والرسلَ والمبشرينَ والإنجيليينَ، والشهداءَ والمعترفينَ، وكلَّ أرواحِ الصديقينَ، الذين كَمَلُوا في الإيمانِ.
+    - generic [ref=f1e1751]:
+      - generic [ref=f1e1752]: Most of all, the pure, full-of-glory, ever-virgin, holy Theotokos, Saint Mary, who truly gave birth to God the Logos.
+      - generic [ref=f1e1753]: "Ⲛϩⲟⲩⲟ̀ ⲇⲉ ⲑⲏⲉⲑⲟⲩⲁⲃ ⲑ̀ⲙⲉϩ ⲛ̀ⲱ̀ⲟⲩ ⲉ̀ⲧⲟⲓ ⲙ̀ⲡⲁⲣⲑⲉⲛⲟⲥ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ: ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ ⲉⲑⲟⲩⲁⲃ: ϯⲁ̀ⲅⲓⲁ Ⲙⲁⲣⲓⲁ: ⲑⲏⲉ̀ⲧⲁⲥϫ̀ⲫⲉ Ⲫⲛⲟⲩϯ ⲡⲓⲗⲟⲅⲟⲥ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ."
+      - generic [ref=f1e1754]: وبالأكثرِ القديسةَ المملوءَةَ مجداً، العذراءَ كلَّ حينٍ والدةَ الإلهِ القديسةَ الطاهرةَ مريمَ، التي وَلَدَتْ اللهَ الكلمةَ بالحقيقةِ.
+    - generic [ref=f1e1755]:
+      - generic [ref=f1e1756]: And Saint John the forerunner, baptist, and martyr; Saint Stephen the archdeacon and protomartyr; the beholder-of-God, the Evangelist Mark, the holy apostle and martyr;
+      - generic [ref=f1e1757]: "Ⲛⲉⲙ ⲡⲓⲁ̀ⲅⲓⲟⲥ Ⲓⲱⲁⲛⲛⲏⲥ ⲡⲓⲡ̀ⲣⲟⲇⲣⲟⲙⲟⲥ ⲙ̀ⲃⲁⲡⲧⲓⲥⲧⲏⲥ ⲟⲩⲟϩ ⲙ̀ⲙⲁⲣⲧⲩⲣⲟⲥ: ⲛⲉⲙ ⲡⲓⲁ̀ⲅⲓⲟⲥ Ⲥⲧⲉⲫⲁⲛⲟⲥ ⲡⲓⲁⲣⲭⲓⲇⲓⲁⲕⲟⲛⲟⲥ ⲟⲩⲟϩ ⲙ̀ⲡ̀ⲣⲱⲧⲟⲙⲁⲣⲧⲩⲣⲟⲥ: ⲛⲉⲙ ⲡⲓⲑⲉⲱ̀ⲣⲓⲙⲟⲥ ⲛ̀ⲉⲩⲁⲅⲅⲉⲗⲓⲥⲧⲏⲥ Ⲙⲁⲣⲕⲟⲥ ⲡⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ ⲉⲑⲟⲩⲁⲃ ⲟⲩⲟϩ ⲙ̀ⲙⲁⲣⲧⲩⲣⲟⲥ."
+      - generic [ref=f1e1758]: والقديسَ يوحنا السابقَ الصابغَ والشهيدَ، والقديسَ استفانوس رئيسَ الشمامسةِ وأولَ الشهداءِ، وناظرَ الإلهِ الإنجيلي مرقسَ الرسولَ الطاهرَ والشهيد.
+    - generic [ref=f1e1759]:
+      - generic [ref=f1e1760]: the patriarch Saint Severus; our teacher Dioscorus; Saint Athanasius the Apostolic; Saint Peter, the holy martyr and archpriest;
+      - generic [ref=f1e1761]: "Ⲛⲉⲙ ⲡⲓⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ ⲉⲑⲟⲩⲁⲃ Ⲥⲉⲩⲏⲣⲟⲥ: ⲛⲉⲙ ⲡⲉⲛⲥⲁϧ Ⲇⲓⲟⲥⲕⲟⲣⲟⲥ: ⲛⲉⲙ ⲡⲓⲁ̀ⲅⲓⲟⲥ Ⲁⲑⲁⲛⲁⲥⲓⲟⲥ ⲡⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲓⲕⲟⲥ: ⲛⲉⲙ ⲡⲓⲁ̀ⲅⲓⲟⲥ Ⲡⲉⲧⲣⲟⲥ ⲓⲉⲣⲟⲙⲁⲣⲧⲩⲣⲟⲥ ⲡⲓⲁⲣⲭⲓⲉ̀ⲣⲉⲩⲥ."
+      - generic [ref=f1e1762]: والبطريركَ القديسَ ساويرُس، ومعلِّمَنا ديوسقورُس، والقديسَ أثناسيوس الرسولي، والقديسَ بطرسَ الشهيدَ الطاهرَ ورئيسَ الكهنةِ.
+    - generic [ref=f1e1763]:
+      - generic [ref=f1e1764]: Saint John Chrysostom; Saint Theodosius; Saint Theophilus; Saint Demetrius; Saint Cyril; Saint Basil; Saint Gregory the Theologian; Saint Gregory the Wonderworker; Saint Gregory the Armenian;
+      - generic [ref=f1e1765]: "Ⲛⲉⲙ ⲡⲓⲁ̀ⲅⲓⲟⲥ Ⲓⲱⲁⲛⲛⲏⲥ ⲡⲓⲭ̀ⲣⲩⲥⲟⲥⲧⲟⲙⲟⲥ: ⲛⲉⲙ ⲡⲓⲁ̀ⲅⲓⲟⲥ Ⲑⲉⲟ̀ⲇⲟⲥⲓⲟⲥ: ⲛⲉⲙ ⲡⲓⲁ̀ⲅⲓⲟⲥ Ⲑⲉⲟ̀ⲫⲓⲗⲟⲥ: ⲛⲉⲙ ⲡⲓⲁ̀ⲅⲓⲟⲥ Ⲇⲏⲙⲏⲧⲣⲓⲟⲥ: ⲛⲉⲙ ⲡⲓⲁ̀ⲅⲓⲟⲥ Ⲕⲩⲣⲓⲗⲗⲟⲥ: ⲛⲉⲙ ⲡⲓⲁ̀ⲅⲓⲟⲥ Ⲃⲁⲥⲓⲗⲓⲟⲥ: ⲛⲉⲙ ⲡⲓⲁ̀ⲅⲓⲟⲥ Ⲅⲣⲏⲅⲟⲣⲓⲟⲥ ⲡⲓⲑⲉⲟ̀ⲗⲟⲅⲟⲥ: ⲛⲉⲙ ⲡⲓⲁ̀ⲅⲓⲟⲥ Ⲅⲣⲏⲅⲟⲣⲓⲟⲥ ⲡⲓⲑⲁⲩⲙⲁⲧⲟⲩⲣⲅⲟⲥ: ⲛⲉⲙ ⲡⲓⲁ̀ⲅⲓⲟⲥ Ⲅⲣⲏⲅⲟⲣⲓⲟⲥ ⲡⲓⲁⲣⲙⲉⲛⲓⲟⲥ."
+      - generic [ref=f1e1766]: والقديسَ يوحنا ذهبي الفمِ، والقديسَ ثاودوسيوس، والقديسَ ثاوفيلُس، والقديسَ ديمتريوس، والقديسَ كيرلس، والقديسَ باسيليوس، والقديسَ اغريغوريوسَ الناطقَ بالإلهياتِ، والقديسَ اغريغوريوسَ صانعَ العجائبِ، والقديسَ اغريغوريوسَ الأرمني.
+    - generic [ref=f1e1767]:
+      - generic [ref=f1e1768]: the three hundred and eighteen assembled at Nicea; the one hundred and fifty at Constantinople; and the two hundred at Ephesus;
+      - generic [ref=f1e1769]: "Ⲛⲉⲙ ⲡⲓⲧ︦ⲓ︦ⲏ︦ (ⲡⲓϣⲟⲙⲧ ϣⲉ ⲙⲏⲧϣ̀ⲙⲏⲛ) ⲉ̀ⲧⲁⲩⲑⲱⲟⲩϯ ϧⲉⲛ Ⲛⲓⲕⲉⲁ̀: ⲛⲉⲙ ⲡⲓⲣ︦ⲛ︦ (ⲡⲓϣⲉ ⲧⲉⲃⲓ) ⲛ̀ⲧⲉ Ⲕⲱⲥⲧⲁⲛⲧⲓⲛⲟⲩⲡⲟⲗⲓⲥ: ⲛⲉⲙ ⲡⲓⲥ︦ (ⲡⲓⲥ̀ⲛⲁⲩ ϣⲉ) ⲛ̀ⲧⲉ Ⲉⲫⲉⲥⲟⲥ."
+      - generic [ref=f1e1770]: والثلاثَمائةَ والثمانيةَ عشرَ المجتمعينَ بنيقية، والمئةَ والخمسين بمدينةِ القسطنطينية، والمِئَتَيْن بأفسس.
+    - generic [ref=f1e1771]:
+      - generic [ref=f1e1772]: our righteous father, the great Abba Anthony; the righteous Abba Paul; the three saints Abba Macarii and all their children, the cross-bearers;
+      - generic [ref=f1e1773]: "Ⲛⲉⲙ ⲡⲉⲛⲓⲱⲧ ⲛ̀ⲇⲓⲕⲉⲟⲥ ⲡⲓⲛⲓϣϯ ⲁⲃⲃⲁ Ⲁⲛⲧⲱⲛⲓⲟⲥ: ⲛⲉⲙ ⲡⲓⲑ̀ⲙⲏⲓ ⲁⲃⲃⲁ Ⲡⲁⲩⲗⲉ: ⲛⲉⲙ ⲡⲓϣⲟⲙⲧ ⲉⲑⲟⲩⲁⲃ ⲁⲃⲃⲁ Ⲙⲁⲕⲁⲣⲓ: ⲛⲉⲙ ⲛⲟⲩϣⲏⲣⲓ ⲧⲏⲣⲟⲩ ⲛ̀ⲥ̀ⲧⲁⲩⲣⲟⲫⲟⲣⲟⲥ."
+      - generic [ref=f1e1774]: وأبانا الصديقَ العظيمَ أنبا أنطونيوس، والبارَّ أنبا بولا، والثلاثةَ أنبا مقارات القديسينَ، وجميعَ أولادِهم لُبَّاسَ الصليبِ.
+    - generic [ref=f1e1775]:
+      - generic [ref=f1e1776]: our father Abba John the hegumen; our righteous father Abba Pishoy, the perfect man, the beloved of our good Savior.
+      - generic [ref=f1e1777]: "Ⲛⲉⲙ ⲡⲉⲛⲓⲱⲧ ⲁⲃⲃⲁ Ⲓⲱⲁⲛⲛⲏⲥ ⲡⲓϩⲏⲅⲟⲩⲙⲉⲛⲟⲥ: ⲛⲉⲙ ⲡⲉⲛⲓⲱⲧ ⲁⲃⲃⲁ Ⲡⲓϣⲱⲓ ⲡⲓⲑ̀ⲙⲏⲓ ⲡⲓⲣⲱⲙⲓ ⲛ̀ⲧⲉⲗⲓⲟⲥ: ⲡⲓⲙⲉⲛⲣⲓⲧ ⲛ̀ⲧⲉ ⲡⲉⲛⲥⲱⲧⲏⲣ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ."
+      - generic [ref=f1e1778]: وأبانا أنبا يوأنس القمصَ، وأبانا أنبا بيشوي البار الرجلَ الكامِلَ، حبيبَ مخلِّصِنا الصالحِ.
+    - generic [ref=f1e1779]:
+      - generic [ref=f1e1780]: If the priest chooses, he may add the following.
+      - generic [ref=f1e1781]: "وإذا أراد فيزيد أيضاً ما يأتي:"
+    - generic [ref=f1e1782]:
+      - generic [ref=f1e1783]: Our father Abba Paul of Tammoh and Ezekiel his disciple; my lords, the Roman fathers Saints Maximus and Dometius; the forty-nine martyrs, the elders of Shiheet; the strong saint Abba Moses; John Kame the priest;
+      - generic [ref=f1e1784]: "Ⲛⲉⲙ ⲡⲉⲛⲓⲱⲧ ⲁⲃⲃⲁ Ⲡⲁⲩⲗⲉ ⲡⲓⲣⲉⲙⲧⲁⲙⲙⲟϩ: ⲛⲉⲙ Ⲓⲉⲍⲉⲕⲓⲏⲗ ⲡⲉϥⲙⲁⲑⲏⲧⲏⲥ: ⲛⲉⲙ ⲛⲁϭⲟⲓⲥ ⲛ̀ⲓⲟϯ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲣⲱⲙⲉⲟⲥ Ⲙⲁⲝⲓⲙⲟⲥ ⲛⲉⲙ Ⲇⲟⲙⲉⲧⲓⲟⲥ: ⲛⲉⲙ ⲡⲓⲙ︦ⲑ︦ (ⲡⲓϩ̀ⲙⲉ ⲯ̀ⲓⲧ) ⲙ̀ⲙⲁⲣⲧⲩⲣⲟⲥ ⲛⲓϧⲉⲗⲗⲟⲓ ⲛ̀ⲧⲉ Ϣⲓϩⲏⲧ: ⲛⲉⲙ ⲡⲓϫⲱⲣⲓ ⲉⲑⲟⲩⲁⲃ ⲁⲃⲃⲁ Ⲙⲱⲥⲏ: ⲛⲉⲙ Ⲓⲱⲁⲛⲛⲏⲥ Ⲭⲁⲙⲏ ⲡⲓⲡ̀ⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ."
+      - generic [ref=f1e1785]: وأبانا أنبا بولا الطموهي، وحزقيال تلميذه، وسيدَيَّ الأبَويْن القديسَيْن الرومِيَّيْن مكسيموس ودوماديوس، والتسعةَ والأربعينَ شهيداً شيوخَ شيهات، والقويَّ القديسَ أنبا موسى، ويُحَنَّس كاما القس.
+    - generic [ref=f1e1786]:
+      - generic [ref=f1e1787]: our father Abba Daniel the hegumen; our father Abba Isidore the priest; our father Abba Pachom of the Koinonia, and Theodore his disciple; our father Abba Shenoute the archmandrite, and Abba Besa his disciple;
+      - generic [ref=f1e1788]: "Ⲛⲉⲙ ⲡⲉⲛⲓⲱⲧ ⲁⲃⲃⲁ Ⲇⲁⲛⲓⲏⲗ ⲡⲓϩⲏⲅⲟⲩⲙⲉⲛⲟⲥ: ⲛⲉⲙ ⲡⲉⲛⲓⲱⲧ ⲁⲃⲃⲁ Ⲓⲥⲓⲇⲱⲣⲟⲥ ⲡⲓⲡ̀ⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ: ⲛⲉⲙ ⲡⲉⲛⲓⲱⲧ ⲁⲃⲃⲁ Ⲡⲁϧⲱⲙ ⲫⲁ ϯⲕⲟⲓⲛⲱⲛⲓⲁ: ⲛⲉⲙ Ⲑⲉⲟ̀ⲇⲱⲣⲟⲥ ⲡⲉϥⲙⲁⲑⲏⲧⲏⲥ: ⲛⲉⲙ ⲡⲉⲛⲓⲱⲧ ⲁⲃⲃⲁ Ϣⲉⲛⲟⲩϯ ⲡⲓⲁⲣⲭⲓⲙⲁⲛⲇ̀ⲣⲓⲧⲏⲥ: ⲛⲉⲙ ⲁⲃⲃⲁ Ⲃⲏⲥⲁ ⲡⲉϥⲙⲁⲑⲏⲧⲏⲥ."
+      - generic [ref=f1e1789]: وأبانا أنبا دانيالَ القمصَ، وأبانا أنبا إيسيذوروسَ القس، وأبانا أنبا باخوم صاحبَ الشركَةِ، وتادرسَ تلميذَهُ، وأبانا أنبا شنوده رئيسَ المتوحدين، وأنبا ويصا تلميذَهُ.
+    - generic [ref=f1e1790]:
+      - generic [ref=f1e1791]: and all the choir of Your saints, through whose prayers and supplications have mercy on us all and save us, for the sake of Your holy name, which is called upon us.
+      - generic [ref=f1e1792]: "Ⲛⲉⲙ ⲡ̀ⲭⲟⲣⲟⲥ ⲧⲏⲣϥ ⲛ̀ⲧⲉ ⲛⲏⲉⲑⲟⲩⲁⲃ ⲛ̀ⲧⲁⲕ: ⲛⲁⲓ ⲉ̀ⲧⲉ ⲉ̀ⲃⲟⲗϩⲓⲧⲉⲛ ⲛⲟⲩϯϩⲟ ⲛⲉⲙ ⲛⲟⲩⲧⲱⲃϩ ⲛⲁⲓ ⲛⲁⲛ ⲧⲏⲣⲟⲩ ⲉⲩⲥⲟⲡ: ⲟⲩⲟϩ ⲙⲁⲧⲟⲩϫⲟⲛ ⲉⲑⲃⲉ ⲡⲉⲕⲣⲁⲛ ⲉⲑⲟⲩⲁⲃ ⲉ̀ⲧⲁⲩⲙⲟⲩϯ ⲙ̀ⲙⲟϥ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ."
+      - generic [ref=f1e1793]: وكلَّ مصافِ قديسيكَ، هؤلاءِ الذين بسؤالاتِهم وطلباتِهم، ارحَمْنا كلَّنا معاً. وأَنقِذْنا من أجلِ اسمِكَ القدوسِ الذي دُعِيَ علينا.
+    - generic [ref=f1e1794]:
+      - generic [ref=f1e1795]:
+        - generic [ref=f1e1796]: "Deacon:"
+        - text: Let those who read, recite the names of our holy fathers, the patriarchs who have fallen asleep. O Lord, repose their souls, and forgive us our sins.
+      - generic [ref=f1e1797]:
+        - generic [ref=f1e1798]: "Ⲡⲓⲇⲓⲁⲕⲱⲛ:"
+        - text: "Ⲛⲏⲉⲧⲱϣ ⲙⲁⲣⲟⲩⲧⲁⲟⲩⲟ̀ ⲛ̀ⲛⲓⲣⲁⲛ ⲛ̀ⲧⲉ ⲛⲉⲛⲓⲟϯ ⲉⲑⲟⲩⲁⲃ ⲙ̀ⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ ⲉ̀ⲧⲁⲩⲉⲛⲕⲟⲧ: Ⲡϭⲟⲓⲥ ⲙⲁⲙ̀ⲧⲟⲛ ⲛ̀ⲛⲟⲩⲯⲩⲭⲏ ⲧⲏⲣⲟⲩ ⲟⲩⲟϩ ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ."
+      - generic [ref=f1e1799]:
+        - generic [ref=f1e1800]: "الشماس:"
+        - text: القارئون فليقولوا أسماء آبائنا البطاركة القديسين الذين رقدوا الرب ينيح نفوسهم أجمعين، ويغفر لنا خطايانا
+    - table [ref=f1e1803]:
+      - rowgroup [ref=f1e1804]:
+        - row "Remember also, O Lord... (Ⲁⲣⲓⲫ̀ⲙⲉⲩⲓ̀ ⲇⲉ ⲟⲛ Ⲡϭⲟⲓⲥ...)" [ref=f1e1805]:
+          - cell [ref=f1e1806]:
+            - img [ref=f1e1807]
+          - cell "Remember also, O Lord... (Ⲁⲣⲓⲫ̀ⲙⲉⲩⲓ̀ ⲇⲉ ⲟⲛ Ⲡϭⲟⲓⲥ...)" [ref=f1e1808]:
+            - button "Remember also, O Lord... (Ⲁⲣⲓⲫ̀ⲙⲉⲩⲓ̀ ⲇⲉ ⲟⲛ Ⲡϭⲟⲓⲥ...)" [ref=f1e1809]:
+              - text: Remember also, O Lord...
+              - text: (Ⲁⲣⲓⲫ̀ⲙⲉⲩⲓ̀ ⲇⲉ ⲟⲛ Ⲡϭⲟⲓⲥ...)
+    - table [ref=f1e1812]:
+      - rowgroup [ref=f1e1813]:
+        - row "Those, O Lord... (Ⲟⲩⲟϩ ⲛⲁⲓ ⲛⲉⲙ...)" [ref=f1e1814]:
+          - cell [ref=f1e1815]:
+            - img [ref=f1e1816]
+          - cell "Those, O Lord... (Ⲟⲩⲟϩ ⲛⲁⲓ ⲛⲉⲙ...)" [ref=f1e1817]:
+            - button "Those, O Lord... (Ⲟⲩⲟϩ ⲛⲁⲓ ⲛⲉⲙ...)" [ref=f1e1818]:
+              - text: Those, O Lord...
+              - text: (Ⲟⲩⲟϩ ⲛⲁⲓ ⲛⲉⲙ...)
+    - table [ref=f1e1821]:
+      - rowgroup [ref=f1e1822]:
+        - row "Litany of the Departed Patriarch / Metropolitan / Bishop (أوشية الآباء)" [ref=f1e1823]:
+          - cell [ref=f1e1824]:
+            - img [ref=f1e1825]
+          - cell "Litany of the Departed Patriarch / Metropolitan / Bishop (أوشية الآباء)" [ref=f1e1826]:
+            - button "Litany of the Departed Patriarch / Metropolitan / Bishop (أوشية الآباء)" [ref=f1e1827]:
+              - text: Litany of the Departed Patriarch / Metropolitan / Bishop
+              - text: (أوشية الآباء)
+    - generic [ref=f1e1828]:
+      - generic [ref=f1e1829]: The priest says the blessing according to the season, as in the conclusion of the morning and evening Offering of Incense.
+      - generic [ref=f1e1830]: يقول الكاهن البركة (حسب ترتيبها كل أوان بأوانه، حسبما وردت في ختام بخور عشية وباكر، ).
+    - table [ref=f1e1833]:
+      - rowgroup [ref=f1e1834]:
+        - row "The Short Blessing (البركة القصيرة)" [ref=f1e1835]:
+          - cell [ref=f1e1836]:
+            - img [ref=f1e1837]
+          - cell "The Short Blessing (البركة القصيرة)" [ref=f1e1838]:
+            - button "The Short Blessing (البركة القصيرة)" [ref=f1e1839]:
+              - text: The Short Blessing
+              - text: (البركة القصيرة)
+    - table [ref=f1e1842]:
+      - rowgroup [ref=f1e1843]:
+        - row "Through the Prayers (Ⲉⲩⲭⲉⲥ)" [ref=f1e1844]:
+          - cell [ref=f1e1845]:
+            - img [ref=f1e1846]
+          - cell "Through the Prayers (Ⲉⲩⲭⲉⲥ)" [ref=f1e1847]:
+            - button "Through the Prayers (Ⲉⲩⲭⲉⲥ)" [ref=f1e1848]:
+              - text: Through the Prayers
+              - text: (Ⲉⲩⲭⲉⲥ)
+    - table [ref=f1e1851]:
+      - rowgroup [ref=f1e1852]:
+        - row "Departed Patriarchs (البطاركة المنتقلون)" [ref=f1e1853]:
+          - cell [ref=f1e1854]:
+            - img [ref=f1e1855]
+          - cell "Departed Patriarchs (البطاركة المنتقلون)" [ref=f1e1856]:
+            - button "Departed Patriarchs (البطاركة المنتقلون)" [ref=f1e1857]:
+              - text: Departed Patriarchs
+              - text: (البطاركة المنتقلون)
+    - table [ref=f1e1860]:
+      - rowgroup [ref=f1e1861]:
+        - row "The Great Abba Antony (Ⲡⲓⲛⲓϣϯ)" [ref=f1e1862]:
+          - cell [ref=f1e1863]:
+            - img [ref=f1e1864]
+          - cell "The Great Abba Antony (Ⲡⲓⲛⲓϣϯ)" [ref=f1e1865]:
+            - button "The Great Abba Antony (Ⲡⲓⲛⲓϣϯ)" [ref=f1e1866]:
+              - text: The Great Abba Antony
+              - text: (Ⲡⲓⲛⲓϣϯ)
+    - table [ref=f1e1869]:
+      - rowgroup [ref=f1e1870]:
+        - row "The Great Abba Antony (Great Hymn) (Ⲡⲓⲛⲓϣϯ)" [ref=f1e1871]:
+          - cell [ref=f1e1872]:
+            - img [ref=f1e1873]
+          - cell "The Great Abba Antony (Great Hymn) (Ⲡⲓⲛⲓϣϯ)" [ref=f1e1874]:
+            - button "The Great Abba Antony (Great Hymn) (Ⲡⲓⲛⲓϣϯ)" [ref=f1e1875]:
+              - text: The Great Abba Antony (Great Hymn)
+              - text: (Ⲡⲓⲛⲓϣϯ)
+    - generic [ref=f1e1876]:
+      - generic [ref=f1e1877]:
+        - generic [ref=f1e1878]: "People:"
+        - text: May their holy blessing be with us. Amen.
+      - generic [ref=f1e1879]:
+        - generic [ref=f1e1880]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: "Ⲉⲣⲉ ⲡⲟⲩⲥ̀ⲙⲟⲩ ⲉⲑⲟⲩⲁⲃ ϣⲱⲡⲓ ⲛⲉⲙⲁⲛ: ⲁ̀ⲙⲏⲛ."
+      - generic [ref=f1e1881]:
+        - generic [ref=f1e1882]: "الشعبُ:"
+        - text: برَكَتُهُم المقدسةُ تكونُ مَعَنا. آمين.
+    - generic [ref=f1e1883]:
+      - generic [ref=f1e1884]: Glory to You, O Lord. Lord have mercy. Lord have mercy. Lord, bless us. Lord, repose them. Amen.
+      - generic [ref=f1e1885]: "Ⲇⲟⲝⲁ ⲥⲓ Ⲕⲩⲣⲓⲉ: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ ⲉⲩⲗⲟⲅⲏⲥⲟⲛ Ⲕⲩⲣⲓⲉ ⲁ̀ⲛⲁⲡⲁⲩⲥⲟⲛ: ⲁ̀ⲙⲏⲛ."
+      - generic [ref=f1e1886]: المجدُ لكَ ياربُّ، [ياربُّ لكَ المجدُ.] ياربُّ ارحَم. ياربُّ ارحَم. ياربُّ بارِكنا. ياربُّ نَيِّحْهُم. آمين.
+    - generic [ref=f1e1887]:
+      - generic [ref=f1e1888]: After the commemoration of the departed, the priest, with his hands extended on high, continues.
+      - generic [ref=f1e1889]: ثم يقول الكاهن هذا ويداه مبسوطتان إلى العلو بعد الترحيم.
+    - generic [ref=f1e1890]:
+      - generic [ref=f1e1891]:
+        - generic [ref=f1e1892]: "Priest:"
+        - text: Those, O Lord, whose souls You have taken, repose them in the Paradise of joy, in the region of the living for ever, in the heavenly Jerusalem—in that place.
+      - generic [ref=f1e1893]:
+        - generic [ref=f1e1894]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: "Ⲛⲏ ⲙⲉⲛ Ⲡϭⲟⲓⲥ ⲉ̀ⲁⲕϭⲓ ⲛ̀ⲛⲟⲩⲯⲩⲭⲏ: ⲙⲁⲙ̀ⲧⲟⲛ ⲛⲱⲟⲩ: ϧⲉⲛ ⲡⲓⲡⲁⲣⲁⲇⲓⲥⲟⲥ ⲛ̀ⲧⲉ ⲡ̀ⲟⲩⲛⲟϥ: ϧⲉⲛ ⲧ̀ⲭⲱⲣⲁ ⲛ̀ⲧⲉ ⲛⲏⲉⲧⲟⲛϧ ϣⲁ ⲉ̀ⲛⲉϩ: ϧⲉⲛ Ⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ ⲛ̀ⲧⲉ ⲧ̀ⲫⲉ: ϧⲉⲛ ⲡⲓⲙⲁ ⲉ̀ⲧⲉ ⲙ̀ⲙⲁⲩ."
+      - generic [ref=f1e1895]:
+        - generic [ref=f1e1896]: "الكاهنُ:"
+        - text: أولئكَ ياربُّ، الذين أخَذَتَ نفوسَهُم، نيحْهُم في فردوسِ النعيمِ، في كورةِ الأحياءِ إلى الأبدِ، في أورشليم السمائيةِ، في ذلكَ الموضعِ.
+    - generic [ref=f1e1897]:
+      - generic [ref=f1e1898]: And we, too, who are sojourners in this place, keep us in Your faith, and grant us Your peace unto the end.
+      - generic [ref=f1e1899]: "Ⲁⲛⲟⲛ ⲇⲉ ϩⲱⲛ ϧⲁ ⲛⲏⲉⲧⲟⲓ ⲛ̀ⲣⲉⲙⲛ̀ϫⲱⲓⲗⲓ ⲙ̀ⲡⲁⲓⲙⲁ: ⲁ̀ⲣⲉϩ ⲉ̀ⲣⲟⲛ ϧⲉⲛ ⲡⲉⲕⲛⲁϩϯ: ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲛ̀ⲧⲉⲕϩⲓⲣⲏⲛⲏ ϣⲁ ⲉ̀ⲃⲟⲗ."
+      - generic [ref=f1e1900]: ونحنُ أيضاً الغرباءَ في هذا المكانِ، احفظْنا في إيمانِكَ، وانعِمْ لنا بسلامِكَ إلى التمامِ.
+    - generic [ref=f1e1901]:
+      - generic [ref=f1e1902]:
+        - generic [ref=f1e1903]: "People:"
+        - text: As it was, and shall be, it is from generation to generation, and unto all the ages of the ages. Amen.
+      - generic [ref=f1e1904]:
+        - generic [ref=f1e1905]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: "Ⲱⲥⲡⲉⲣⲏⲛ ⲕⲉ ⲉⲥⲧⲉ ⲉⲥⲧⲓⲛ ⲁ̀ⲡⲟ ⲅⲉⲛⲉⲁⲥ ⲓⲥ ⲅⲉⲛⲉⲁⲛ ⲕⲉ ⲡⲁⲛⲧⲁⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ."
+      - generic [ref=f1e1906]:
+        - generic [ref=f1e1907]: "الشعبُ:"
+        - text: كما كان وهكذا يكون من جيلٍ إلى جيل، وإلى دهر الدهور .آمين
+    - table [ref=f1e1910]:
+      - rowgroup [ref=f1e1911]:
+        - row "As It Was And Is (Ⲱⲥⲡⲉⲣ ⲏⲛ ⲕⲉ ⲉⲥⲧⲓⲛ)" [ref=f1e1912]:
+          - cell [ref=f1e1913]:
+            - img [ref=f1e1914]
+          - cell "As It Was And Is (Ⲱⲥⲡⲉⲣ ⲏⲛ ⲕⲉ ⲉⲥⲧⲓⲛ)" [ref=f1e1915]:
+            - button "As It Was And Is (Ⲱⲥⲡⲉⲣ ⲏⲛ ⲕⲉ ⲉⲥⲧⲓⲛ)" [ref=f1e1916]:
+              - text: As It Was And Is
+              - text: (Ⲱⲥⲡⲉⲣ ⲏⲛ ⲕⲉ ⲉⲥⲧⲓⲛ)
+    - generic [ref=f1e1917]:
+      - generic [ref=f1e1918]:
+        - generic [ref=f1e1919]: "Priest:"
+        - text: Lead us throughout the way into Your kingdom, that as in this, so also in all things, Your great and holy name may be glorified, blessed, and exalted in everything honored and blessed, with Jesus Christ, Your beloved Son, and the Holy Spirit.
+      - generic [ref=f1e1920]:
+        - generic [ref=f1e1921]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: "Ϭⲓⲙⲱⲓⲧ ϧⲁϫⲱⲛ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ. Ϩⲓⲛⲁ ⲛⲉⲙ ϧⲉⲛ ⲫⲁⲓ ⲕⲁⲧⲁ ⲫ̀ⲣⲏϯ ⲟⲛ ϧⲉⲛ ϩⲱⲃ ⲛⲓⲃⲉⲛ ⲛ̀ⲧⲉϥϭⲓⲱ̀ⲟⲩ ⲟⲩⲟϩ ⲛ̀ⲧⲉϥϭⲓⲥ̀ⲙⲟⲩ ⲟⲩⲟϩ ⲛ̀ⲧⲉϥϭⲓⲥⲓ: ⲛ̀ϫⲉ ⲡⲉⲕⲛⲓϣϯ ⲛ̀ⲣⲁⲛ ⲉⲑⲟⲩⲁⲃ: ϧⲉⲛ ϩⲱⲃ ⲛⲓⲃⲉⲛ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ ⲟⲩⲟϩ ⲉⲧⲥ̀ⲙⲁⲣⲱⲟⲩⲧ: ⲛⲉⲙ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ ⲡⲉⲕⲙⲉⲛⲣⲓⲧ ⲛ̀Ϣⲏⲣⲓ: ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ."
+      - generic [ref=f1e1922]:
+        - generic [ref=f1e1923]: "الكاهنُ:"
+        - text: واهدنا إلى ملكوتِك لكي وبهذا، كما أيضاً في كلِّ شيءٍ، يتَمَجَّدَ ويتبارَكَ، ويَرتفِعَ اسمُكَ العظيمُ القدوسُ في كلِّ شيءٍ كريمٍ ومباركٍ، مع يسوعَ المسيحِ ابنِكَ الحبيبِ والروحِ القدسِ.
+    - generic [ref=f1e1924]:
+      - generic [ref=f1e1925]: "The priest bows his head toward the priests and deacons, and without signing them with the sign of the cross, says:"
+      - generic [ref=f1e1926]: "يخضع الكاهن يرأسه نحو الكهنة والشمامسة (بلا رشم) ويقول:"
+    - generic [ref=f1e1927]:
+      - generic [ref=f1e1928]: Peace be with all.
+      - generic [ref=f1e1929]: Ⲓⲣⲏⲛⲏ ⲡⲁⲥⲓ.
+      - generic [ref=f1e1930]: السلام للكل
+    - generic [ref=f1e1931]:
+      - generic [ref=f1e1932]:
+        - generic [ref=f1e1933]: "People:"
+        - text: And with your spirit.
+      - generic [ref=f1e1934]:
+        - generic [ref=f1e1935]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ ⲥⲟⲩ.
+      - generic [ref=f1e1936]:
+        - generic [ref=f1e1937]: "الشعبُ:"
+        - text: ولروحك أيضاً.
+    - table [ref=f1e1940]:
+      - rowgroup [ref=f1e1941]:
+        - row "Introduction to the Fraction (مقدمة القسمة)" [ref=f1e1942]:
+          - cell [ref=f1e1943]:
+            - img [ref=f1e1944]
+          - cell "Introduction to the Fraction (مقدمة القسمة)" [ref=f1e1945]:
+            - button "Introduction to the Fraction (مقدمة القسمة)" [ref=f1e1946]:
+              - text: Introduction to the Fraction
+              - text: (مقدمة القسمة)
+    - generic [ref=f1e1947]:
+      - generic [ref=f1e1948]:
+        - generic [ref=f1e1949]:
+          - generic [ref=f1e1950]: "Priest:"
+          - text: Again, let us give thanks to God the Pantocrator, the Father of our Lord, God, and Savior Jesus Christ,
+        - generic [ref=f1e1951]:
+          - generic [ref=f1e1952]: "Ⲡⲓⲟⲩⲏⲃ:"
+          - text: "Ⲡⲁⲗⲓⲛ ⲟⲛ ⲙⲁⲣⲉⲛϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧϥ ⲙ̀Ⲫⲛⲟⲩϯ ⲡⲓⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ: Ⲫⲓⲱⲧ ⲙ̀Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ Ⲡⲉⲛⲛⲟⲩϯ ⲟⲩⲟϩ ⲡⲉⲛⲥⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ."
+        - generic [ref=f1e1953]:
+          - generic [ref=f1e1954]: "الكاهنُ:"
+          - text: وأيضاً فلنشكرْ اللهَ ضابطَ الكلِّ، أبا ربِّنا وإلهِنا ومخلِّصِنا يسوعَ المسيحِ.
+      - generic [ref=f1e1955]:
+        - generic [ref=f1e1956]: for He also has made us worthy now to stand in this holy place, to lift up our hands, and to serve His holy name.
+        - generic [ref=f1e1957]: "Ϫⲉ ⲁϥⲑ̀ⲣⲉⲛⲉⲣⲡ̀ⲉⲙⲡ̀ϣⲁ ⲟⲛ ϯⲛⲟⲩ ⲉ̀ⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧⲉⲛ ϧⲉⲛ ⲡⲁⲓⲙⲁ ⲉⲑⲟⲩⲁⲃ ⲫⲁⲓ: ⲟⲩⲟϩ ⲉ̀ϥⲁⲓ ⲛ̀ⲛⲉⲛϫⲓϫ ⲉ̀ⲡ̀ϣⲱⲓ: ⲟⲩⲟϩ ⲉ̀ϣⲉⲙϣⲓ ⲙ̀ⲡⲉϥⲣⲁⲛ ⲉⲑⲟⲩⲁⲃ."
+        - generic [ref=f1e1958]: لأنه جَعَلَنا أهلاً الآنَ أن نقِفَ في هذا الموضعِ المقدَّسِ، ونرفعَ أيدينا إلى فوقُ، ونخدمَ اسمَه القدوسَ.
+      - generic [ref=f1e1959]:
+        - generic [ref=f1e1960]: Let us also ask Him to make us worthy of the communion and partaking of His divine and immortal Mysteries.
+        - generic [ref=f1e1961]: Ⲛⲑⲟϥ ⲟⲛ ⲙⲁⲣⲉⲛϯϩⲟ ⲉ̀ⲣⲟϥ ϩⲟⲡⲱⲥ ⲛ̀ⲧⲉϥⲁⲓⲧⲉⲛ ⲛ̀ⲉⲙⲡ̀ϣⲁ ⲛ̀ϯⲙⲉⲧϣ̀ⲫⲏⲣ ⲛⲉⲙ ϯⲙⲉⲧⲁ̀ⲗⲏⲙⲯⲓⲥ ⲛ̀ⲧⲉ ⲛⲉϥⲙⲩⲥⲧⲏⲣⲓⲟⲛ ⲛ̀ⲛⲟⲩϯ ⲟⲩⲟϩ ⲛ̀ⲁⲑⲙⲟⲩ.
+        - generic [ref=f1e1962]: هو أيضاً فلنسأَلْهُ أن يجعَلَنا مستحِقين لشركةِ وتناولِ أسرارِهِ الإلهيةِ غيرِ المائتةِ.
+      - generic [ref=f1e1963]:
+        - generic [ref=f1e1964]:
+          - generic [ref=f1e1965]: "People:"
+          - text: Amen.
+        - generic [ref=f1e1966]:
+          - generic [ref=f1e1967]: "Ⲡⲓⲗⲁⲟⲥ:"
+          - text: Ⲁⲙⲏⲛ.
+        - generic [ref=f1e1968]:
+          - generic [ref=f1e1969]: "الشعبُ:"
+          - text: آمين
+      - generic [ref=f1e1970]:
+        - generic [ref=f1e1971]: The priest takes the pure Body with his right hand and places It in his left hand, and places the index finger of his right hand upon the Despotikon.
+        - generic [ref=f1e1972]: يأخذ الكاهن الجسد الطاهر بيده اليمنى ويضعه على اليسرى. ويضع إصبعه السبابة اليمنى على الأسباديقون.
+      - generic [ref=f1e1973]:
+        - generic [ref=f1e1974]:
+          - generic [ref=f1e1975]: "Priest:"
+          - text: The Holy Body…
+        - generic [ref=f1e1976]:
+          - generic [ref=f1e1977]: "Ⲡⲓⲟⲩⲏⲃ:"
+          - text: Ⲡⲓⲥⲱⲙⲁ ⲉⲑⲟⲩⲁⲃ...
+        - generic [ref=f1e1978]:
+          - generic [ref=f1e1979]: "الكاهنُ:"
+          - text: الجسد المقدس
+      - generic [ref=f1e1980]:
+        - generic [ref=f1e1981]:
+          - generic [ref=f1e1982]: "People:"
+          - text: We worship Your Holy Body…
+        - generic [ref=f1e1983]:
+          - generic [ref=f1e1984]: "Ⲡⲓⲗⲁⲟⲥ:"
+          - text: Ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲡⲉⲕⲥⲱⲙⲁ ⲉⲑⲟⲩⲁⲃ...
+        - generic [ref=f1e1985]:
+          - generic [ref=f1e1986]: "الشعبُ:"
+          - text: نسجد لجسدك المقدس
+      - generic [ref=f1e1987]:
+        - generic [ref=f1e1988]: "The priest dips his index finger into the precious Blood and then raises his finger a little from the Blood and makes one sign of the cross with it above the Blood within the chalice, while saying:"
+        - generic [ref=f1e1989]: "ثم يغمس إصبعه السبابة في الدم الكريم، ويرفعها قليلاً من الدم، ويرشم بها رشماً واحداً على الدم داخل الكأس، وهو يقول:"
+      - generic [ref=f1e1990]:
+        - generic [ref=f1e1991]:
+          - generic [ref=f1e1992]: "Priest:"
+          - text: …and the precious Blood
+        - generic [ref=f1e1993]:
+          - generic [ref=f1e1994]: "Ⲡⲓⲟⲩⲏⲃ:"
+          - text: ...ⲛⲉⲙ ⲡⲓⲥ̀ⲛⲟϥ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ.
+        - generic [ref=f1e1995]:
+          - generic [ref=f1e1996]: "الكاهنُ:"
+          - text: والدم الكريم
+      - generic [ref=f1e1997]:
+        - generic [ref=f1e1998]:
+          - generic [ref=f1e1999]: "People:"
+          - text: …and Your precious Blood.
+        - generic [ref=f1e2000]:
+          - generic [ref=f1e2001]: "Ⲡⲓⲗⲁⲟⲥ:"
+          - text: ...ⲛⲉⲙ ⲡⲉⲕⲥ̀ⲛⲟϥ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ.
+        - generic [ref=f1e2002]:
+          - generic [ref=f1e2003]: "الشعبُ:"
+          - text: ولدمك الكريم
+      - generic [ref=f1e2004]:
+        - generic [ref=f1e2005]: "The priest signs the pure Body with the Blood which is on his finger, once on the front and once on the back of It, and says:"
+        - generic [ref=f1e2006]: "ثم يرشم الجسد بالدم الذي على إصبعه رشماً فوق، ورشماً أسفل أي على ظهره، ويقول:"
+      - generic [ref=f1e2007]:
+        - generic [ref=f1e2008]:
+          - generic [ref=f1e2009]: "Priest:"
+          - text: of His Christ, the Pantocrator, the Lord our God.
+        - generic [ref=f1e2010]:
+          - generic [ref=f1e2011]: "Ⲡⲓⲟⲩⲏⲃ:"
+          - text: "Ⲛ̀ⲧⲉ Ⲡⲉϥⲭ̀ⲣⲓⲥⲧⲟⲥ: ⲛ̀ϫⲉ ⲡⲓⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ Ⲡϭⲟⲓⲥ Ⲡⲉⲛⲛⲟⲩϯ."
+        - generic [ref=f1e2012]:
+          - generic [ref=f1e2013]: "الكاهنُ:"
+          - text: اللذان لمسيحه، الضابط الكل، الرب إلهنا
+      - generic [ref=f1e2014]:
+        - generic [ref=f1e2015]:
+          - generic [ref=f1e2016]: "Deacon:"
+          - text: Amen. Amen. Let us pray.
+        - generic [ref=f1e2017]:
+          - generic [ref=f1e2018]: "Ⲡⲓⲇⲓⲁⲕⲱⲛ:"
+          - text: Ⲁⲙⲏⲛ ⲁ̀ⲙⲏⲛ ⲡ̀ⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ.
+        - generic [ref=f1e2019]:
+          - generic [ref=f1e2020]: "الشماس:"
+          - text: آمين. آمين. صلوا
+      - generic [ref=f1e2021]:
+        - generic [ref=f1e2022]:
+          - generic [ref=f1e2023]: "People:"
+          - text: Lord have mercy.
+        - generic [ref=f1e2024]:
+          - generic [ref=f1e2025]: "Ⲡⲓⲗⲁⲟⲥ:"
+          - text: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.
+        - generic [ref=f1e2026]:
+          - generic [ref=f1e2027]: "الشعبُ:"
+          - text: يارب إرحم.
+      - generic [ref=f1e2028]:
+        - generic [ref=f1e2029]:
+          - generic [ref=f1e2030]: "Priest:"
+          - text: Peace be with all.
+        - generic [ref=f1e2031]:
+          - generic [ref=f1e2032]: "Ⲡⲓⲟⲩⲏⲃ:"
+          - text: Ⲓⲣⲏⲛⲏ ⲡⲁⲥⲓ.
+        - generic [ref=f1e2033]:
+          - generic [ref=f1e2034]: "الكاهنُ:"
+          - text: السلام للكل
+      - generic [ref=f1e2035]:
+        - generic [ref=f1e2036]:
+          - generic [ref=f1e2037]: "People:"
+          - text: And with your spirit.
+        - generic [ref=f1e2038]:
+          - generic [ref=f1e2039]: "Ⲡⲓⲗⲁⲟⲥ:"
+          - text: Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ ⲥⲟⲩ.
+        - generic [ref=f1e2040]:
+          - generic [ref=f1e2041]: "الشعبُ:"
+          - text: ولروحك أيضاً.
+    - generic [ref=f1e2042]:
+      - generic [ref=f1e2043]: The Prayers of the Fractions
+      - generic [ref=f1e2044]: صلوات القِسَم
+    - generic [ref=f1e2045]:
+      - generic [ref=f1e2046]: "While breaking the holy Body, the priest says one of the following prayers of the Fraction:"
+      - generic [ref=f1e2047]: "يقول الكاهن وهو يقسم الجسد المقدس:"
+    - link "Fractions Index (فهرس القسم)" [ref=f1e2050] [cursor=pointer]:
+      - /url: liturgies/index/Fractions Full Index@true
+      - text: Fractions Index
+      - text: (فهرس القسم)
+    - table [ref=f1e2053]:
+      - rowgroup [ref=f1e2054]:
+        - 'row "Fraction to the Son for the Apostles Fast: You are the Logos... (قسمة للابن تقال في صوم الرسل: أنتَ هو كلمةُ الآبِ...)" [ref=f1e2055]':
+          - cell [ref=f1e2056]:
+            - img [ref=f1e2057]
+          - 'cell "Fraction to the Son for the Apostles Fast: You are the Logos... (قسمة للابن تقال في صوم الرسل: أنتَ هو كلمةُ الآبِ...)" [ref=f1e2058]':
+            - 'button "Fraction to the Son for the Apostles Fast: You are the Logos... (قسمة للابن تقال في صوم الرسل: أنتَ هو كلمةُ الآبِ...)" [ref=f1e2059]':
+              - text: "Fraction to the Son for the Apostles Fast: You are the Logos..."
+              - text: "(قسمة للابن تقال في صوم الرسل: أنتَ هو كلمةُ الآبِ...)"
+    - table [ref=f1e2062]:
+      - rowgroup [ref=f1e2063]:
+        - 'row "Another Fraction to the Son for the Apostles Fast: How unsearchable are... (قسمة أخرى للابن تقال في صوم الرسل: مَا أبْعَدَ أحكاَمكَ...)" [ref=f1e2064]':
+          - cell [ref=f1e2065]:
+            - img [ref=f1e2066]
+          - 'cell "Another Fraction to the Son for the Apostles Fast: How unsearchable are... (قسمة أخرى للابن تقال في صوم الرسل: مَا أبْعَدَ أحكاَمكَ...)" [ref=f1e2067]':
+            - 'button "Another Fraction to the Son for the Apostles Fast: How unsearchable are... (قسمة أخرى للابن تقال في صوم الرسل: مَا أبْعَدَ أحكاَمكَ...)" [ref=f1e2068]':
+              - text: "Another Fraction to the Son for the Apostles Fast: How unsearchable are..."
+              - text: "(قسمة أخرى للابن تقال في صوم الرسل: مَا أبْعَدَ أحكاَمكَ...)"
+    - table [ref=f1e2071]:
+      - rowgroup [ref=f1e2072]:
+        - row "Our Father (أبانا الذي)" [ref=f1e2073]:
+          - cell [ref=f1e2074]:
+            - img [ref=f1e2075]
+          - cell "Our Father (أبانا الذي)" [ref=f1e2076]:
+            - button "Our Father (أبانا الذي)" [ref=f1e2077]:
+              - text: Our Father
+              - text: (أبانا الذي)
+    - generic [ref=f1e2078]:
+      - generic [ref=f1e2079]:
+        - generic [ref=f1e2080]:
+          - generic [ref=f1e2081]: "People:"
+          - text: "Make us worthy to pray thankfully:"
+        - generic [ref=f1e2082]:
+          - generic [ref=f1e2083]: "Ⲡⲓⲗⲁⲟⲥ:"
+          - text: "Ⲁⲣⲓⲧⲉⲛ ⲛ̀ⲉⲙⲡ̀ϣⲁ ⲛ̀ϫⲟⲥ ϧⲉⲛ ⲟⲩϣⲉⲡϩ̀ⲙⲟⲧ:"
+        - generic [ref=f1e2084]:
+          - generic [ref=f1e2085]: "الشعبُ:"
+          - text: "اللهُمَّ اجعلْنا مُستحقينَ أن نقولَ بشكرٍ:"
+      - generic [ref=f1e2086]:
+        - generic [ref=f1e2087]: Our Father who art in heaven, hallowed be Thy name.
+        - generic [ref=f1e2088]: "Ϫⲉ Ⲡⲉⲛⲓⲱⲧ ⲉⲧ ϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ: ⲙⲁⲣⲉϥⲧⲟⲩⲃⲟ ⲛ̀ϫⲉ ⲡⲉⲕⲣⲁⲛ:"
+        - generic [ref=f1e2089]: أبانا الذي في السماواتِ ليتقدسِ اسمُكَ،
+      - generic [ref=f1e2090]:
+        - generic [ref=f1e2091]: Thy kingdom come, Thy will be done, on earth as it is in heaven.
+        - generic [ref=f1e2092]: "Ⲙⲁⲣⲉⲥⲓ̀ ⲛ̀ϫⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ: ⲡⲉⲧⲉϩⲛⲁⲕ ⲙⲁⲣⲉϥϣⲱⲡⲓ: ⲙ̀ⲫ̀ⲣⲏϯ ϧⲉⲛ ⲧ̀ⲫⲉ ⲛⲉⲙ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ:"
+        - generic [ref=f1e2093]: ليأتِ ملكوتُكَ، لتكُن مشيئتُكَ، كما في السماءِ كذلكَ على الأرضِ،
+      - generic [ref=f1e2094]:
+        - generic [ref=f1e2095]: Give us this day our daily bread and forgive us our trespasses, as we forgive those who trespass against us and lead us not into temptation, but deliver us from the evil one.
+        - generic [ref=f1e2096]: "Ⲡⲉⲛⲱⲓⲕ ⲛ̀ⲧⲉ ⲣⲁⲥϯ ⲙⲏⲓϥ ⲛⲁⲛ ⲙ̀ⲫⲟⲟⲩ: ⲟⲩⲟϩ ⲭⲁ ⲛⲏⲉ̀ⲧⲉⲣⲟⲛ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱⲛ ⲛ̀ⲧⲉⲛⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲏⲉ̀ⲧⲉ ⲟⲩⲟⲛ ⲛ̀ⲧⲁⲛ ⲉ̀ⲣⲱⲟⲩ: ⲟⲩⲟϩ ⲙ̀ⲡⲉⲣⲉⲛⲧⲉⲛ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲣⲁⲥⲙⲟⲥ ⲁⲗⲗⲁ ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲡⲓⲡⲉⲧϩⲱⲟⲩ."
+        - generic [ref=f1e2097]: خبزَنا الذي للغدِّ أعطِنا اليومَ، واغفِرْ لنا ذنوبَنا كما نغفِرُ نحنُ أيضاً للمُذنبينَ إلينا، ولا تُدخِلنا في تجرِبةٍ لكِنْ نجِّنا مِنَ الشريرِ،
+      - generic [ref=f1e2098]:
+        - generic [ref=f1e2099]: In Christ Jesus our Lord. For Thine is the kingdom, and the power, and the glory, forever. Amen.
+        - generic [ref=f1e2100]: "Ϧⲉⲛ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ: ϫⲉ ⲑⲱⲕ ⲧⲉ ϯⲙⲉⲧⲟⲩⲣⲟ ⲛⲉⲙ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ ϣⲁ ⲉ̀ⲛⲉϩ: ⲁ̀ⲙⲏⲛ."
+        - generic [ref=f1e2101]: بالمسيحِ يسوعَ ربِّنا. لأنَّ لكَ المُلكَ والقوةَ والمجدَ إلى الأبدِ. آمين.
+    - generic [ref=f1e2102]:
+      - generic [ref=f1e2103]:
+        - generic [ref=f1e2104]: "People:"
+        - text: In Christ Jesus our Lord.
+      - generic [ref=f1e2105]:
+        - generic [ref=f1e2106]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: Ϧⲉⲛ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ.
+      - generic [ref=f1e2107]:
+        - generic [ref=f1e2108]: "الشعبُ:"
+        - text: بالمسيح يسوع ربنا
+    - table [ref=f1e2111]:
+      - rowgroup [ref=f1e2112]:
+        - row "The Prayer after “Our Father” Addressed to the Father (صلاة من بعد ”أبانا“ للآب)" [ref=f1e2113]:
+          - cell [ref=f1e2114]:
+            - img [ref=f1e2115]
+          - cell "The Prayer after “Our Father” Addressed to the Father (صلاة من بعد ”أبانا“ للآب)" [ref=f1e2116]:
+            - button "The Prayer after “Our Father” Addressed to the Father (صلاة من بعد ”أبانا“ للآب)" [ref=f1e2117]:
+              - text: The Prayer after “Our Father” Addressed to the Father
+              - text: (صلاة من بعد ”أبانا“ للآب)
+    - generic [ref=f1e2118]:
+      - generic [ref=f1e2119]:
+        - generic [ref=f1e2120]: "Deacon:"
+        - text: Bow your heads to the Lord.
+      - generic [ref=f1e2121]:
+        - generic [ref=f1e2122]: "Ⲡⲓⲇⲓⲁⲕⲱⲛ:"
+        - text: Ⲧⲁⲥ ⲕⲉⲫⲁⲗⲁⲥ ⲩ̀ⲙⲱⲛ ⲧⲱ Ⲕⲩⲣⲓⲱ ⲕ̀ⲗⲓⲛⲁⲧⲉ.
+      - generic [ref=f1e2123]:
+        - generic [ref=f1e2124]: "الشماس:"
+        - text: احنوا رؤوسَكم للربِّ.
+    - generic [ref=f1e2125]:
+      - generic [ref=f1e2126]:
+        - generic [ref=f1e2127]: "People:"
+        - text: Before You, O Lord.
+      - generic [ref=f1e2128]:
+        - generic [ref=f1e2129]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: Ⲉⲛⲱⲡⲓⲟⲛ ⲥⲟⲩ Ⲕⲩⲣⲓⲉ.
+      - generic [ref=f1e2130]:
+        - generic [ref=f1e2131]: "الشعبُ:"
+        - text: أمامك يارب
+    - generic [ref=f1e2132]:
+      - generic [ref=f1e2133]: The people bow their heads until the conclusion of the following two prayers.
+      - generic [ref=f1e2134]: "ويطامنون رؤوسهم إلى آخر قراءة الصلاتين الآتيتين:"
+    - table [ref=f1e2137]:
+      - rowgroup [ref=f1e2138]:
+        - row "The Prayer of Submission Addressed to the Father (صلاة خضوع للآب)" [ref=f1e2139]:
+          - cell [ref=f1e2140]:
+            - img [ref=f1e2141]
+          - cell "The Prayer of Submission Addressed to the Father (صلاة خضوع للآب)" [ref=f1e2142]:
+            - button "The Prayer of Submission Addressed to the Father (صلاة خضوع للآب)" [ref=f1e2143]:
+              - text: The Prayer of Submission Addressed to the Father
+              - text: (صلاة خضوع للآب)
+    - generic [ref=f1e2144]:
+      - generic [ref=f1e2145]:
+        - generic [ref=f1e2146]: "Deacon:"
+        - text: Let us attend in the fear of God. Amen.
+      - generic [ref=f1e2147]:
+        - generic [ref=f1e2148]: "Ⲡⲓⲇⲓⲁⲕⲱⲛ:"
+        - text: "Ⲡⲣⲟⲥⲭⲱⲙⲉⲛ Ⲑⲉⲟⲩ ⲙⲉⲧⲁⲫⲟⲃⲟⲩ: ⲁ̀ⲙⲏⲛ."
+      - generic [ref=f1e2149]:
+        - generic [ref=f1e2150]: "الشماس:"
+        - text: ننصت بخوف الله. آمين
+    - generic [ref=f1e2151]:
+      - generic [ref=f1e2152]:
+        - generic [ref=f1e2153]: "Priest:"
+        - text: Peace be with all.
+      - generic [ref=f1e2154]:
+        - generic [ref=f1e2155]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: Ⲓⲣⲏⲛⲏ ⲡⲁⲥⲓ.
+      - generic [ref=f1e2156]:
+        - generic [ref=f1e2157]: "الكاهنُ:"
+        - text: السلام للكل
+    - generic [ref=f1e2158]:
+      - generic [ref=f1e2159]:
+        - generic [ref=f1e2160]: "People:"
+        - text: And with your spirit.
+      - generic [ref=f1e2161]:
+        - generic [ref=f1e2162]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ ⲥⲟⲩ.
+      - generic [ref=f1e2163]:
+        - generic [ref=f1e2164]: "الشعبُ:"
+        - text: ولروحك أيضاً.
+    - table [ref=f1e2167]:
+      - rowgroup [ref=f1e2168]:
+        - row "The Prayer of Absolution Addressed to the Father (صلاة التحليل للآب)" [ref=f1e2169]:
+          - cell [ref=f1e2170]:
+            - img [ref=f1e2171]
+          - cell "The Prayer of Absolution Addressed to the Father (صلاة التحليل للآب)" [ref=f1e2172]:
+            - button "The Prayer of Absolution Addressed to the Father (صلاة التحليل للآب)" [ref=f1e2173]:
+              - text: The Prayer of Absolution Addressed to the Father
+              - text: (صلاة التحليل للآب)
+    - generic [ref=f1e2174]:
+      - generic [ref=f1e2175]: The priest says inaudibly the short prayers for the peace of the church and for the fathers.
+      - generic [ref=f1e2176]: ثم يقول الكاهن أوشيتي السلام والآباء الصغيرتين سراً.
+    - generic [ref=f1e2177]:
+      - generic [ref=f1e2178]: "Then he exclaims aloud:"
+      - generic [ref=f1e2179]: "ثم يقول جهراً:"
+    - generic [ref=f1e2180]:
+      - generic [ref=f1e2181]:
+        - generic [ref=f1e2182]: "Priest:"
+        - text: Remember, O Lord, our assemblies; bless them.
+      - generic [ref=f1e2183]:
+        - generic [ref=f1e2184]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: Ⲁⲣⲓⲫ̀ⲙⲉⲩⲓ̀ Ⲡϭⲟⲓⲥ ⲛ̀ⲛⲉⲛϫⲓⲛⲑⲱⲟⲩϯ ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲱⲟⲩ.
+      - generic [ref=f1e2185]:
+        - generic [ref=f1e2186]: "الكاهنُ:"
+        - text: أذكر يارب اجتماعاتنا باركها
+    - generic [ref=f1e2187]:
+      - generic [ref=f1e2188]: "The deacon raises the cross, and says:"
+      - generic [ref=f1e2189]: "يرفع الشماس الصليب ويقول:"
+    - generic [ref=f1e2190]:
+      - generic [ref=f1e2191]:
+        - generic [ref=f1e2192]: "Deacon:"
+        - text: Saved. Amen. And with your spirit. In the fear of God, let us attend.
+      - generic [ref=f1e2193]:
+        - generic [ref=f1e2194]: "Ⲡⲓⲇⲓⲁⲕⲱⲛ:"
+        - text: "Ⲥⲱⲑⲓⲥ ⲁ̀ⲙⲏⲛ: ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ ⲥⲟⲩ: ⲙⲉⲧⲁ ⲫⲟⲃⲟⲩ Ⲑⲉⲟⲩ ⲡ̀ⲣⲟⲥⲭⲱⲙⲉⲛ."
+      - generic [ref=f1e2195]:
+        - generic [ref=f1e2196]: "الشماس:"
+        - text: خلصت حقاً، ومع روحك، ننصت بخوف الله
+    - generic [ref=f1e2197]:
+      - generic [ref=f1e2198]: "The people respond while bowing their heads:"
+      - generic [ref=f1e2199]: "يقول الشعب وهم مطامنو الرؤوس:"
+    - generic [ref=f1e2200]:
+      - generic [ref=f1e2201]:
+        - generic [ref=f1e2202]: "People:"
+        - text: Amen. Lord have mercy. Lord have mercy. Lord have mercy.
+      - generic [ref=f1e2203]:
+        - generic [ref=f1e2204]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: Ⲁⲙⲏⲛ. Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ. Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ. Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.
+      - generic [ref=f1e2205]:
+        - generic [ref=f1e2206]: "الشعبُ:"
+        - text: آمين. يارب إرحم. يارب إرحم. يارب إرحم
+    - generic [ref=f1e2207]:
+      - generic [ref=f1e2208]: "The priest takes in his hands the Despotikon and raises It up to arm’s length, and with bowed head he exclaims aloud:"
+      - generic [ref=f1e2209]: "يأخذ الكاهن الأسباديقون بيديه ويرفعه إلى فوق إلى آخر امتداد وهو مطامن الرأس صارخاً قائلاً:"
+    - generic [ref=f1e2210]:
+      - generic [ref=f1e2211]:
+        - generic [ref=f1e2212]: "Priest:"
+        - text: The Holies for the holy.
+      - generic [ref=f1e2213]:
+        - generic [ref=f1e2214]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: Ⲧⲁ ⲁ̀ⲅⲓⲁ ⲧⲓⲥ ⲁ̀ⲅⲓⲥ.
+      - generic [ref=f1e2215]:
+        - generic [ref=f1e2216]: "الكاهنُ:"
+        - text: القدسات للقديسين
+    - generic [ref=f1e2217]:
+      - generic [ref=f1e2218]: "The people worship before the Lord with fear and trembling, praying for the forgiveness of their sins with tears and supplication. Then the priest takes the Despotikon between the tips of two fingers of his right hand, and with It he signs the precious Blood inside the chalice in the form of the cross. Then he dips the extremity of It inside the chalice and carefully raises It soaked in the Blood, and with It signs, in the form of the cross, the pure Body which is all on the paten. Then he takes the Despotikon and signs with It the Blood inside the chalice in the form of the cross. He then carefully places the Despotikon upside down in the Blood inside the chalice, all the while with his left hand cupped under the Despotikon lest any of the pearls should fall or drip, while saying:"
+      - generic [ref=f1e2219]: "يسجد الشعب أمام الرب بخوف ورعدة، طالبين غفران خطاياهم بدموع وابتهال. ثم يأخذ الكاهن الأسباديقون بيده اليمنى بطرف اصبعين، ويرشم به الدم الكريم في الكأس بمثال الصليب. ثم يغمس طرفه داخل الكأس، ويرفعه مغموساً بالدم بأحتراس، ويرشم به الجسد الطاهر الذي في الصينية جميعه بمثال الصليب. ثم يعود به أيضاً إلى الدم، ويرشم به على وجه الدم داخل الكأس بمثال الصليب. ثم يضع الأسباديقون في الدم داخل الكأس مقلوباً. وتكون يده اليسرى مبسوطة تحت الأسباديقون، لئلا تقع منه جوهرة أو ينقط منه شيء. كل ذلك وهو يقول:"
+    - generic [ref=f1e2220]:
+      - generic [ref=f1e2221]: Blessed be the Lord Jesus Christ, the Son of God; the sanctification is by the Holy Spirit. Amen.
+      - generic [ref=f1e2222]: "Ⲉⲩⲗⲟⲅⲏⲧⲟⲥ Ⲕⲩⲣⲓⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲭⲣⲓⲥⲧⲟⲥ Ⲩⲓⲟⲥ Ⲑⲉⲟⲩ ⲁ̀ⲅⲓⲁⲥⲙⲟⲥ Ⲡⲛⲉⲩⲙⲁ ⲁ̀ⲅⲓⲟⲛ: ⲁ̀ⲙⲏⲛ."
+      - generic [ref=f1e2223]: مبارك الرب يسوع المسيح ابن الله، وقدوس الروح القدس آمين
+    - generic [ref=f1e2224]:
+      - generic [ref=f1e2225]: "The people raise their heads, and respond in a loud voice:"
+      - generic [ref=f1e2226]: "ثم ينهض الشعب من سجودهم، ويجاوبونه بأعلى أصواتهم قائلين:"
+    - generic [ref=f1e2227]:
+      - generic [ref=f1e2228]:
+        - generic [ref=f1e2229]: "People:"
+        - text: One is the All-Holy Father, One is the All-Holy Son, One is the All-Holy Spirit. Amen.
+      - generic [ref=f1e2230]:
+        - generic [ref=f1e2231]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: "Ⲓⲥ ⲟ̀ ⲡⲁⲛⲁ̀ⲅⲓⲟⲥ Ⲡⲁⲧⲏⲣ: ⲓⲥ ⲟ̀ ⲡⲁⲛⲁ̀ⲅⲓⲟⲥ Ⲩⲓⲟⲥ: ⲉⲛ ⲧⲟ ⲡⲁⲛⲁ̀ⲅⲓⲟⲛ Ⲡⲛⲉⲩⲙⲁ: ⲁ̀ⲙⲏⲛ."
+      - generic [ref=f1e2232]:
+        - generic [ref=f1e2233]: "الشعبُ:"
+        - text: واحد هو الآب القدوس واحد هو الابن القدوس، واحد هو الروح القدس آمين
+    - table [ref=f1e2236]:
+      - rowgroup [ref=f1e2237]:
+        - row "One is the Holy Father (Ⲓⲥ Ⲡⲁⲧⲏⲣ ⲁ̀ⲅⲓⲟⲥ)" [ref=f1e2238]:
+          - cell [ref=f1e2239]:
+            - img [ref=f1e2240]
+          - cell "One is the Holy Father (Ⲓⲥ Ⲡⲁⲧⲏⲣ ⲁ̀ⲅⲓⲟⲥ)" [ref=f1e2241]:
+            - button "One is the Holy Father (Ⲓⲥ Ⲡⲁⲧⲏⲣ ⲁ̀ⲅⲓⲟⲥ)" [ref=f1e2242]:
+              - text: One is the Holy Father
+              - text: (Ⲓⲥ Ⲡⲁⲧⲏⲣ ⲁ̀ⲅⲓⲟⲥ)
+    - generic [ref=f1e2243]:
+      - generic [ref=f1e2244]:
+        - generic [ref=f1e2245]: "Priest:"
+        - text: Peace be with all.
+      - generic [ref=f1e2246]:
+        - generic [ref=f1e2247]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: Ⲓⲣⲏⲛⲏ ⲡⲁⲥⲓ.
+      - generic [ref=f1e2248]:
+        - generic [ref=f1e2249]: "الكاهنُ:"
+        - text: السلام للكل
+    - generic [ref=f1e2250]:
+      - generic [ref=f1e2251]:
+        - generic [ref=f1e2252]: "People:"
+        - text: And with your spirit.
+      - generic [ref=f1e2253]:
+        - generic [ref=f1e2254]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ ⲥⲟⲩ.
+      - generic [ref=f1e2255]:
+        - generic [ref=f1e2256]: "الشعبُ:"
+        - text: ولروحك أيضاً.
+    - generic [ref=f1e2257]:
+      - generic [ref=f1e2258]: The Confession
+      - generic [ref=f1e2259]: الاعتراف
+    - generic [ref=f1e2260]:
+      - generic [ref=f1e2261]:
+        - generic [ref=f1e2262]: "Priest:"
+        - text: The Holy Body and the precious, true Blood of Jesus Christ, the Son of our God. Amen.
+      - generic [ref=f1e2263]:
+        - generic [ref=f1e2264]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: "Ⲥⲱⲙⲁ ⲁ̀ⲅⲓⲟⲛ ⲕⲉ ⲉ̀ⲙⲁ ⲧⲓⲙⲓⲟⲛ ⲁ̀ⲗⲏⲑⲓⲛⲟⲛ Ⲓⲏⲥⲟⲩ Ⲭⲣⲓⲥⲧⲟⲩ ⲧⲟⲩ Ⲩⲓⲟⲩ ⲧⲟⲩ Ⲑⲉⲟⲩ ⲏ̀ⲙⲱⲛ: ⲁ̀ⲙⲏⲛ."
+      - generic [ref=f1e2265]:
+        - generic [ref=f1e2266]: "الكاهنُ:"
+        - text: جسد مقدس ودم كريم حقيقي، ليسوع المسيح ابن إلهنا. آمين
+    - generic [ref=f1e2267]:
+      - generic [ref=f1e2268]:
+        - generic [ref=f1e2269]: "People:"
+        - text: Amen.
+      - generic [ref=f1e2270]:
+        - generic [ref=f1e2271]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: Ⲁⲙⲏⲛ.
+      - generic [ref=f1e2272]:
+        - generic [ref=f1e2273]: "الشعبُ:"
+        - text: آمين
+    - generic [ref=f1e2274]:
+      - generic [ref=f1e2275]:
+        - generic [ref=f1e2276]: "Priest:"
+        - text: The holy, precious Body and true Blood of Jesus Christ, the Son of our God. Amen.
+      - generic [ref=f1e2277]:
+        - generic [ref=f1e2278]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: "Ⲁⲅⲓⲟⲛ ⲧⲓⲙⲓⲟⲛ ⲥⲱⲙⲁ ⲕⲉ ⲉ̀ⲙⲁ ⲁ̀ⲗⲏⲑⲓⲛⲟⲛ: Ⲓⲏⲥⲟⲩ Ⲭⲣⲓⲥⲧⲟⲩ ⲧⲟⲩ Ⲩⲓⲟⲩ ⲧⲟⲩ Ⲑⲉⲟⲩ ⲏ̀ⲙⲱⲛ: ⲁ̀ⲙⲏⲛ."
+      - generic [ref=f1e2279]:
+        - generic [ref=f1e2280]: "الكاهنُ:"
+        - text: مقدس وكريم، جسد ودم حقيقي، ليسوع المسيح ابن إلهنا. آمين
+    - generic [ref=f1e2281]:
+      - generic [ref=f1e2282]:
+        - generic [ref=f1e2283]: "People:"
+        - text: Amen.
+      - generic [ref=f1e2284]:
+        - generic [ref=f1e2285]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: Ⲁⲙⲏⲛ.
+      - generic [ref=f1e2286]:
+        - generic [ref=f1e2287]: "الشعبُ:"
+        - text: آمين
+    - generic [ref=f1e2289]: "The Priest signs the Blood with the Despotikon and places It in the chalice, and says:"
+    - generic [ref=f1e2290]:
+      - generic [ref=f1e2291]:
+        - generic [ref=f1e2292]: "Priest:"
+        - text: The Body and the Blood of Immanuel our God; this is true. Amen.
+      - generic [ref=f1e2293]:
+        - generic [ref=f1e2294]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: "Ⲡⲓⲥⲱⲙⲁ ⲛⲉⲙ ⲡⲓⲥ̀ⲛⲟϥ ⲛ̀ⲧⲉ Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ Ⲡⲉⲛⲛⲟⲩϯ ⲫⲁⲓ ⲡⲉ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ: ⲁ̀ⲙⲏⲛ."
+      - generic [ref=f1e2295]:
+        - generic [ref=f1e2296]: "الكاهنُ:"
+        - text: جسد ودم عمانوئيل إلهنا، هذا هو بالحقيقة. آمين
+    - generic [ref=f1e2297]:
+      - generic [ref=f1e2298]:
+        - generic [ref=f1e2299]: "People:"
+        - text: Amen. I believe.
+      - generic [ref=f1e2300]:
+        - generic [ref=f1e2301]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: Ⲁⲙⲏⲛ ϯⲛⲁϩϯ.
+      - generic [ref=f1e2302]:
+        - generic [ref=f1e2303]: "الشعبُ:"
+        - text: حقاً أؤمن
+    - generic [ref=f1e2304]:
+      - generic [ref=f1e2305]:
+        - generic [ref=f1e2306]: "Priest:"
+        - text: Amen. Amen. Amen. I believe, I believe, I believe, and confess to the last breath
+      - generic [ref=f1e2307]:
+        - generic [ref=f1e2308]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: "Ⲁⲙⲏⲛ ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ: ϯⲛⲁϩϯ ϯⲛⲁϩϯ ϯⲛⲁϩϯ: ⲟⲩⲟϩ ϯⲉⲣⲟ̀ⲙⲟⲗⲟⲅⲓⲛ ϣⲁ ⲡⲓⲛⲓϥⲓ ⲛ̀ϧⲁⲉ̀."
+      - generic [ref=f1e2309]:
+        - generic [ref=f1e2310]: "الكاهنُ:"
+        - text: آمين. آمين. آمين. أؤمنُ. أؤمنُ. أؤمنُ. وأعترفُ إلى النفسِ الأخيرِ.
+    - generic [ref=f1e2311]:
+      - generic [ref=f1e2312]: that this is the life-giving Flesh that Your only-begotten Son, our Lord, God, and Savior Jesus Christ, took from our Lady, the Lady of us all, the holy Theotokos, Saint Mary.
+      - generic [ref=f1e2313]: "Ϫⲉ ⲑⲁⲓ ⲧⲉ ϯⲥⲁⲣⲝ ⲛ̀ⲣⲉϥⲧⲁⲛϧⲟ ⲉ̀ⲧⲁ ⲡⲉⲕⲙⲟⲛⲟⲅⲉⲛⲏⲥ ⲛ̀Ϣⲏⲣⲓ: Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ Ⲡⲉⲛⲛⲟⲩϯ ⲟⲩⲟϩ ⲡⲉⲛⲥⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ: ϭⲓⲧⲥ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲧⲉⲛϭⲟⲓⲥ ⲛ̀ⲛⲏⲃ ⲧⲏⲣⲉⲛ ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ ⲉⲑⲟⲩⲁⲃ ϯⲁ̀ⲅⲓⲁ Ⲙⲁⲣⲓⲁ."
+      - generic [ref=f1e2314]: أن هذا هو الجسدُ المحُيِي، الذي أخذَه إبنُكَ الوحيدُ، ربُّنا وإلهُنا ومخلِّصُنا يسوعُ المسيحُ من سيِّدتِنا، سيِّدتِنا كلِّنا والدةِ الإلهِ القديسةِ الطاهرةِ مريمَ.
+    - generic [ref=f1e2315]:
+      - generic [ref=f1e2316]: He made It one with His divinity without mingling, without confusion, and without alteration.
+      - generic [ref=f1e2317]: "Ⲁϥⲁⲓⲥ ⲛ̀ⲟⲩⲁⲓ ⲛⲉⲙ ⲧⲉϥⲙⲉⲑⲛⲟⲩϯ: ϧⲉⲛ ⲟⲩⲙⲉⲧⲁⲧⲙⲟⲩϫⲧ ⲛⲉⲙ ⲟⲩⲙⲉⲧⲁⲧⲑⲱϧ ⲛⲉⲙ ⲟⲩⲙⲉⲧⲁⲧϣⲓⲃϯ."
+      - generic [ref=f1e2318]: وجَعَلَهُ واحداً معَ لاهوتِهِ بغيرِ اختلاطٍ ولا امتزاجٍ ولا تغييرٍ.
+    - generic [ref=f1e2319]:
+      - generic [ref=f1e2320]: He confessed the good confession before Pontius Pilate.
+      - generic [ref=f1e2321]: Ⲉⲁϥⲉⲣⲟ̀ⲙⲟⲗⲟⲅⲓⲛ ⲛ̀ϯⲟ̀ⲙⲟⲗⲟⲅⲓⲁ ⲉⲑⲛⲁⲛⲉⲥ ⲛⲁϩⲣⲉⲛ Ⲡⲟⲛⲧⲓⲟⲥ Ⲡⲓⲗⲁⲧⲟⲥ.
+      - generic [ref=f1e2322]: واعترفَ الاعترافَ الحسنَ أمام بيلاطُسَ البُنْطِي.
+    - generic [ref=f1e2323]:
+      - generic [ref=f1e2324]: He gave It up for us upon the holy wood of the Cross, of His own will, for us all.
+      - generic [ref=f1e2325]: "Ⲁϥⲧⲏⲓⲥ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ: ϩⲓϫⲉⲛ ⲡⲓϣⲉ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲧⲉ ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ: ϧⲉⲛ ⲡⲉϥⲟⲩⲱϣ ⲙ̀ⲙⲓⲛ ⲙ̀ⲙⲟϥ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ ⲧⲏⲣⲉⲛ."
+      - generic [ref=f1e2326]: وسلَّمَهُ عنا على خشبةِ الصليبِ المقدسةِ، بإرادتِهِ وحدَهُ، عنا كلِّنا.
+    - generic [ref=f1e2327]:
+      - generic [ref=f1e2328]: Truly, I believe that His divinity parted not from His humanity for a single moment, nor a twinkling of an eye;
+      - generic [ref=f1e2329]: "Ⲁⲗⲏⲑⲱⲥ ϯⲛⲁϩϯ ϫⲉ ⲙ̀ⲡⲉ ⲧⲉϥⲙⲉⲑⲛⲟⲩϯ ⲫⲱⲣϫ ⲉ̀ⲧⲉϥⲙⲉⲧⲣⲱⲙⲓ: ⲛ̀ⲟⲩⲥⲟⲩⲥⲟⲩ ⲛ̀ⲟⲩⲱⲧ ⲟⲩⲇⲉ ⲟⲩⲣⲓⲕⲓⲙ̀ⲃⲁⲗ."
+      - generic [ref=f1e2330]: بالحقيقةِ أؤمنُ، أن لاهوتَه لم يفارقْ ناسوتَه لحظةً واحدةً ولا طرفةَ عينٍ.
+    - generic [ref=f1e2331]:
+      - generic [ref=f1e2332]: given for us for salvation, remission of sins, and eternal life to those who partake of Him.
+      - generic [ref=f1e2333]: "Ⲉⲩϯ ⲙ̀ⲙⲟⲥ ⲉ̀ϫⲱⲛ ⲛ̀ⲟⲩⲥⲱϯ: ⲛⲉⲙ ⲟⲩⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲓⲛⲟⲃⲓ: ⲛⲉⲙ ⲟⲩⲱⲛϧ ⲛ̀ⲉ̀ⲛⲉϩ: ⲛ̀ⲛⲏⲉⲑⲛⲁϭⲓ ⲉ̀ⲃⲟⲗ ⲛ̀ϧⲏⲧⲥ."
+      - generic [ref=f1e2334]: يُعطَى عنا خلاصاً وغفراناً للخطايا، وحياةً أبديةً لمن يتناولُ مِنْهُ.
+    - generic [ref=f1e2335]:
+      - generic [ref=f1e2336]: I believe, I believe, I believe that this is true. Amen.
+      - generic [ref=f1e2337]: "Ϯⲛⲁϩϯ ϯⲛⲁϩϯ ϯⲛⲁϩϯ ϫⲉ ⲑⲁⲓ ⲧⲉ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ: ⲁ̀ⲙⲏⲛ."
+      - generic [ref=f1e2338]: أؤمنُ. أؤمنُ. أؤمنُ أن هذا هو بالحقيقةِ. آمين.
+    - generic [ref=f1e2339]:
+      - generic [ref=f1e2340]:
+        - generic [ref=f1e2341]: "Deacon:"
+        - text: Amen. Amen. Amen. I believe, I believe, I believe that this is true. Amen.
+      - generic [ref=f1e2342]:
+        - generic [ref=f1e2343]: "Ⲡⲓⲇⲓⲁⲕⲱⲛ:"
+        - text: "Ⲁⲙⲏⲛ ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ: ϯⲛⲁϩϯ ϯⲛⲁϩϯ ϯⲛⲁϩϯ: ϫⲉ ⲑⲁⲓ ⲧⲉ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ ⲁ̀ⲙⲏⲛ."
+      - generic [ref=f1e2344]:
+        - generic [ref=f1e2345]: "الشماس:"
+        - text: آمين. آمين. آمين. أؤمن. أؤمن. أؤمن أن هذا هو بالحقيقة آمين
+    - generic [ref=f1e2346]:
+      - generic [ref=f1e2347]: Pray for us and for all Christians who said to us concerning them, “Remember us in the house of the Lord.”
+      - generic [ref=f1e2348]: "Ⲧⲱⲃϩ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ ⲛⲉⲙ ⲉ̀ϫⲉⲛ ⲛⲓⲭ̀ⲣⲓⲥⲧⲓⲁⲛⲟⲥ ⲛⲓⲃⲉⲛ ⲉ̀ⲧⲁⲩϫⲟⲥ ⲛⲁⲛ ⲉⲑⲃⲏⲧⲟⲩ: ϫⲉ ⲁ̀ⲣⲓⲡⲉⲛⲙⲉⲩⲓ̀ ϧⲉⲛ ⲡ̀ⲏⲓ ⲙ̀Ⲡϭⲟⲓⲥ."
+      - generic [ref=f1e2349]: "اطلبوا عنّا وعن كل المسيحيّين الذين قالوا الذينَ قالوا لنا من أجلِهم: ”أُذكرونا في بيتِ الربِّ.“"
+    - generic [ref=f1e2350]:
+      - generic [ref=f1e2351]: The peace and love of Jesus Christ be with you. Let us sing, “Alleluia.”
+      - generic [ref=f1e2352]: "Ⲏ ⲓ̀ⲣⲏⲛⲏ ⲕⲉ ⲁ̀ⲅⲁⲡⲏ Ⲓⲏⲥⲟⲩ Ⲭⲣⲓⲥⲧⲟⲩ ⲙⲉⲑ ⲩ̀ⲙⲱⲛ: ⲯⲁⲗⲗⲁⲧⲉ: ϫⲱ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ."
+      - generic [ref=f1e2353]: "سلامُ ومحبةُ يسوعَ المسيحِ معكُم. رتلوا بنشيدٍ: الليلويا."
+    - generic [ref=f1e2354]:
+      - generic [ref=f1e2355]: Pray for the worthy partaking of the immaculate and heavenly Holy Mysteries. Lord have mercy.
+      - generic [ref=f1e2356]: Ⲡⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲏⲥ ⲁⲝⲓⲁⲥ ⲙⲉⲧⲁⲗⲏⲯⲉⲱⲥ ⲁⲭⲣⲁⲛⲧⲱⲛ ⲕⲉ ⲉ̀ⲡⲟⲩⲣⲁⲛⲓⲱⲛ ⲧⲱⲛ ⲁ̀ⲅⲓⲱⲛ ⲙⲩⲥⲧⲏⲣⲓⲱⲛ. Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.
+      - generic [ref=f1e2357]: صلُّوا من أجلِ التناولِ باستحقاقٍ من هذه الأسرارِ المقدسةِ الطاهرةِ والسمائيةِ. ياربُّ ارحَم.
+    - table [ref=f1e2360]:
+      - rowgroup [ref=f1e2361]:
+        - row "Alternate Confession Response" [ref=f1e2362]:
+          - cell [ref=f1e2363]:
+            - img [ref=f1e2364]
+          - cell "Alternate Confession Response" [ref=f1e2365]:
+            - button "Alternate Confession Response" [ref=f1e2366]
+    - generic [ref=f1e2367]:
+      - generic [ref=f1e2368]: "The priest places the pearls which are in his hand on the paten in their place, and he gathers all the particles together and rubs his hands over the paten and cleans both of them thoroughly, and with bowed head, he gives glory to God, saying:"
+      - generic [ref=f1e2369]: "وفي أثناء ذلك يضع الكاهن الجواهر التي بيده في الصينية في مكانها، ويجمع جميع الأجزاء بعضها إلى بعض، ويفرك يديه داخل الصينية وينظفهما جيداً. ثم يعطي المجد لله وهو مطامن الرأس، قائلاً:"
+    - generic [ref=f1e2370]:
+      - generic [ref=f1e2371]:
+        - generic [ref=f1e2372]: "Priest:"
+        - text: For at all times, all glory and all honor and all worship are due to the Holy Trinity, the Father and the Son and the Holy Spirit, now and at all times and unto the age of all ages. Amen.
+      - generic [ref=f1e2373]:
+        - generic [ref=f1e2374]: "Ⲡⲓⲟⲩⲏⲃ:"
+        - text: "Ⲉⲣⲉ ⲱ̀ⲟⲩ ⲛⲓⲃⲉⲛ: ⲛⲉⲙ ⲧⲁⲓⲟ ⲛⲓⲃⲉⲛ: ⲛⲉⲙ ϯⲡ̀ⲣⲟⲥⲕⲩⲛⲏⲥⲓⲥ ⲛⲓⲃⲉⲛ: ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ: ⲉⲣⲡ̀ⲣⲉⲡⲓ ⲛ̀Ϯⲧ̀ⲣⲓⲁⲥ ⲉⲑⲟⲩⲁⲃ: Ⲫⲓⲱⲧ ⲛⲉⲙ Ⲡϣⲏⲣⲓ ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ.Ϯⲛⲟⲩ ⲛⲉⲙ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ ⲛⲉⲙ ϣⲁ ⲉ̀ⲛⲉϩ ⲛ̀ⲧⲉ ⲛⲓⲉ̀ⲛⲉϩ ⲧⲏⲣⲟⲩ: ⲁ̀ⲙⲏⲛ."
+      - generic [ref=f1e2375]:
+        - generic [ref=f1e2376]: "الكاهنُ:"
+        - text: إن كلَّ مجدٍ وكلَّ كرامةٍ وكلَّ سجودٍ كلَّ حيٍن يليقُ بالثالوثِ القدوسِ، الآبِ والإبنِ والروحِ القدسِ، الآنَ وكلَّ أوانٍ وإلى دهرِ الدهورِ كلِّها. آمين.
+    - table [ref=f1e2379]:
+      - rowgroup [ref=f1e2380]:
+        - row "Prayers before the Distribution of the Holy Mysteries (صلوات قبل التناول)" [ref=f1e2381]:
+          - cell [ref=f1e2382]:
+            - img [ref=f1e2383]
+          - cell "Prayers before the Distribution of the Holy Mysteries (صلوات قبل التناول)" [ref=f1e2384]:
+            - button "Prayers before the Distribution of the Holy Mysteries (صلوات قبل التناول)" [ref=f1e2385]:
+              - text: Prayers before the Distribution of the Holy Mysteries
+              - text: (صلوات قبل التناول)
+    - generic [ref=f1e2386]:
+      - generic [ref=f1e2387]:
+        - generic [ref=f1e2388]: "People:"
+        - text: Glory to You, O Lord, glory to You.
+      - generic [ref=f1e2389]:
+        - generic [ref=f1e2390]: "Ⲡⲓⲗⲁⲟⲥ:"
+        - text: Ⲇⲟⲝⲁ ⲥⲓ Ⲕⲩⲣⲓⲉ ⲇⲟⲝⲁ ⲥⲓ.
+      - generic [ref=f1e2391]:
+        - generic [ref=f1e2392]: "الشعبُ:"
+        - text: المجد لك يارب، المجد لك
+    - generic [ref=f1e2393]:
+      - generic [ref=f1e2394]: "Or they say:"
+      - generic [ref=f1e2395]: "أو يقول الشعب:"
+    - generic [ref=f1e2396]:
+      - generic [ref=f1e2397]: A hundred years.
+      - generic [ref=f1e2398]: Ϣⲉ ⲛ̀ⲣⲟⲙⲡⲓ.
+      - generic [ref=f1e2399]: مئة سنة.
