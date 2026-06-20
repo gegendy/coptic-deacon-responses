@@ -23,13 +23,15 @@ COPTIC_TO_AVVA_SHENOUDA = {
     'Ϩ': 'H',
     'ϩ': 'h',
     'ϫ': 'g',
-    'ϭ': '[',
+    'Ϭ': 'S',
+    'ϭ': 's',
     'ϯ': '5',
     'Ⲁ': 'A',
     'ⲁ': 'a',
     'Ⲃ': 'B',
     'ⲃ': 'b',
-    'ⲅ': 'g',
+    'Ⲅ': 'J',
+    'ⲅ': 'j',
     'ⲇ': 'd',
     'Ⲉ': 'E',
     'ⲉ': 'e',
@@ -120,6 +122,65 @@ def convert_coptic_text(text):
 
     return ''.join(converted)
 
+def add_coptic_runs(paragraph, text, size):
+    """Render Coptic text into a paragraph using multiple runs.
+
+    Coptic letters and their combining marks are emitted in the Avva Shenouda
+    legacy font, while every other character (spaces, parentheses, commas,
+    colons, periods, Latin letters, etc.) is emitted in the paragraph's default
+    font. The legacy font maps ASCII punctuation to Coptic glyphs (for example
+    ')' renders as theta and '(' / ',' render blank), so such characters must
+    not be placed in the legacy font.
+    """
+    avva_buffer = []
+    plain_buffer = []
+
+    def flush_avva():
+        if avva_buffer:
+            run = paragraph.add_run(''.join(avva_buffer))
+            set_run_font(run, COPTIC_FONT_NAME, size=size)
+            avva_buffer.clear()
+
+    def flush_plain():
+        if plain_buffer:
+            run = paragraph.add_run(''.join(plain_buffer))
+            run.font.size = size
+            plain_buffer.clear()
+
+    index = 0
+    while index < len(text):
+        char = text[index]
+        next_char = text[index + 1] if index + 1 < len(text) else None
+
+        if char in ('\u0300', '\u0305'):
+            raise ValueError(f'Unexpected standalone combining mark in Coptic text: {char!r}')
+
+        if char in COPTIC_TO_AVVA_SHENOUDA:
+            flush_plain()
+            legacy_char = COPTIC_TO_AVVA_SHENOUDA[char]
+            if next_char == '\u0305':
+                avva_buffer.append('=')
+                avva_buffer.append(legacy_char)
+                index += 2
+                continue
+            if next_char == '\u0300':
+                avva_buffer.append('`')
+                avva_buffer.append(legacy_char)
+                index += 2
+                continue
+            avva_buffer.append(legacy_char)
+        else:
+            codepoint = ord(char)
+            if 0x2C80 <= codepoint <= 0x2CFF or 0x03E2 <= codepoint <= 0x03EF:
+                raise ValueError(f'Unsupported Coptic character for Avva Shenouda conversion: {char!r}')
+            flush_avva()
+            plain_buffer.append(char)
+
+        index += 1
+
+    flush_avva()
+    flush_plain()
+
 def set_cell_shading(cell, color):
     """Set cell background color"""
     shading = parse_xml(f'<w:shd {nsdecls("w")} w:fill="{color}"/>')
@@ -176,19 +237,18 @@ def create_table_from_data(doc, title, rows, is_contents=False):
         for i, cell_text in enumerate(row_data):
             cell = row.cells[i]
             if i == coptic_idx:
-                cell.text = convert_coptic_text(cell_text)
+                para = cell.paragraphs[0]
+                add_coptic_runs(para, cell_text, Pt(5))
             else:
                 cell.text = cell_text
-            para = cell.paragraphs[0]
+                para = cell.paragraphs[0]
             para.paragraph_format.space_before = Pt(0)
             para.paragraph_format.space_after = Pt(0)
             arabic_idx = 3 if num_cols == 5 else 2
             if i == arabic_idx:
                 para.alignment = WD_ALIGN_PARAGRAPH.RIGHT
-            for run in para.runs:
-                if i == coptic_idx:
-                    set_run_font(run, COPTIC_FONT_NAME, size=Pt(5))
-                else:
+            if i != coptic_idx:
+                for run in para.runs:
                     run.font.size = Pt(5)
 
     if num_cols == 5:
