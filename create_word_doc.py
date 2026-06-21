@@ -1,3 +1,5 @@
+import re
+
 from docx import Document
 from docx.shared import Inches, Pt, Cm
 from docx.enum.section import WD_ORIENT
@@ -16,15 +18,19 @@ VESPER_MATINS_OUTPUT = 'vesper-matins_deacon_responses.docx'
 COPTIC_FONT_NAME = 'Avva_Shenouda'
 
 COPTIC_TO_AVVA_SHENOUDA = {
+    'Ϣ': '@',
     'ϣ': '2',
+    'Ϥ': '$',
     'ϥ': '4',
     'Ϧ': 'Q',
     'ϧ': 'q',
     'Ϩ': 'H',
     'ϩ': 'h',
+    'Ϫ': 'G',
     'ϫ': 'g',
     'Ϭ': 'S',
     'ϭ': 's',
+    'Ϯ': '%',
     'ϯ': '5',
     'Ⲁ': 'A',
     'ⲁ': 'a',
@@ -32,10 +38,11 @@ COPTIC_TO_AVVA_SHENOUDA = {
     'ⲃ': 'b',
     'Ⲅ': 'J',
     'ⲅ': 'j',
+    'Ⲇ': 'D',
     'ⲇ': 'd',
     'Ⲉ': 'E',
     'ⲉ': 'e',
-    'Ⲍ': 'z',
+    'Ⲍ': 'Z',
     'ⲍ': 'z',
     'Ⲏ': '#',
     'ⲏ': '3',
@@ -45,6 +52,7 @@ COPTIC_TO_AVVA_SHENOUDA = {
     'ⲓ': 'i',
     'Ⲕ': 'K',
     'ⲕ': 'k',
+    'Ⲗ': 'L',
     'ⲗ': 'l',
     'Ⲙ': 'M',
     'ⲙ': 'm',
@@ -56,6 +64,7 @@ COPTIC_TO_AVVA_SHENOUDA = {
     'ⲟ': 'o',
     'Ⲡ': 'P',
     'ⲡ': 'p',
+    'Ⲣ': 'R',
     'ⲣ': 'r',
     'Ⲥ': 'C',
     'ⲥ': 'c',
@@ -69,6 +78,7 @@ COPTIC_TO_AVVA_SHENOUDA = {
     'ⲭ': 'x',
     'Ⲯ': 'Y',
     'ⲯ': 'y',
+    'Ⲱ': 'W',
     'ⲱ': 'w',
 }
 # ============================================
@@ -99,8 +109,10 @@ def convert_coptic_text(text):
         if char in ('\u0300', '\u0305'):
             raise ValueError(f'Unexpected standalone combining mark in Coptic text: {char!r}')
 
-        if char in COPTIC_TO_AVVA_SHENOUDA:
-            legacy_char = COPTIC_TO_AVVA_SHENOUDA[char]
+        legacy_char = COPTIC_TO_AVVA_SHENOUDA.get(char)
+        if legacy_char is None:
+            legacy_char = COPTIC_TO_AVVA_SHENOUDA.get(char.lower())
+        if legacy_char is not None:
             if next_char == '\u0305':
                 converted.append('=')
                 converted.append(legacy_char)
@@ -122,7 +134,7 @@ def convert_coptic_text(text):
 
     return ''.join(converted)
 
-def add_coptic_runs(paragraph, text, size):
+def add_coptic_runs(paragraph, text, size, bold=False):
     """Render Coptic text into a paragraph using multiple runs.
 
     Coptic letters and their combining marks are emitted in the Avva Shenouda
@@ -138,13 +150,15 @@ def add_coptic_runs(paragraph, text, size):
     def flush_avva():
         if avva_buffer:
             run = paragraph.add_run(''.join(avva_buffer))
-            set_run_font(run, COPTIC_FONT_NAME, size=size)
+            set_run_font(run, COPTIC_FONT_NAME, size=size, bold=True if bold else None)
             avva_buffer.clear()
 
     def flush_plain():
         if plain_buffer:
             run = paragraph.add_run(''.join(plain_buffer))
             run.font.size = size
+            if bold:
+                run.font.bold = True
             plain_buffer.clear()
 
     index = 0
@@ -155,9 +169,11 @@ def add_coptic_runs(paragraph, text, size):
         if char in ('\u0300', '\u0305'):
             raise ValueError(f'Unexpected standalone combining mark in Coptic text: {char!r}')
 
-        if char in COPTIC_TO_AVVA_SHENOUDA:
+        legacy_char = COPTIC_TO_AVVA_SHENOUDA.get(char)
+        if legacy_char is None:
+            legacy_char = COPTIC_TO_AVVA_SHENOUDA.get(char.lower())
+        if legacy_char is not None:
             flush_plain()
-            legacy_char = COPTIC_TO_AVVA_SHENOUDA[char]
             if next_char == '\u0305':
                 avva_buffer.append('=')
                 avva_buffer.append(legacy_char)
@@ -180,6 +196,42 @@ def add_coptic_runs(paragraph, text, size):
 
     flush_avva()
     flush_plain()
+
+SPEAKER_LABEL_RE = re.compile(r'^\*\*(.+?)\*\*\s*')
+
+def add_cell_content(cell, cell_text, size, is_coptic=False, is_arabic=False):
+    """Render a table cell, supporting ``<br>`` line breaks and bold ``**Label:**`` prefixes.
+
+    Each ``<br>``-separated segment becomes its own paragraph in the cell. A
+    leading ``**Label:**`` marker (e.g. the speaker name) is emitted as a bold
+    run; the remaining text is rendered as Coptic (Avva Shenouda) runs when
+    ``is_coptic`` is set, otherwise as a plain run.
+    """
+    segments = cell_text.split('<br>')
+    for seg_index, segment in enumerate(segments):
+        segment = segment.strip()
+        if seg_index == 0:
+            para = cell.paragraphs[0]
+        else:
+            para = cell.add_paragraph()
+        para.paragraph_format.space_before = Pt(0)
+        para.paragraph_format.space_after = Pt(0)
+        if is_arabic:
+            para.alignment = WD_ALIGN_PARAGRAPH.RIGHT
+        match = SPEAKER_LABEL_RE.match(segment)
+        if match:
+            if is_coptic:
+                add_coptic_runs(para, match.group(1) + ' ', size, bold=True)
+            else:
+                label_run = para.add_run(match.group(1) + ' ')
+                label_run.font.size = size
+                label_run.font.bold = True
+            segment = segment[match.end():]
+        if is_coptic:
+            add_coptic_runs(para, segment, size)
+        else:
+            text_run = para.add_run(segment)
+            text_run.font.size = size
 
 def set_cell_shading(cell, color):
     """Set cell background color"""
@@ -239,27 +291,17 @@ def create_table_from_data(doc, title, rows, is_contents=False):
     prevent_row_break(table.rows[0])
     
     # Data rows
+    arabic_idx = 3 if num_cols == 5 else 2
     for row_data in rows:
         row = table.add_row()
         prevent_row_break(row)
         for i, cell_text in enumerate(row_data):
             cell = row.cells[i]
-            if i == coptic_idx:
-                para = cell.paragraphs[0]
-                add_coptic_runs(para, cell_text, Pt(5))
-            else:
-                cell.text = cell_text
-                para = cell.paragraphs[0]
-            # Reduce cell padding
-            para.paragraph_format.space_before = Pt(0)
-            para.paragraph_format.space_after = Pt(0)
-            # Right-align Arabic column (index 3 for 5-col, index 2 for 4-col)
-            arabic_idx = 3 if num_cols == 5 else 2
-            if i == arabic_idx:
-                para.alignment = WD_ALIGN_PARAGRAPH.RIGHT
-            if i != coptic_idx:
-                for run in para.runs:
-                    run.font.size = Pt(5)
+            add_cell_content(
+                cell, cell_text, Pt(5),
+                is_coptic=(i == coptic_idx),
+                is_arabic=(i == arabic_idx),
+            )
     
     # Set column widths - evenly distributed across all columns
     if num_cols == 5:
